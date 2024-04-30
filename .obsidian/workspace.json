@@ -11,8 +11,12 @@
             "id": "52be44e050f13926",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity/Cryptography Fundamentals.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CyberSecurity/Cryptography Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CyberSecurity/Cryptography Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CyberSecurity/Cryptography Fundamentals.md"
+              }
             }
           }
         ]
@@ -140,8 +148,10 @@
   },
   "active": "52be44e050f13926",
   "lastOpenFiles": [
-    "Cryptography Fundamentals.md",
+    "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
+    "CyberSecurity/Networks/Books/Network Attacking Expalantion.md",
     "CyberSecurity/Cryptography Fundamentals.md",
+    "Cryptography Fundamentals.md",
     "Semester 8/Screen shots/Screenshot 2024-02-24 015349.png",
     "Semester 8/Screen shots/Screenshot 2024-02-24 012749.png",
     "Semester 8/Screen shots/Pasted image 20240429065808.png",
@@ -158,9 +168,7 @@
     "CyberSecurity/Networks/OSI Layers/5- Network Layer.md",
     "CyberSecurity/Networks/OSI Layers/6- Data-Link Layer.md",
     "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
-    "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
     "CyberSecurity/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
-    "CyberSecurity/Networks/Books/Network Attacking Expalantion.md",
     "CyberSecurity/Networks/Terminologies of Computer Science.md",
     "CyberSecurity/Networks/OSI Layers",
     "CyberSecurity/Networks/Books",
@@ -182,7 +190,7 @@
     "Linux/Advanced Kali LINUX.md",
     "Linux/Basic LINUX.md",
     "Embedded C/Lecture 4.md",
-    "Embedded C/lec_3.md",
+    "Embedded C/Lecture 3.md",
     "Networks/OSI Layers/4- Transport Layer.md",
     "Linux",
     "Networks/OSI Layers",
