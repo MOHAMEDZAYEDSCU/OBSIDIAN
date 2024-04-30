@@ -8,27 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "214de19883a9dfbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Networks/Books/Network Attacking Expalantion.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "52be44e050f13926",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cryptography Fundamentals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networks/Books/Network Attacking Expalantion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networks/Books/Network Attacking Expalantion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networks/Books/Network Attacking Expalantion.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,9 +138,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "214de19883a9dfbb",
+  "active": "52be44e050f13926",
   "lastOpenFiles": [
     "Cryptography Fundamentals.md",
+    "CyberSecurity/Cryptography Fundamentals.md",
+    "Semester 8/Screen shots/Screenshot 2024-02-24 015349.png",
+    "Semester 8/Screen shots/Screenshot 2024-02-24 012749.png",
+    "Semester 8/Screen shots/Pasted image 20240429065808.png",
+    "Semester 8/Screen shots/Pasted image 20240428203912.png",
+    "Semester 8/Screen shots/Pasted image 20240418061157.png",
+    "Semester 8/Screen shots/Pasted image 20240418061051.png",
+    "Semester 8/Screen shots/Pasted image 20240418060641.png",
+    "Semester 8/Screen shots/Pasted image 20240412102940.png",
+    "Semester 8/Screen shots/Pasted image 20240411210306.png",
+    "Semester 8/Screen shots/Pasted image 20240224025550.png",
+    "Semester 8/Screen shots",
+    "CyberSecurity/Networks/OSI Layers/OSI Model.md",
+    "CyberSecurity/Networks/OSI Layers/7- Physical Layer.md",
+    "CyberSecurity/Networks/OSI Layers/5- Network Layer.md",
+    "CyberSecurity/Networks/OSI Layers/6- Data-Link Layer.md",
+    "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
+    "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
+    "CyberSecurity/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
+    "CyberSecurity/Networks/Books/Network Attacking Expalantion.md",
+    "CyberSecurity/Networks/Terminologies of Computer Science.md",
+    "CyberSecurity/Networks/OSI Layers",
+    "CyberSecurity/Networks/Books",
+    "CyberSecurity/Networks/Basic Network Categories.md",
+    "CyberSecurity/Networks",
+    "CyberSecurity/Linux/Basic LINUX.md",
+    "CyberSecurity/Linux/Advanced Kali LINUX.md",
+    "CyberSecurity/Linux",
+    "CyberSecurity",
+    "New folder",
     "Networks/Books/Network Attacking Expalantion.md",
     "Networks/Books",
     "Networks/Basic Network Categories.md",
@@ -168,43 +178,14 @@
     "Network Fundamentals.md",
     "Networks/Terminologies of Computer Science.md",
     "Networks/OSI Layers/OSI Model.md",
-    "Screen shots/Pasted image 20240429065808.png",
     "Networks/OSI Layers/1- Application Layer.md",
     "Linux/Advanced Kali LINUX.md",
     "Linux/Basic LINUX.md",
     "Embedded C/Lecture 4.md",
-    "Screen shots/Pasted image 20240428203912.png",
     "Embedded C/lec_3.md",
     "Networks/OSI Layers/4- Transport Layer.md",
-    "Networks/OSI Layers/7- Physical Layer.md",
-    "Networks/OSI Layers/6- Data-Link Layer.md",
-    "Networks/OSI Layers/2,3- Session & Presentation Layer.md",
-    "Semester 8/Database Lec 2.md",
-    "Networks/Network Fundamentals.md",
-    "Semester 8/Micro Lec 1.md",
-    "mahara tech.md",
-    "Networks/OSI Layers/5- Network Layer.md",
-    "Screen shots/Pasted image 20240418061157.png",
-    "Screen shots/Pasted image 20240418061051.png",
-    "Screen shots/Pasted image 20240418060641.png",
-    "testing flags.md",
-    "Linux/Ethical linux instruction.md",
-    "phone apps..md",
     "Linux",
-    "L.md",
     "Networks/OSI Layers",
-    "Screen shots/Pasted image 20240412102940.png",
-    "Networks/Presentation Layer.md",
-    "Screen shots/Pasted image 20240411210306.png",
-    "Networks",
-    "Untitled.canvas",
-    "Semester 8",
-    "New folder",
-    "Embedded C",
-    "Screen shots/13.png",
-    "Screen shots/12.png",
-    "Screen shots/8.png",
-    "Screen shots - Copy",
-    "Screen shots"
+    "Untitled.canvas"
   ]
 }
