@@ -28,9 +28,15 @@
 >>[!caution] Computationally Secure:
 >>- when the cost of decrypting the cipher exceed the exceed the value of information and the time required for breaking it exceeded the useful lifetime of the informations.
 
-
-
-
+>[!caution]- General:
+>>[!caution]- CryptoAnalysis:
+>>- it is about how the attacker will find the key based on the available information.
+>>- it has some knowledge about the encryption algorithm or the plain text.
+>>- depend on the key space ?? small or large.
+>>- 
+>
+>>[!caution]- Brute-Force attack:
+>>- trying all possible values in order to find the key.
 
 
 
