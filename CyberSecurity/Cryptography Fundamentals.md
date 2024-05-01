@@ -1,4 +1,6 @@
 
+## Intro:
+
 >[!success]- Key terms:
 >- plain text:
 >	- the data which we want to secure it to send it to another person
@@ -27,6 +29,8 @@
 >
 >>[!caution] Computationally Secure:
 >>- when the cost of decrypting the cipher exceed the exceed the value of information and the time required for breaking it exceeded the useful lifetime of the informations.
+
+## Finding the key by:
 
 >[!success]- CryptoAnalysis:
 >- it is about how the attacker will find the key based on the available information.
@@ -72,4 +76,15 @@
 >>- careful when you try it to not harm anyone without your purpose....
  
 
+## Classical Encryption Techniques:
+
+>[!caution]- Substitution Technique :
+>- replace the letters with other letters or symbols.
+>- shifting the languages characters by a specific shift is also type of it.
+>- simple and may be easily broken.
+>- known by both sender and receiver.
+
+>[!caution]- Transposition Technique:
+>- applying some sort or permutation to the letters of the word but it still have the same characters.
+>- it is like shift or reverse or make a specific permutation as preferred on the word without changing its characters.
 
