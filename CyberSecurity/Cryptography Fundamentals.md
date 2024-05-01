@@ -28,50 +28,48 @@
 >>[!caution] Computationally Secure:
 >>- when the cost of decrypting the cipher exceed the exceed the value of information and the time required for breaking it exceeded the useful lifetime of the informations.
 
->[!caution]- General:
->>[!success]- CryptoAnalysis:
->>- it is about how the attacker will find the key based on the available information.
->>- it has some knowledge about the encryption algorithm or the plain text.
->>- depend on the key space ?? small or large.
->>
->>>[!example]- Types of Attacks:
->>>- cipher text only:
->>>	- know the ciphertext only
->>>
->>>- known plaintext:
->>>	- ciphertext along with some info about plaintext. 
->>>
->>>- chosen plaintext:
->>>	- ciphertext with the encryption algorithm.
->>>
->>>- chosen ciphertext:
->>>	- ciphertext along with the decryption algorithm.
->>>
->>>- chosen text:
->>>	- have the plaintext with the ciphertext and try to predict the keys.
+>[!success]- CryptoAnalysis:
+>- it is about how the attacker will find the key based on the available information.
+>- it has some knowledge about the encryption algorithm or the plain text.
+>- depend on the key space ?? small or large.
 >
->>[!success]- Brute-Force attack:
->>- trying all possible values in order to find the key.
->>- Guessing.
->>- Exhaustive key search.
->>---
->>- you can prevent this type by using Captcha to ensure that there are no machine doing the brute force.
->>	- text based
->>	- recaptcha
->>	- mathematical
->>	- image based
->>	- 3d, and more ...
+>>[!example]- Types of Attacks:
+>>- cipher text only:
+>>	- know the ciphertext only
 >>
->
->>>[!example]- tools:
->>>- aircrack-ng
->>>- creack
->>>- hydra
->>>- john the ripper
->>>- hashcat
+>>- known plaintext:
+>>	- ciphertext along with some info about plaintext. 
 >>
->>>[!caution]- Important Notations:
->>>- careful when you try it to not harm anyone without your purpose....
+>>- chosen plaintext:
+>>	- ciphertext with the encryption algorithm.
+>>
+>>- chosen ciphertext:
+>>	- ciphertext along with the decryption algorithm.
+>>
+>>- chosen text:
+>>	- have the plaintext with the ciphertext and try to predict the keys.
 
+>[!success]- Brute-Force attack:
+>- trying all possible values in order to find the key.
+>- Guessing.
+>- Exhaustive key search.
+>---
+>- you can prevent this type by using Captcha to ensure that there are no machine doing the brute force.
+>	- text based
+>	- recaptcha
+>	- mathematical
+>	- image based
+>	- 3d, and more ...
+>
+>>[!example]- tools for making the brute-force:
+>>- aircrack-ng
+>>- creack
+>>- hydra
+>>- john the ripper
+>>- hashcat
+>---
+>>[!caution]- Important Notations:
+>>- careful when you try it to not harm anyone without your purpose....
+ 
 
 
