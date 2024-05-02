@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "20b75551c8e7266c",
@@ -147,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52be44e050f13926",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
-    "Pasted image 20240502185943.png",
+    "Attachments",
+    "Attachments/Pasted image 20240502185943.png",
     "CyberSecurity/Networks/Books/Network Attacking Explanation.md",
     "CyberSecurity/Cryptography Fundamentals.md",
     "Callouts.md",
@@ -168,7 +168,6 @@
     "Semester 8/Screen shots/Pasted image 20240418060641.png",
     "Semester 8/Screen shots/Pasted image 20240412102940.png",
     "Semester 8/Screen shots/Pasted image 20240411210306.png",
-    "Semester 8/Screen shots/Pasted image 20240224025550.png",
     "Semester 8/Screen shots",
     "CyberSecurity/Networks/OSI Layers/OSI Model.md",
     "CyberSecurity/Networks/OSI Layers/7- Physical Layer.md",
