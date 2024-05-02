@@ -1,4 +1,5 @@
 
+# Part 1:
 ## Intro:
 
 >[!success]- Key terms:
@@ -78,10 +79,13 @@
 ## Classical Encryption Techniques:
 
 >[!caution]- Substitution Technique :
+>- type of symmetric encryption -> the encryption key can also decrypt.
 >- replace the letters with other letters or symbols.
 >- shifting the languages characters by a specific shift is also type of it.
 >- simple and may be easily broken.
 >- known by both sender and receiver.
+>---
+>- difficult to be solved using brute-force, in english for exp, you have 26 characters and if you try to use all possible characters you will have 26! and it is a very large number.
 
 >[!caution]- Transposition Technique:
 >- applying some sort or permutation to the letters of the word but it still have the same characters.
@@ -97,10 +101,8 @@
 >- first you will make the reminder of m1 -> m1 % n1 then the result (Rs) will have the operation (Rs * Y1) % n1 = 1 which y1 is the smallest value achieve the equation.
 >- the value 1 may be change.
 
-==========================================
 
-## Part 2:
-
+# Part 2:
 ### Encoding:
 - converting the data to an ascii code to transmit it over a network, not meant to secure the data.
 
@@ -115,9 +117,9 @@
 > - Offers less space efficiency compared to Base64 but is more URL-friendly as it doesn't contain characters like '+' or '/'.
 > - Padding characters (=) are also added at the end to ensure the length is a multiple of 8.
 
-### Intro to encryption and hashing:
+### Encryption and Hashing:
 - {symmetric & asymmetric} encryption and hashing.
-- simple substitution ciphers - affine cipher - hill cipher.
+- ==simple substitution ciphers - affine cipher - hill cipher.==
 - RSA public key cryptosystem & hybrid encryption
 
 >[!caution]- Symmetric Encryption:
@@ -158,34 +160,19 @@
 >>>[!tip]- Message Digest(MD):
 >>>- was used but due to collisions(more than plain text having the same cipher text), now it is considered broken.
 
+### More Details for the previous:
+>[!success] block cipher:
+>- divide the plain text into strings, of ==fixed length== and encrypt one block at time.
 
+>[!success] Stream cipher:
+>- takes the blocks from previous operation and encrypt them.
+>- if the length of the cipher block is less than the block cipher, we do padding.
 
+>[!success] Padding:
+>- adding data to the beginning, middle or the end of the data.
+>- "ilovecrypto" => "ilovecrypto*****".
 
+>[!caution]- HILL Cipher:
+>- ![[Pasted image 20240502185943.png]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>[!]

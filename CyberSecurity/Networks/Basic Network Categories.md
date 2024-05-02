@@ -17,7 +17,7 @@
 
 
 
-# [[Network Attacking Expalantion|Network Attacking Explanation Book]]
+# [[Network Attacking Explanation|Network Attacking Explanation Book]]
 - 
 # TAG
 #categories
