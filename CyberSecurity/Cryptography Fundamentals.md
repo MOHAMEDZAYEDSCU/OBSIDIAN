@@ -85,7 +85,7 @@
 >- simple and may be easily broken.
 >- known by both sender and receiver.
 >---
->- difficult to be solved using brute-force, in english for exp, you have 26 characters and if you try to use all possible characters you will have 26! and it is a very large number.
+>- difficult to be solved using brute-force, in English alpha bits (for example), you have 26 characters and if you try to use all possible characters you will have 26! and it is a very large number.
 
 >[!caution]- Transposition Technique:
 >- applying some sort or permutation to the letters of the word but it still have the same characters.
@@ -143,6 +143,22 @@
 >>- ECC -> elliptical curve cryptography.
 >>- diffie-hellman exhange method.
 >>- El gamal cryptosystem
+>---
+>>[!bug]- RSA:
+>>- type of asymmetric encryption.
+>>
+>>>[!success]- Key generation:
+>>>- select 2 large prime numbers.
+>>>- compute n -> phi(n) = (q-1) * (p-1)
+>>>- select a random integer which is larger than 1 and smaller than **PHI**(the no.numbers which don't share any common divisors), and the GCD(e,PHI) = 1, so we can have the inverse of e
+>>>---
+>>>[!example] Example:
+>>>- ![[Pasted image 20240502232108.png]]
+>
+>>[!success]- Hybrid Encryption:
+>>- it combines symmetric and asymmetric encryption
+>>- for achieving security with speed.
+>>- it has one key for both encryption and decryption.
 
 >[!caution]- Hashing:
 >- one key for Hashing only without dehashing.
@@ -183,5 +199,7 @@
 >- and for decrypt the matrix hill cypher you do the same previous operation with the decryption key -> asymmetric !?!
 >	- ![[Pasted image 20240502222340.png]]
 
->[!caution]- PHI Function:
->- 
+>[!caution]- PHI Function (فاي):
+>- how many numbers are not sharing GCD to a specific number except 1.
+>- لا يوجد رقم مشترك بين الرقمين يقبلا القسمه عليه
+

@@ -1,8 +1,4 @@
 
-
-
-
-
 ## Network Exploration and Security:
 
 >[!caution]- Net Cat:
@@ -140,6 +136,10 @@
 >[!bug]- mkpasswd:
 >- for generating a difficult password !!.
 
+>[!tip]- &
+>- run a command in the background?
+>	- ./my_script.sh &
+
 
 ## File Encryption using gpg:
 
@@ -152,7 +152,6 @@
  >>[!caution] Decryption:
  >>- gpg --no-symkey-cache {filename}.
  >>	- for decryption.
-
 
 ## mapping:
 

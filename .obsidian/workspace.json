@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Cryptography Fundamentals.md",
-                "mode": "source",
+                "file": "CyberSecurity/Linux/Advanced Kali LINUX.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity/Cryptography Fundamentals.md",
+                "file": "CyberSecurity/Linux/Advanced Kali LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity/Cryptography Fundamentals.md",
+                "file": "CyberSecurity/Linux/Advanced Kali LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity/Cryptography Fundamentals.md"
+                "file": "CyberSecurity/Linux/Advanced Kali LINUX.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "52be44e050f13926",
   "lastOpenFiles": [
+    "CyberSecurity/Cryptography Fundamentals.md",
+    "Pasted image 20240502232108.png",
     "Screen shots/Pasted image 20240502222340.png",
     "Screen shots/Pasted image 20240502221813.png",
     "Screen shots/Pasted image 20240502191502.png",
@@ -158,10 +160,7 @@
     "Screen shots/Screenshot 2024-02-24 012749.png",
     "Screen shots/Pasted image 20240429065808.png",
     "Screen shots/Pasted image 20240428203912.png",
-    "Screen shots/Pasted image 20240418061157.png",
-    "Screen shots/Pasted image 20240418061051.png",
     "Screen shots",
-    "CyberSecurity/Cryptography Fundamentals.md",
     "Attachments",
     "CyberSecurity/Networks/Books/Network Attacking Explanation.md",
     "Callouts.md",
