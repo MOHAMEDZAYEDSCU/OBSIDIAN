@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Linux/Basic LINUX.md",
+                "file": "CyberSecurity/Cryptography Fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "20b75551c8e7266c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity/Linux/Basic LINUX.md",
+                "file": "CyberSecurity/Cryptography Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity/Linux/Basic LINUX.md",
+                "file": "CyberSecurity/Cryptography Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity/Linux/Basic LINUX.md"
+                "file": "CyberSecurity/Cryptography Fundamentals.md"
               }
             }
           }
@@ -148,8 +149,10 @@
   },
   "active": "52be44e050f13926",
   "lastOpenFiles": [
-    "CyberSecurity/Linux/Advanced Kali LINUX.md",
+    "Callouts.md",
     "CyberSecurity/Cryptography Fundamentals.md",
+    "CyberSecurity/Linux/Basic LINUX.md",
+    "CyberSecurity/Linux/Advanced Kali LINUX.md",
     "Untitled.canvas",
     "Untitled.md",
     "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
@@ -177,14 +180,12 @@
     "CyberSecurity/Networks/Books",
     "CyberSecurity/Networks/Basic Network Categories.md",
     "CyberSecurity/Networks",
-    "CyberSecurity/Linux/Basic LINUX.md",
     "CyberSecurity/Linux",
     "CyberSecurity",
     "New folder",
     "Networks/Books/Network Attacking Expalantion.md",
     "Networks/Books",
     "Networks/Basic Network Categories.md",
-    "Callouts.md",
     "Network Fundamentals.md",
     "Networks/Terminologies of Computer Science.md",
     "Networks/OSI Layers/OSI Model.md",

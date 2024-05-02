@@ -73,9 +73,8 @@
 >>- hashcat
 >---
 >>[!caution]- Important Notations:
->>- careful when you try it to not harm anyone without your purpose....
+>>- careful when you try it to not harm anyone without purpose, the brute force file may contain something like drop or delete a table in the database or the whole database.
  
-
 ## Classical Encryption Techniques:
 
 >[!caution]- Substitution Technique :
@@ -87,4 +86,14 @@
 >[!caution]- Transposition Technique:
 >- applying some sort or permutation to the letters of the word but it still have the same characters.
 >- it is like shift or reverse or make a specific permutation as preferred on the word without changing its characters.
+
+>[!caution]- The greatest common divisor (GCD):
+>- you make modulus to the numbers then the small number with the result of the pervious operation until the % = 0, so the result will be the small number of the previous operation.
+
+>[!caution]- Chinese remainder theorem (CRT):
+>- **y1 * m1 ~= 1 % n1**.
+>- you are trying to find the smallest value of y1 to make the previous theory.
+>---
+>- first you will make the reminder of m1 -> m1 % n1 then the result (Rs) will have the operation (Rs * Y1) % n1 = 1 which y1 is the smallest value achieve the equation.
+>- the value 1 may be change.
 
