@@ -88,3 +88,4 @@
 >- applying some sort or permutation to the letters of the word but it still have the same characters.
 >- it is like shift or reverse or make a specific permutation as preferred on the word without changing its characters.
 
+continue .
