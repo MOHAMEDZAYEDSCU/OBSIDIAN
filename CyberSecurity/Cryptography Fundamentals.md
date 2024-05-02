@@ -101,7 +101,7 @@
 
 ## Part 2:
 
-### encoding:
+### Encoding:
 - converting the data to an ascii code to transmit it over a network, not meant to secure the data.
 
 >[!caution]- Base64:
@@ -115,12 +115,11 @@
 > - Offers less space efficiency compared to Base64 but is more URL-friendly as it doesn't contain characters like '+' or '/'.
 > - Padding characters (=) are also added at the end to ensure the length is a multiple of 8.
 
-### Intro:
-- symmetric and asymmetric encryption and hashing.
+### Intro to encryption and hashing:
+- {symmetric & asymmetric} encryption and hashing.
 - simple substitution ciphers - affine cipher - hill cipher.
 - RSA public key cryptosystem & hybrid encryption
 
-### Symmetric & Asymmetric & Hashing:
 >[!caution]- Symmetric Encryption:
 >- one key used to both encrypt and decrypt the message.
 >- the encryption maybe E: KxM -> C
@@ -129,11 +128,10 @@
 >>[!example] Types:
 >>- AES
 >>- DES
->>- RC5,TC6
+>>- RC5,RC6
 >>- classical ciphers
 
-
->[!caution] Asymmetric Encryption:
+>[!caution]- Asymmetric Encryption:
 >- the receiver generate both keys for encryption and decryption and make the encryption key public.
 >- E: K-pub x M -> C => for encryption
 >- D: K-pri x C -> M => decryption.
@@ -143,6 +141,22 @@
 >>- ECC -> elliptical curve cryptography.
 >>- diffie-hellman exhange method.
 >>- El gamal cryptosystem
+
+>[!caution]- Hashing:
+>- one key for Hashing only without dehashing.
+>- used for passwords by **comparison** the entered password after hashing with the existing one in the database which is also hashed.
+>
+>>[!danger]- Types:
+>>
+>>>[!tip]- secure hashing algorithm(SHA):
+>>>- SHA-1 -> not used because you may find 2 different words having the same hashing.
+>>>- SHA-2 ->
+>>>- SHA-3 ->
+>>>---
+>>>- SHA-256 ->  the most commonly used algorithm.
+>>---
+>>>[!tip]- Message Digest(MD):
+>>>- was used but due to collisions(more than plain text having the same cipher text), now it is considered broken.
 
 
 
