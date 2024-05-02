@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Cryptography Fundamentals.md",
+                "file": "CyberSecurity/Linux/Basic LINUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "20b75551c8e7266c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity/Cryptography Fundamentals.md",
+                "file": "CyberSecurity/Linux/Basic LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity/Cryptography Fundamentals.md",
+                "file": "CyberSecurity/Linux/Basic LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity/Cryptography Fundamentals.md"
+                "file": "CyberSecurity/Linux/Basic LINUX.md"
               }
             }
           }
@@ -149,9 +148,12 @@
   },
   "active": "52be44e050f13926",
   "lastOpenFiles": [
+    "CyberSecurity/Linux/Advanced Kali LINUX.md",
+    "CyberSecurity/Cryptography Fundamentals.md",
+    "Untitled.canvas",
+    "Untitled.md",
     "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
     "CyberSecurity/Networks/Books/Network Attacking Expalantion.md",
-    "CyberSecurity/Cryptography Fundamentals.md",
     "Cryptography Fundamentals.md",
     "Semester 8/Screen shots/Screenshot 2024-02-24 015349.png",
     "Semester 8/Screen shots/Screenshot 2024-02-24 012749.png",
@@ -176,7 +178,6 @@
     "CyberSecurity/Networks/Basic Network Categories.md",
     "CyberSecurity/Networks",
     "CyberSecurity/Linux/Basic LINUX.md",
-    "CyberSecurity/Linux/Advanced Kali LINUX.md",
     "CyberSecurity/Linux",
     "CyberSecurity",
     "New folder",
@@ -191,10 +192,7 @@
     "Linux/Advanced Kali LINUX.md",
     "Linux/Basic LINUX.md",
     "Embedded C/Lecture 4.md",
-    "Embedded C/Lecture 3.md",
-    "Networks/OSI Layers/4- Transport Layer.md",
     "Linux",
-    "Networks/OSI Layers",
-    "Untitled.canvas"
+    "Networks/OSI Layers"
   ]
 }
