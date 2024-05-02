@@ -97,3 +97,81 @@
 >- first you will make the reminder of m1 -> m1 % n1 then the result (Rs) will have the operation (Rs * Y1) % n1 = 1 which y1 is the smallest value achieve the equation.
 >- the value 1 may be change.
 
+==========================================
+
+## Part 2:
+
+### encoding:
+- converting the data to an ascii code to transmit it over a network, not meant to secure the data.
+
+>[!caution]- Base64:
+> - Uses a 64-character set consisting of A-Z, a-z, 0-9, and two additional characters (usually + and /).
+> - Each character represents 6 bits of data.
+> - Commonly used in email attachments, MIME types, and encoding binary data in URLs.
+
+>[!caution]- Base32:
+>- Uses a 32-character set consisting of A-Z and 2-7 (or sometimes 0-9 and A-V).
+> - Each character represents 5 bits of data.
+> - Offers less space efficiency compared to Base64 but is more URL-friendly as it doesn't contain characters like '+' or '/'.
+> - Padding characters (=) are also added at the end to ensure the length is a multiple of 8.
+
+### Intro:
+- symmetric and asymmetric encryption and hashing.
+- simple substitution ciphers - affine cipher - hill cipher.
+- RSA public key cryptosystem & hybrid encryption
+
+### Symmetric & Asymmetric & Hashing:
+>[!caution]- Symmetric Encryption:
+>- one key used to both encrypt and decrypt the message.
+>- the encryption maybe E: KxM -> C
+>- the decryption D: KxC->M
+>- C -> cipher text, D -> decryption algorithm, K -?> the key, M the data !
+>>[!example] Types:
+>>- AES
+>>- DES
+>>- RC5,TC6
+>>- classical ciphers
+
+
+>[!caution] Asymmetric Encryption:
+>- the receiver generate both keys for encryption and decryption and make the encryption key public.
+>- E: K-pub x M -> C => for encryption
+>- D: K-pri x C -> M => decryption.
+>
+>>[!example] Types:
+>>- RSA -> rivest shamir adleman
+>>- ECC -> elliptical curve cryptography.
+>>- diffie-hellman exhange method.
+>>- El gamal cryptosystem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
