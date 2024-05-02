@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberSecurity/Linux/Advanced Kali LINUX.md",
+                "file": "CyberSecurity/Networks/OSI Layers/5- Network Layer.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c597cbe600fba64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CyberSecurity/Web Application Security THM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CyberSecurity/Linux/Advanced Kali LINUX.md",
+                "file": "CyberSecurity/Web Application Security THM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberSecurity/Linux/Advanced Kali LINUX.md",
+                "file": "CyberSecurity/Web Application Security THM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberSecurity/Linux/Advanced Kali LINUX.md"
+                "file": "CyberSecurity/Web Application Security THM.md"
               }
             }
           }
@@ -146,15 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52be44e050f13926",
+  "active": "1c597cbe600fba64",
   "lastOpenFiles": [
+    "Screen shots/Pasted image 20240503005417.png",
+    "CyberSecurity/Web Application Security THM.md",
+    "CyberSecurity/Networks/OSI Layers/5- Network Layer.md",
+    "CyberSecurity/Linux/Advanced Kali LINUX.md",
     "CyberSecurity/Cryptography Fundamentals.md",
-    "Pasted image 20240502232108.png",
+    "Screen shots/Pasted image 20240502232108.png",
     "Screen shots/Pasted image 20240502222340.png",
     "Screen shots/Pasted image 20240502221813.png",
     "Screen shots/Pasted image 20240502191502.png",
     "Screen shots/Pasted image 20240502191006.png",
-    "CyberSecurity/Networks/OSI Layers/5- Network Layer.md",
     "Screen shots/Pasted image 20240502185943.png",
     "Screen shots/Screenshot 2024-02-24 015349.png",
     "Screen shots/Screenshot 2024-02-24 012749.png",
@@ -165,9 +181,7 @@
     "CyberSecurity/Networks/Books/Network Attacking Explanation.md",
     "Callouts.md",
     "CyberSecurity/Linux/Basic LINUX.md",
-    "CyberSecurity/Linux/Advanced Kali LINUX.md",
     "Untitled.canvas",
-    "Untitled.md",
     "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
     "Cryptography Fundamentals.md",
     "Semester 8/Screen shots",
