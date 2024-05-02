@@ -160,7 +160,7 @@
 >>>[!tip]- Message Digest(MD):
 >>>- was used but due to collisions(more than plain text having the same cipher text), now it is considered broken.
 
-### More Details for the previous:
+### More Details about the previous:
 >[!success] block cipher:
 >- divide the plain text into strings, of ==fixed length== and encrypt one block at time.
 
@@ -174,5 +174,14 @@
 
 >[!caution]- HILL Cipher:
 >- ![[Pasted image 20240502185943.png]]
+>	- it is finding the order (a=0, b=1, ...) of the character then make the operation (order x first num + second num) % possibilities (here it is characters number).
+>- ![[Pasted image 20240502191006.png]]
+>- ![[Pasted image 20240502191502.png]]
+>- Matrix Hell cipher:
+>	- ![[Pasted image 20240502221813.png]]
+>	- (الصف الاول ف العمود الاول , الصف الاول ف العمود الثاني)
+>- and for decrypt the matrix hill cypher you do the same previous operation with the decryption key -> asymmetric !?!
+>	- ![[Pasted image 20240502222340.png]]
 
->[!]
+>[!caution]- PHI Function:
+>- 
