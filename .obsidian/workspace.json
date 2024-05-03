@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           }
@@ -174,7 +174,7 @@
   "active": "a85765ebaf2ec9c3",
   "lastOpenFiles": [
     "linkedin post.md",
-    "README.md.md",
+    "README.md",
     "Screen shots/CAT_LOGO_SVG .png",
     "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
     "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
