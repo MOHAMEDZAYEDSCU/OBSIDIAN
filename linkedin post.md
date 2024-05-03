@@ -41,9 +41,11 @@ Here's an overview of the topics I covered:
 3. **Cryptography fundamentals:**
 	- The difference between (encoding, encryption and hashing) and an examples on them.
 
-4. **Validation of Skills:**
+4. **Bash Scripting:** 
 
-	- **Networking Skills Certification:** I have earned a networking skill certification from Mahara-Tech, validating my proficiency in this area.
+5. **Validation of Skills:**
+
+	- **Networking Skills Certification:** I have earned a networking skill certification and badge from Mahara-Tech, validating my proficiency in this area.
     
 	- **TryHackMe Challenges:** I further solidified my knowledge by solving various TryHackMe rooms related to networking, Linux, and cryptography.
 

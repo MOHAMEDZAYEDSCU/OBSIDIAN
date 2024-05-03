@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a85765ebaf2ec9c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin post.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin post.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin post.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59b14501a7495d96",
+  "active": "a85765ebaf2ec9c3",
   "lastOpenFiles": [
-    "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
     "linkedin post.md",
+    "README.md.md",
+    "Screen shots/CAT_LOGO_SVG .png",
+    "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
     "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
     "CyberSecurity/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "CyberSecurity/Networks/OSI Layers/5- Network Layer.md",
@@ -186,7 +200,6 @@
     "Screen shots/Pasted image 20240502191006.png",
     "Screen shots/Pasted image 20240502185943.png",
     "Screen shots/Screenshot 2024-02-24 015349.png",
-    "Screen shots/Screenshot 2024-02-24 012749.png",
     "Screen shots",
     "Attachments",
     "Untitled.canvas",
@@ -205,8 +218,6 @@
     "Networks/Terminologies of Computer Science.md",
     "Networks/OSI Layers/OSI Model.md",
     "Networks/OSI Layers/1- Application Layer.md",
-    "Linux/Advanced Kali LINUX.md",
-    "Linux/Basic LINUX.md",
-    "Embedded C/Lecture 4.md"
+    "Linux/Advanced Kali LINUX.md"
   ]
 }
