@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52be44e050f13926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "59b14501a7495d96",
             "type": "leaf",
             "state": {
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a85765ebaf2ec9c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "linkedin post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "linkedin post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "linkedin post.md"
               }
             }
           }
@@ -171,11 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85765ebaf2ec9c3",
+  "active": "59b14501a7495d96",
   "lastOpenFiles": [
-    "linkedin post.md",
+    "Web Application Security THM.md",
+    "Cryptography Fundamentals.md",
+    "Screen shots/Screenshot 2024-02-24 015349.png",
+    "Screen shots/Screenshot 2024-02-24 012749.png",
+    "Screen shots/Pasted image 20240503005417.png",
+    "Screen shots/Pasted image 20240502232108.png",
+    "Screen shots/Pasted image 20240502222340.png",
+    "Screen shots/Pasted image 20240502221813.png",
+    "Screen shots/Pasted image 20240502191502.png",
+    "Screen shots/Pasted image 20240502191006.png",
+    "Screen shots/Pasted image 20240502185943.png",
+    "Screen shots/Pasted image 20240429065808.png",
+    "Screen shots",
+    "Networks/OSI Layers/OSI Model.md",
+    "Networks/OSI Layers/7- Physical Layer.md",
+    "Networks/OSI Layers/5- Network Layer.md",
+    "Networks/OSI Layers/6- Data-Link Layer.md",
+    "Networks/OSI Layers/4- Transport Layer.md",
+    "Networks/OSI Layers/1- Application Layer.md",
+    "Networks/OSI Layers/2,3- Session & Presentation Layer.md",
+    "Networks/Books/Network Attacking Explanation.md",
+    "Networks/Terminologies of Computer Science.md",
+    "Networks/OSI Layers",
+    "Networks/Books",
+    "Networks/Basic Network Categories.md",
+    "Networks",
+    "Linux/Basic LINUX.md",
+    "Linux/Advanced Kali LINUX.md",
+    "Linux",
     "README.md",
-    "Screen shots/CAT_LOGO_SVG .png",
+    "linkedin post.md",
     "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
     "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
     "CyberSecurity/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
@@ -186,38 +189,11 @@
     "CyberSecurity/Linux/Basic LINUX.md",
     "CyberSecurity/Networks/OSI Layers/6- Data-Link Layer.md",
     "CyberSecurity/Networks/OSI Layers/7- Physical Layer.md",
-    "CyberSecurity/Networks/Books/Network Attacking Explanation.md",
-    "CyberSecurity/Networks/Terminologies of Computer Science.md",
-    "CyberSecurity/Networks/Basic Network Categories.md",
-    "Callouts.md",
-    "Screen shots/4.png",
-    "CyberSecurity/Networks/OSI Layers/OSI Model.md",
-    "Screen shots/Pasted image 20240503005417.png",
-    "Screen shots/Pasted image 20240502232108.png",
-    "Screen shots/Pasted image 20240502222340.png",
-    "Screen shots/Pasted image 20240502221813.png",
-    "Screen shots/Pasted image 20240502191502.png",
-    "Screen shots/Pasted image 20240502191006.png",
-    "Screen shots/Pasted image 20240502185943.png",
-    "Screen shots/Screenshot 2024-02-24 015349.png",
-    "Screen shots",
+    "CyberSecurity/Screen shots",
     "Attachments",
     "Untitled.canvas",
-    "Cryptography Fundamentals.md",
     "Semester 8/Screen shots",
     "CyberSecurity/Networks/OSI Layers",
-    "CyberSecurity/Networks/Books",
-    "CyberSecurity/Networks",
-    "CyberSecurity/Linux",
-    "CyberSecurity",
-    "New folder",
-    "Networks/Books/Network Attacking Expalantion.md",
-    "Networks/Books",
-    "Networks/Basic Network Categories.md",
-    "Network Fundamentals.md",
-    "Networks/Terminologies of Computer Science.md",
-    "Networks/OSI Layers/OSI Model.md",
-    "Networks/OSI Layers/1- Application Layer.md",
-    "Linux/Advanced Kali LINUX.md"
+    "CyberSecurity/Networks/Books"
   ]
 }
