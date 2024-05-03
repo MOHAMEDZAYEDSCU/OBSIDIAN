@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linkedin post.md",
-                "mode": "source",
+                "file": "Networks/OSI Layers/5- Network Layer.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linkedin post.md",
+                "file": "Networks/OSI Layers/5- Network Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linkedin post.md",
+                "file": "Networks/OSI Layers/5- Network Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linkedin post.md"
+                "file": "Networks/OSI Layers/5- Network Layer.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "59b14501a7495d96",
   "lastOpenFiles": [
+    "linkedin post.md",
     "Web Application Security THM.md",
     "Cryptography Fundamentals.md",
     "Screen shots/Screenshot 2024-02-24 015349.png",
@@ -178,7 +179,6 @@
     "Linux/Advanced Kali LINUX.md",
     "Linux",
     "README.md",
-    "linkedin post.md",
     "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
     "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",
     "CyberSecurity/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
