@@ -33,3 +33,6 @@
 >	- **4.** Reporting
 >
 
+>[!success]- OWASP(open web application security project)
+>- write reports stating to the top 10 vulnerabilities for web applications
+
