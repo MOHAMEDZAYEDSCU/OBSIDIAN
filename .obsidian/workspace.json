@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "59b14501a7495d96",
+            "id": "77fab9aeacfa3067",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maharatech/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b441c3a021d0ee5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8a00cf9e93f3663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tryhackme/PT_Methodology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "20b75551c8e7266c",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tryhackme/PT_Methodology.md",
+                "file": "Maharatech/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tryhackme/PT_Methodology.md",
+                "file": "Maharatech/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tryhackme/PT_Methodology.md"
+                "file": "Maharatech/Python.md"
               }
             }
           }
@@ -159,17 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8a00cf9e93f3663",
+  "active": "77fab9aeacfa3067",
   "lastOpenFiles": [
+    "Pasted image 20240530011239.png",
     "Callouts.md",
-    "Tryhackme/PT_Methodology.md",
-    "Untitled",
-    "Tryhackme",
+    "Maharatech/Python.md",
+    "Maharatech",
     "Web Application Security THM.md",
-    "Cryptography",
-    "Cryptography/Cryptography Fundamentals.md",
-    "README.md",
     "Networks/OSI Layers/5- Network Layer.md",
+    "Cryptography/Cryptography Fundamentals.md",
+    "Tryhackme/PT_Methodology.md",
+    "Networks/Terminologies of Computer Science.md",
+    "Tryhackme",
+    "Cryptography",
+    "README.md",
     "Networks/OSI Layers/6- Data-Link Layer.md",
     "linkedin post.md",
     "Screen shots/Screenshot 2024-02-24 015349.png",
@@ -189,7 +192,6 @@
     "Networks/OSI Layers/1- Application Layer.md",
     "Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "Networks/Books/Network Attacking Explanation.md",
-    "Networks/Terminologies of Computer Science.md",
     "Networks/OSI Layers",
     "Networks/Books",
     "Networks/Basic Network Categories.md",
@@ -203,8 +205,6 @@
     "CyberSecurity/Networks/OSI Layers/5- Network Layer.md",
     "CyberSecurity/Web Application Security THM.md",
     "CyberSecurity/Cryptography Fundamentals.md",
-    "CyberSecurity/Linux/Advanced Kali LINUX.md",
-    "CyberSecurity/Linux/Basic LINUX.md",
     "CyberSecurity/Screen shots",
     "Attachments",
     "Untitled.canvas"

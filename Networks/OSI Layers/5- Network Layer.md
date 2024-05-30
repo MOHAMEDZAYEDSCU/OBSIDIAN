@@ -49,6 +49,8 @@
 
 >[!example]- IPv6:
 >- in the future
+>- 128 bits - 8 sections
+>- in hexadecimal 
 
 
 ## Reserved Addresses:
