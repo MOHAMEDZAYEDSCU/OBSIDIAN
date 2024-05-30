@@ -36,9 +36,16 @@
 ## Syntax:
 
 >[!tip]- TIPS:
->- python has no command for declaring a variable.
->- the type automatically assign to the variable after assign a value to it without specifying. 
->- as a part of a function, you must be shifted from the header.
+>- No need to define a datatype for any variable.
+>
+>- the type automatically assign to the variable after assign a value to it without specifying.
+>
+>- the body of the function must be shifted from the header to the right >>.
+>
+>- you can make a function in anywhere and it wouldn't be executed until you call it.
+>
+>
+>
 >- ==#== for comments and there are no multi lines comments, but you can use ``` your comments ``` and the python will ignore it while compilation so technically it is comment ...!!
 
 >[!todo]- Data Types & Casting & Assigning Values:
@@ -83,7 +90,6 @@
 >>- x = input("comment you want")
 >>	- the input always be a string, so we need casting.
 
-
 >[!caution]- Conditions:
 >
 >>[!help] if:
@@ -106,3 +112,15 @@
 >---
 >>- 
 
+>[!caution]- Functions:
+>- you can use a global variable name inside the function and assign a new value to it as local one without affecting the global variable...
+>- use (global v) to change the value of the global variable inside function.
+>---
+>- def name():
+>     - this is the prototype header of a function in python
+>     - you need to put ' : ' in the end.
+>     - always use def.
+>     - ___the function body is shifted to the right >> than the header, instead of {} in C++__.
+> 
+>---
+>
