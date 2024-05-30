@@ -103,10 +103,22 @@
 >>	- you need to make a tap for the function body. instead of the previous underline. it is important that the function body be shifted than the head of the condition.
 >>	- you need to put ' : ' in the end of the condition.
 
->[!success]- Lists & Arrays:
->- list = [3 , 4 , 5]
->	- now this is a list of 3 component.
->	- the iteration start form 0
+>[!success]- Lists & Tuples:
+>>[!tip]- List:
+>>- you can modify and change elements after creating it.
+>>- defined using {}
+>>---
+>>- list = [3 , 4 , 5]
+>>	- now this is a list of 3 component.
+>>	- the iteration start form 0.
+>---
+>>[!todo]- Tuple:
+>>- you cannot change or modify the elements after creating it.
+>>- defined using ()
+>>- more memory efficient and faster.
+>>---
+>>- tuple(1, 2, 3)
+>>	- tuple of 3 component
 
 >[!Failure]- Loops:
 >
@@ -116,7 +128,7 @@
 >>	- you declare the variable in for loop and it's value depend on the second part of the for loop variable.
 >>		- for example: 
 >>			- if we put a list, the {i} will have all the values in the list, strings, character, int ,....
->>			- if we use range(5), {i} will have all values from 0 to 4, (5-1)
+>>			- if we use range(5), {i} will have all values from 0 to 4,   (5 - 1)
 >>			- if we use one string, {i} will walk through its characters and will have each character value.
 >---
 >---
@@ -137,7 +149,9 @@
 >>	- range (2, 30, 3):
 >>		- from 2 to 30 and increment by 3 each time.
 >>---
->>- 
+>>- pass
+>>	- for loop cannot be empty so we use pass in case of non usage of the for loop.
+>>---
 
 >[!caution]- Functions:
 >- you can use a global variable name inside the function and assign a new value to it as local one without affecting the global variable...
@@ -150,4 +164,5 @@
 >     - __the function body is shifted to the right >> than the header, instead of {} in C++__.
 > 
 >----
->
+>- 
+
