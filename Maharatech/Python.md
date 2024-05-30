@@ -63,7 +63,12 @@
 >>- x = y = z = "Potato"
 >>	- for assign the same value to all variables, you need to use =.
 >>- you can extract values form a list and store it in variables like this:
->>	- ![[Pasted image 20240530011239.png]]
+>>	![[Pasted image 20240530011239.png]]
+>>---
+>>- global (v):
+>>	- for calling the global variable by reference in a local function.
+>>	- changing the global variable value.
+>>- 
 
 >[!danger]- Print & Scan:
 >- print("the text you want to print..")
@@ -73,7 +78,7 @@
 >- print("the comment", variable)
 >	- for printing the comment then the variable.
 >---
->- print(f"your comment and {argument} for argument")
+>- print(f"your comment and {variable name} to print them")
 >	- using f is instead of .format() function
 >
 >- print("your comment with {}".format(variable))
@@ -99,28 +104,50 @@
 >>	- you need to put ' : ' in the end of the condition.
 
 >[!success]- Lists & Arrays:
->- Array = [3 , 4 , 5]
+>- list = [3 , 4 , 5]
 >	- now this is a list of 3 component.
 >	- the iteration start form 0
 
 >[!Failure]- Loops:
 >
 >>[!caution]- For:
->>- for [iteration variable name] in [lists, array of char, range(num)] : 
+>>- for [iteration variable name] in [lists, array of char, range(num)] ==:==  
 >>	- you can use multiple iteration variables.
->>	- you declare the variable in for loop and it has a default value = 0.
+>>	- you declare the variable in for loop and it's value depend on the second part of the for loop variable.
+>>		- for example: 
+>>			- if we put a list, the {i} will have all the values in the list, strings, character, int ,....
+>>			- if we use range(5), {i} will have all values from 0 to 4, (5-1)
+>>			- if we use one string, {i} will walk through its characters and will have each character value.
 >---
+>---
+>>[!tip]- Additional Conditions:
+>>- continue
+>>	- for skip the current iteration and begin from the next one.
+>>---
+>>- break
+>>	- to stop the loop.
+>>	- just type it in a line.
+>>---
+>>- range()
+>>	- a function return sequence of numbers, starting from 0 by default, and increments by 1 (by default), and ends at a specified number.
+>>	- range (6):
+>>		- from 0 to 5
+>>	- range (2,8):
+>>		- from 2 to 7
+>>	- range (2, 30, 3):
+>>		- from 2 to 30 and increment by 3 each time.
+>>---
 >>- 
 
 >[!caution]- Functions:
 >- you can use a global variable name inside the function and assign a new value to it as local one without affecting the global variable...
->- use (global v) to change the value of the global variable inside function.
->---
->- def name():
+>- use (global var) to change the value of the global variable inside function.
+>----
+>- def name(argument):
 >     - this is the prototype header of a function in python
->     - you need to put ' : ' in the end.
+>     - ==you need to put ' : ' in the end.==
 >     - always use def.
->     - ___the function body is shifted to the right >> than the header, instead of {} in C++__.
+>     - __the function body is shifted to the right >> than the header, instead of {} in C++__.
 > 
->---
+>----
 >
