@@ -72,6 +72,14 @@
 >		- 5j
 >		- -5j
 >---
+>>[!tip]- Casting:
+>>- converting datatypes to another, str, int, float
+>>----
+>>- str(var):
+>>	- for converting the var into str
+>>----
+>>- and so on for int & float
+>---
 >>[!caution]- Different types for assigning values:
 >>- x, y, z = 3, 4, 5
 >>	- you can define variables in one line.
