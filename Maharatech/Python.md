@@ -49,7 +49,7 @@
 >- ==#== for comments and there are no multi lines comments, but you can use ``` your comments ``` and the python will ignore it while compilation so technically it is comment ...!!
 
 >[!todo]- Data Types & Casting & Assigning Values:
->- int, float, tuple, string, mapping, boolean, dictionary, list, data, ....
+>- int, float, tuple, string, mapping, boolean, dictionary, list, data, complex ....
 >	- int(v) -> for casting to int, the string should be number
 >	- str(v) -> converting v into string.
 >---
@@ -57,18 +57,35 @@
 >	- a function for knowing the data type.
 >	- can be used inside the print() function
 >---
+>- float:
+>	- for indicating power of 10
+>		- 5e2          ->         5*10^2 = 5*100
+>		- 5E2
+>		- -32e20
+>	- for indicating fractions
+>		- 53.21
+>		- -4.2
+>---
+>- complex:
+>	- for complex number, r + j
+>		- 3 + 2j
+>		- 5j
+>		- -5j
+>---
 >>[!caution]- Different types for assigning values:
 >>- x, y, z = 3, 4, 5
 >>	- you can define variables in one line.
+>>----
 >>- x = y = z = "Potato"
 >>	- for assign the same value to all variables, you need to use =.
 >>- you can extract values form a list and store it in variables like this:
 >>	![[Pasted image 20240530011239.png]]
->>---
->>- global (v):
+>>----
+>>- global (var):
 >>	- for calling the global variable by reference in a local function.
 >>	- changing the global variable value.
->>- 
+>>	- you can use global variable without type global 'var' but you can't modify it.
+>>----
 
 >[!danger]- Print & Scan:
 >- print("the text you want to print..")
