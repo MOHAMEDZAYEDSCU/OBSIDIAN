@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "52aa3fff62b67451",
+        "id": "3d1d65aca28a7698",
         "type": "tabs",
         "children": [
           {
-            "id": "77fab9aeacfa3067",
+            "id": "dc3ffd24412490cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Maharatech/Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b441c3a021d0ee5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Callouts.md",
                 "mode": "preview",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "20b75551c8e7266c",
@@ -159,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77fab9aeacfa3067",
+  "active": "dc3ffd24412490cc",
   "lastOpenFiles": [
-    "Pasted image 20240530011239.png",
+    "Tryhackme/Web Application Security THM.md",
     "Callouts.md",
     "Maharatech/Python.md",
+    "Attachments",
+    "Attachments/Pasted image 20240530011239.png",
     "Maharatech",
-    "Web Application Security THM.md",
     "Networks/OSI Layers/5- Network Layer.md",
     "Cryptography/Cryptography Fundamentals.md",
     "Tryhackme/PT_Methodology.md",
@@ -184,7 +172,6 @@
     "Screen shots/Pasted image 20240502191502.png",
     "Screen shots/Pasted image 20240502191006.png",
     "Screen shots/Pasted image 20240502185943.png",
-    "Screen shots/Pasted image 20240429065808.png",
     "Screen shots",
     "Networks/OSI Layers/OSI Model.md",
     "Networks/OSI Layers/7- Physical Layer.md",
@@ -206,7 +193,6 @@
     "CyberSecurity/Web Application Security THM.md",
     "CyberSecurity/Cryptography Fundamentals.md",
     "CyberSecurity/Screen shots",
-    "Attachments",
     "Untitled.canvas"
   ]
 }

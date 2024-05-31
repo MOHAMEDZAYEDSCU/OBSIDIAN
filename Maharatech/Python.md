@@ -95,6 +95,14 @@
 >>	- you can use global variable without type global 'var' but you can't modify it.
 >>----
 
+>[!success]- Arithmetic Operations:
+>
+>- power by 2 astresks:
+>----
+>int division:
+>	- by using 2 //
+>	- it ignore the fraction and keep the int only.
+
 >[!danger]- Print & Scan:
 >- print("the text you want to print..")
 >	- it automatically put a new line for each print
@@ -191,3 +199,7 @@
 >----
 >- 
 
+-----------------------
+## Logical Operations:
+
+>[!todo]- 
