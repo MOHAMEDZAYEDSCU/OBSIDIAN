@@ -168,7 +168,7 @@
 >>- tuple(1, 2, 3)
 >>	- tuple of 3 component
 
->[!Failure]- Loops:
+>[!Failure]- Loops {for, while}:
 >
 >>[!caution]- For:
 >>- for [iteration variable name] in [lists, array of char, range(num)] ==:==  
@@ -178,7 +178,13 @@
 >>			- if we put a list, the {i} will have all the values in the list, strings, character, int ,....
 >>			- if we use range(5), {i} will have all values from 0 to 4,   (5 - 1)
 >>			- if we use one string, {i} will walk through its characters and will have each character value.
+>>		----
+>>	  - you can use:  for i in range():
+>>		  - for making an infinity loop and put a condition inside to break it using if.
 >---
+>>[!caution]- While:
+>>- while [condition] :
+>>	- for the execution of a code multiple times as the a condition says. 
 >---
 >>[!tip]- Additional Conditions:
 >>- continue
@@ -212,8 +218,31 @@
 >     - __the function body is shifted to the right >> than the header, instead of {} in C++__.
 > 
 >----
->- 
 
+>[!todo]- Built-in Function:
+>- type(var)
+>	- for knowing the type of a variable var
+>---
+>- len(string)
+>	- for knowing the length of the string s
+>---
+>- abs(int, complex)
+>	- for returning the absolute value.
+>---
+>>[!caution]- Map
+>>- map (function, list-tuple-number-..)
+>>	- for perform the function to all the elements in {list, tuple, number} depend on the function variable in the head.
+>>	- need a variable to store the results.
+>>	- you can display the results as list or tuple...
+>>----
+>>- ==Example:==
+>>		![[Pasted image 20240601162335.png]]
+>>		----
+>>		![[Pasted image 20240601162822.png]]
+>>		----
+>>		![[Pasted image 20240601162927.png]]
+>----
+>
 -----------------------
 ## Logical Operations:
 
@@ -221,6 +250,4 @@
 >- for set conditions in if for example...
 >----
 >- 
-
-
 
