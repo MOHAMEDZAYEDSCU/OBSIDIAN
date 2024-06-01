@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Maharatech/Python.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc3ffd24412490cc",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
-    "Pasted image 20240601162927.png",
-    "Pasted image 20240601162822.png",
-    "Pasted image 20240601162335.png",
+    "Screen shots/Pasted image 20240601162927.png",
+    "Screen shots/Pasted image 20240601162822.png",
+    "Screen shots/Pasted image 20240601162335.png",
     "Tryhackme/Web Application Security THM.md",
     "Callouts.md",
     "Maharatech/Python.md",

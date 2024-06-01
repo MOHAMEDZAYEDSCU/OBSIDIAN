@@ -56,9 +56,6 @@
 >- you can cast the var while reading it from the user using:
 >	- x = int(input())  -> you need a variable to store the value. not required.
 >---
->- type():
->	- a function for knowing the data type.
->	- can be used inside the print() function
 >---
 >- float:
 >	- for indicating power of 10
@@ -77,6 +74,12 @@
 >---
 >>[!tip]- Casting:
 >>- converting datatypes to another, str, int, float
+>>----
+>>- list(var or tuple):
+>>	- for converting tuples to list or any variable to list.!
+>>----
+>>- tuple(list or variable):
+>>	- for converting lists to tuple.
 >>----
 >>- str(var):
 >>	- for converting the var into str
@@ -159,10 +162,25 @@
 >>- list = [3 , 4 , 5]
 >>	- now this is a list of 3 component.
 >>	- the iteration start form 0.
+>>---
+>>- list.append(var)
+>>	- for add a variable(single or list of values) to the list as a single element.
+>>----
+>>- list.extend(another_list)
+>>	- to add the elements of another_list to the list
+>>----
+>>- del(list[index])
+>>	- for deleting element in a specific index
+>>----
+>>- list.remove(var(single or list))
+>>	- it just remove 1 element, but if this one element is a list so it will be delete.
 >---
 >>[!todo]- Tuple:
 >>- you cannot change or modify the elements after creating it.
->>- defined using ()
+>>
+>>- defined using (), or put ' , ' in the end of the variable.
+>>	- x = 5,
+>>
 >>- more memory efficient and faster.
 >>---
 >>- tuple(1, 2, 3)
@@ -210,14 +228,16 @@
 >[!caution]- Functions:
 >- you can use a global variable name inside the function and assign a new value to it as local one without affecting the global variable...
 >- use (global var) to change the value of the global variable inside function.
+>- you can put boolean condition in return for return true or false.
+>	- return num%2 == 0
 >----
 >- def name(argument):
 >     - this is the prototype header of a function in python
 >     - ==you need to put ' : ' in the end.==
 >     - always use def.
 >     - __the function body is shifted to the right >> than the header, instead of {} in C++__.
-> 
 >----
+>
 
 >[!todo]- Built-in Function:
 >- type(var)
@@ -251,3 +271,16 @@
 >----
 >- 
 
+-----------------------
+# Searching Algorithms:
+
+>[!tip]- linear search:
+>- go for each element from the begging to the end.
+>- O(n)  -> in average and it is worst case.
+
+>[!caution]- Binary Search:
+>- used in sorted arrays.
+>- begin from the middle interval of the array and split the array into half
+>- O {log2(n)}
+
+>[!danger]- Ternary Search
