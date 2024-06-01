@@ -50,8 +50,11 @@
 
 >[!todo]- Data Types & Casting & Assigning Values:
 >- int, float, tuple, string, mapping, boolean, dictionary, list, data, complex ....
->	- int(v) -> for casting to int, the string should be number
->	- str(v) -> converting v into string.
+>	- int(var) -> for casting to int, the string should be number
+>	- str(var) -> converting from int or (float!!?) into string.
+>	- float(var) -> for converting to float from int.
+>- you can cast the var while reading it from the user using:
+>	- x = int(input())  -> you need a variable to store the value. not required.
 >---
 >- type():
 >	- a function for knowing the data type.
@@ -97,9 +100,10 @@
 
 >[!success]- Arithmetic Operations:
 >
->- power by 2 astresks:
+>- Power by 2 astresks:
+>	- 2 ****** 3 > for   2^3 = 8
 >----
->int division:
+>- int Division:
 >	- by using 2 //
 >	- it ignore the fraction and keep the int only.
 
@@ -128,13 +132,24 @@
 >>- x = input("comment you want")
 >>	- the input always be a string, so we need casting.
 
->[!caution]- Conditions:
+>[!caution]- Conditions {if, elif, else}:
 >
 >>[!help] if:
->>- if 5 > 2:
->> __ print("five is greater than two!")
->>	- you need to make a tap for the function body. instead of the previous underline. it is important that the function body be shifted than the head of the condition.
+>>- if condition :
+>>     _.__body function__._
+>>	- you need to make a tap for the function body, it is important that the function body be shifted to right than the head of the condition.
 >>	- you need to put ' : ' in the end of the condition.
+>---
+>>[!success]- elif:
+>>- elif condition :
+>>	- to perform the function in specific condition.
+>---
+>>[!todo]- else:
+>>
+>>     - if the if statement doesn't happened, do else function.
+>>     - you can use it in for loop to do anything after the for or while  loop function has ended ==without break==.      ___else: Fnc body___
+>----
+>>[!]
 
 >[!success]- Lists & Tuples:
 >>[!tip]- List:
@@ -202,4 +217,10 @@
 -----------------------
 ## Logical Operations:
 
->[!todo]- 
+>[!todo]-  _ >, <, >=, <=, !=, == :
+>- for set conditions in if for example...
+>----
+>- 
+
+
+
