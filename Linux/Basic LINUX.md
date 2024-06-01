@@ -161,6 +161,14 @@
 >>	- -rl
 >>		- if the info found, just show the file name that contain it.
 >>		- r for recursive, for multiple files.
+>>	- -e
+>>		- it is like or
+>>			- grep "thm" -e "cybertalent" /etc/passwd..
+>>	- -A num
+>>		- for show num of lines after found the needed word.
+>>	- B num
+>>		- for showing num of lines before the specific word.
+>>---- 
 >>- grep -i "testing" filename
 
 >[!danger]- Base64 Encryption:
@@ -173,7 +181,35 @@
 >- echo "encrypted syntax" | base64 -d
 >	- for decrypting the file.
 
+>[!caution]- Redirection:
+>- for redirect input, output or error.
+>- 0 -> input, 1 -> output, 2 -> error.
+>- use 2>/dev/null  for redirect undesired errors to null file, like a trash in linux.
+>---
+>- output redirect:
+>	- 1> filename
+>		- overwrite with the new data
+>			- 1>> just append without replacing the current content of the file.
+>	- 2> filename
+>		- error redirect with overwrite
+>			- 2>> error append without overwrite.
+>- fine, grep, etc...  &>> file
+>	- for append output and error to file.
+>- // // &> file
+>	- for overwrite the content of file with the new errors and ouputs.
 
+>[!todo]- Piping:
+>- make the output of command as an input to another command.
+>	- cat file.txt | grep -i -o "specific word".
+
+>[!success]- Set:
+>- for modifying user defined variables like:
+>	- ls, history, cat, grep, ....
+>- adding variables form the shell by just define them.
+>	- x = 5
+>- set | less
+>	- for show manual file, page by page.
+>- there you will find each command location,(address of each command.).
 #### mapping.
 [[Advanced Kali LINUX|Advanced LINUX Instructions]].
 #linux 

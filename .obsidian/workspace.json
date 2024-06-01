@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maharatech/Python.md",
-                "mode": "preview",
+                "file": "Linux/Advanced Kali LINUX.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "20b75551c8e7266c",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maharatech/Python.md",
+                "file": "Linux/Advanced Kali LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maharatech/Python.md",
+                "file": "Linux/Advanced Kali LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maharatech/Python.md"
+                "file": "Linux/Advanced Kali LINUX.md"
               }
             }
           }
@@ -146,14 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a1263ed760cef5",
+  "active": "dc3ffd24412490cc",
   "lastOpenFiles": [
+    "Linux/Basic LINUX.md",
+    "Maharatech/Python.md",
     "Screen shots/Pasted image 20240601162927.png",
     "Screen shots/Pasted image 20240601162822.png",
     "Screen shots/Pasted image 20240601162335.png",
     "Tryhackme/Web Application Security THM.md",
     "Callouts.md",
-    "Maharatech/Python.md",
     "Attachments",
     "Attachments/Pasted image 20240530011239.png",
     "Maharatech",
@@ -172,7 +174,6 @@
     "Screen shots/Pasted image 20240502232108.png",
     "Screen shots/Pasted image 20240502222340.png",
     "Screen shots/Pasted image 20240502221813.png",
-    "Screen shots/Pasted image 20240502191502.png",
     "Screen shots",
     "Networks/OSI Layers/OSI Model.md",
     "Networks/OSI Layers/7- Physical Layer.md",
@@ -184,7 +185,6 @@
     "Networks/Books",
     "Networks/Basic Network Categories.md",
     "Networks",
-    "Linux/Basic LINUX.md",
     "Linux/Advanced Kali LINUX.md",
     "Linux",
     "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",

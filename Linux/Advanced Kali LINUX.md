@@ -153,6 +153,14 @@
  >>- gpg --no-symkey-cache {filename}.
  >>	- for decryption.
 
+>[!todo]- OpenSSH:
+>- secure shell protocol in linux that allow you to access remote system.
+>- there was an app do this connection !!!
+>- support password based and key based authentications.
+
+>[!success]- Logs
+>- journalctl -n
+>	- for displaying the last 10 login to the system.
 ## mapping:
 
 #linux
