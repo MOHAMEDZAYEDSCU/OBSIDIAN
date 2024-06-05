@@ -6,7 +6,7 @@
 >- the most complex layer because it hides the complexity of physical layer from above layers.
 
 ## ARP Protocol:
->[!tip] About: 
+>[!tip]- About: 
 >- Address Resolution Protocol (ARP)
 >- He ask with the IP to know the mac address by sending (ff:ff:ff:ff:ff:ff) with the broadcast ip to make all devices pay attention.
 >- he send a request, Who has this IP (destination IP)? and the targeted device will answer with his mac address.

@@ -14,12 +14,25 @@
               "type": "markdown",
               "state": {
                 "file": "Linux/Advanced Kali LINUX.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adae6757b0cf24b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linkedin post.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "20b75551c8e7266c",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Advanced Kali LINUX.md",
+                "file": "linkedin post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Advanced Kali LINUX.md",
+                "file": "linkedin post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Advanced Kali LINUX.md"
+                "file": "linkedin post.md"
               }
             }
           }
@@ -147,10 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc3ffd24412490cc",
+  "active": "adae6757b0cf24b2",
   "lastOpenFiles": [
-    "Linux/Basic LINUX.md",
+    "Linux/Advanced Kali LINUX.md",
+    "linkedin post.md",
     "Maharatech/Python.md",
+    "Networks/OSI Layers/6- Data-Link Layer.md",
+    "Networks/OSI Layers/5- Network Layer.md",
+    "Networks/OSI Layers/4- Transport Layer.md",
+    "Networks/OSI Layers/2,3- Session & Presentation Layer.md",
+    "Networks/OSI Layers/1- Application Layer.md",
+    "Linux/Basic LINUX.md",
     "Screen shots/Pasted image 20240601162927.png",
     "Screen shots/Pasted image 20240601162822.png",
     "Screen shots/Pasted image 20240601162335.png",
@@ -159,14 +178,12 @@
     "Attachments",
     "Attachments/Pasted image 20240530011239.png",
     "Maharatech",
-    "Networks/OSI Layers/5- Network Layer.md",
     "Cryptography/Cryptography Fundamentals.md",
     "Tryhackme/PT_Methodology.md",
     "Networks/Terminologies of Computer Science.md",
     "Tryhackme",
     "Cryptography",
     "README.md",
-    "Networks/OSI Layers/6- Data-Link Layer.md",
     "linkedin post.md",
     "Screen shots/Screenshot 2024-02-24 015349.png",
     "Screen shots/Screenshot 2024-02-24 012749.png",
@@ -177,15 +194,11 @@
     "Screen shots",
     "Networks/OSI Layers/OSI Model.md",
     "Networks/OSI Layers/7- Physical Layer.md",
-    "Networks/OSI Layers/4- Transport Layer.md",
-    "Networks/OSI Layers/1- Application Layer.md",
-    "Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "Networks/Books/Network Attacking Explanation.md",
     "Networks/OSI Layers",
     "Networks/Books",
     "Networks/Basic Network Categories.md",
     "Networks",
-    "Linux/Advanced Kali LINUX.md",
     "Linux",
     "CyberSecurity/Networks/OSI Layers/4- Transport Layer.md",
     "CyberSecurity/Networks/OSI Layers/1- Application Layer.md",

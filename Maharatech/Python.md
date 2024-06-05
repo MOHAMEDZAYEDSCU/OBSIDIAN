@@ -148,9 +148,8 @@
 >>	- to perform the function in specific condition.
 >---
 >>[!todo]- else:
->>
->>     - if the if statement doesn't happened, do else function.
->>     - you can use it in for loop to do anything after the for or while  loop function has ended ==without break==.      ___else: Fnc body___
+>>    - if the if statement doesn't happened, do else function.
+>>    - you can use it in for loop to do anything after the for or while  loop function has ended ==without break==.      ___else: Fnc body___
 >----
 >>[!]
 
