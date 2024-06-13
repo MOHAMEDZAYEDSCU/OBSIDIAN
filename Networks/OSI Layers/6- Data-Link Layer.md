@@ -7,19 +7,23 @@
 
 ## ARP Protocol:
 >[!tip]- About: 
->- Address Resolution Protocol (ARP)
->- He ask with the IP to know the mac address by sending (ff:ff:ff:ff:ff:ff) with the broadcast ip to make all devices pay attention.
->- he send a request, Who has this IP (destination IP)? and the targeted device will answer with his mac address.
->- both devices store the IPs and MAC addresses for each other temporary in ARP cache for future use.
+>- The Address Resolution Protocol (ARP) is used to map IP addresses to their corresponding MAC (Media Access Control) addresses within a local network.
+>- he send a request, Who has this IP (destination IP)? with the broadcast message(ff:ff:ff:ff:ff:ff) and the targeted device will answer with his mac address.
+>- Both devices temporarily store each other's IP and MAC addresses in their ARP cache for future use.
 >---
->>[!caution]- broadcast ip:
->>- is the ip which all devices pay attention to with the ff:ff:ff:ff:ff:ff to discover all devices on the network or sending messages to them.
+>>[!caution]- broadcast IP:
+>>- The ARP request is sent to the broadcast MAC address (ff:ff:ff:ff:ff:ff), which ensures that all devices on the local network receive the request.
 >---
 >>[!caution]
->>- you can use command arp in the terminal to show all internet and mac addresses.
+>>- You can use the `arp` command in the terminal to view the ARP table, which lists the IP and MAC addresses that have been recently resolved.
 >>- use request & reply
 >---
->>[!bug] - easy to be spoofed, the hacker device can tell the questioner that he has the ip address he asked for and let him store his mac address and hacker device take all the data. 
+>>[!bug] - ARP is able to be spoofed. An attacker can send falsified ARP messages to associate their MAC address with the IP address of another device. This allows the attacker to intercept, modify, or stop data intended for the target device.
+>---- 
+>>[!tip]- **Key Points:**
+>>- ARP uses request and reply messages.
+>>- ARP cache stores mappings temporarily for efficiency.
+>>- Vulnerable to ARP spoofing attacks.
 ## Sub-layers of the Data Link Layer:
 >[!quote]- Logical link control (LLC):
 >- deal with multiplexing تعدد الارسال

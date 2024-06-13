@@ -105,7 +105,7 @@
 
 >[!caution]- Routing Protocol:
 >- for determining :
->	- next hop
+>	- next hup
 >	- shortest path
 >	- network changes
 >	- link failure

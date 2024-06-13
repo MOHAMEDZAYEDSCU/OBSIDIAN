@@ -6,7 +6,7 @@
 >- devices that are connected to the network including switch, server and router besides computer and devices.
 
 >[!danger]- Protocol:
->- Set or rules or standard about how the data is transmitted over a network.
+>- Set of rules or standard about how the data is transmitted over a network.
 >>[!important] Examples:
 >>- TCP/IP
 >>- HTTP
