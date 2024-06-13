@@ -205,7 +205,7 @@
 >[!success]- Set:
 >- for modifying user defined variables like:
 >	- ls, history, cat, grep, ....
->- adding variables form the shell by just define them.
+>- adding variables to the shell by just define them.
 >	- x = 5
 >- set | less
 >	- for show manual file, page by page.

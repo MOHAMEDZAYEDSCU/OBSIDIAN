@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Basic LINUX.md",
+                "file": "Linux/Advanced Kali LINUX.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Basic LINUX.md",
+                "file": "Linux/Advanced Kali LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Basic LINUX.md",
+                "file": "Linux/Advanced Kali LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Basic LINUX.md"
+                "file": "Linux/Advanced Kali LINUX.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "dc3ffd24412490cc",
   "lastOpenFiles": [
+    "linkedin post.md",
+    "Linux/Advanced Kali LINUX.md",
+    "Maharatech/Python.md",
+    "Linux/Basic LINUX.md",
     "Cryptography/Cryptography Fundamentals.md",
     "Networks/Basic Network Categories.md",
     "Networks/OSI Layers/OSI Model.md",
@@ -158,10 +162,6 @@
     "Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "Networks/OSI Layers/1- Application Layer.md",
     "Networks/Terminologies of Computer Science.md",
-    "Linux/Advanced Kali LINUX.md",
-    "linkedin post.md",
-    "Maharatech/Python.md",
-    "Linux/Basic LINUX.md",
     "Screen shots/Pasted image 20240601162927.png",
     "Screen shots/Pasted image 20240601162822.png",
     "Screen shots/Pasted image 20240601162335.png",

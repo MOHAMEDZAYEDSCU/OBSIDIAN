@@ -103,7 +103,7 @@
 >>- sudo -u username command => execute a command as another user. This is often used for administrative purposes.
 
 >[!caution]- wall:
->- write all.
+>- write all (w`rite` all).
 >- for informing all the system user about something.
 >- wall "what ever you want.".
 
@@ -122,7 +122,7 @@
 >- you can use export PATH in the terminal to make it for the current session only.
 >
 >>[!caution]- PATH:
->>- is the locations for all instructions in linux separated by : 
+>>- is the locations for all instructions in linux separated by `:` 
 >>- **execute the instruction by its name.**
 >>- for example:
 >>	- you have a file in desktop and put an executable file in it.
