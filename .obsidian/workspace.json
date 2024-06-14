@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d1d65aca28a7698",
+        "id": "e577cd41b4c4c5c1",
         "type": "tabs",
         "children": [
           {
-            "id": "dc3ffd24412490cc",
+            "id": "680a579de56ea102",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Advanced Kali LINUX.md",
-                "mode": "preview",
+                "file": "Ethical Hacking.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Advanced Kali LINUX.md",
+                "file": "Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Advanced Kali LINUX.md",
+                "file": "Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Advanced Kali LINUX.md"
+                "file": "Ethical Hacking.md"
               }
             }
           }
@@ -146,13 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc3ffd24412490cc",
+  "active": "680a579de56ea102",
   "lastOpenFiles": [
-    "linkedin post.md",
+    "Ethical Hacking.md",
+    "Cryptography/Cryptography Fundamentals.md",
+    "Tryhackme/PT_Methodology.md",
+    "Callouts.md",
+    "README.md",
     "Linux/Advanced Kali LINUX.md",
+    "linkedin post.md",
     "Maharatech/Python.md",
     "Linux/Basic LINUX.md",
-    "Cryptography/Cryptography Fundamentals.md",
     "Networks/Basic Network Categories.md",
     "Networks/OSI Layers/OSI Model.md",
     "Networks/OSI Layers/7- Physical Layer.md",
@@ -166,14 +170,11 @@
     "Screen shots/Pasted image 20240601162822.png",
     "Screen shots/Pasted image 20240601162335.png",
     "Tryhackme/Web Application Security THM.md",
-    "Callouts.md",
     "Attachments",
     "Attachments/Pasted image 20240530011239.png",
     "Maharatech",
-    "Tryhackme/PT_Methodology.md",
     "Tryhackme",
     "Cryptography",
-    "README.md",
     "Screen shots/Screenshot 2024-02-24 015349.png",
     "Screen shots/Screenshot 2024-02-24 012749.png",
     "Screen shots/Pasted image 20240503005417.png",
