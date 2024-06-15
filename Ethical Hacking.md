@@ -19,8 +19,6 @@
 > -----
 > - terrorist hacker:
 > 	- motivated by religion or politics to spread fear by large scale >> nice.
-> ----
-> - 
 
 >[!success]- Some Terminologies:
 >
@@ -52,6 +50,7 @@
 >>[!tip]- Bot:
 >>- software inside the hacked before systems that execute instruction by remotely command and control center.
 
+---
 ## Info Sec:
 
 >[!danger]- Info Sec:
@@ -73,6 +72,7 @@
 >- multiple layers of defense.
 >- like complex password, host firewall and network firewall.
 
+---
 ## Threats & Attack Vector:
 
 >[!caution]- APT:
@@ -88,6 +88,7 @@
 >---
 >- every one has its own detail but i will talk about lately...
 
+---
 ## Hacking Phases:
 
 - There are 5 phases.
@@ -125,21 +126,4 @@
 >- Avoid Suspicion
 >- Unnoticed Continue Access.
 
-## Search Engine Tools!!
-- Use Google for showing The Sub-domains
-	- it depend on the type of information you need, so you might use alot of browsers.
-
->[!caution]- Archieve.org !!!
->- it Show you all the versions of the websites in all times !!!!!!!!!!!!!!!
-
->[!todo]- Netcraft site report !!!!
->- showing all the information you need about a website.
->- it really show alot of very important informaitons.
->---
->- those info can specify the attack type based on the weakness of the system.
->- for example:
->	- if a website work on freeDBS server, you will use the server weakness direct not to search in the website.
-
->[!success]- pipl.com | anywho.com
->- show information about people by their information.
-
+---

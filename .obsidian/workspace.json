@@ -14,6 +14,18 @@
               "type": "markdown",
               "state": {
                 "file": "Ethical Hacking.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5538155322094a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reconnaissance.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,9 +160,10 @@
   },
   "active": "680a579de56ea102",
   "lastOpenFiles": [
+    "Reconnaissance.md",
+    "Ethical Hacking.md",
     "Linux/Advanced Kali LINUX.md",
     "Linux/Basic LINUX.md",
-    "Ethical Hacking.md",
     "Cryptography/Cryptography Fundamentals.md",
     "Tryhackme/PT_Methodology.md",
     "Callouts.md",
@@ -192,7 +205,6 @@
     "CyberSecurity/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "CyberSecurity/Networks/OSI Layers/5- Network Layer.md",
     "CyberSecurity/Web Application Security THM.md",
-    "CyberSecurity/Cryptography Fundamentals.md",
     "CyberSecurity/Screen shots",
     "Untitled.canvas"
   ]
