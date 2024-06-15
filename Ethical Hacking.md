@@ -80,5 +80,66 @@
 >- focus in attacking and stealing information from the user without being aware of it.
 >- Stuxnet Worm, shamoon Malware. !!!!!!!!!!!!!!!!!!!!!
 
+>[!danger]- Another Types:
+>- Host Attacks.
+>- System Attacks.
+>- Network Attacks.
+>- Application & Mobile Threats.
+>---
+>- every one has its own detail but i will talk about lately...
 
+## Hacking Phases:
+
+- There are 5 phases.
+
+>[!success]- Reconnaissance:
+>- Information gathering about target.
+>----
+>- know security posture.
+>- reduce focus area and chose appropriate target
+>- identify vulnerability
+>- draw network map to clarify your thoughts.
+>- 
+>---
+>>[!caution]- Passive:
+>>- collecting the data without any interaction with the target.
+>
+>>[!caution]- Active:
+>>- collecting information with interacting with the target, like:
+>>	- make interview in the company.
+>>	- be a technical support
+>>	- attend its events and so on.
+
+>[!tip]- Scanning:
+>- Live Hosts -> machines have services.
+>- Port Scanning -> open ports or services.
+
+>[!caution]- Gaining Access | Exploitation:
+>- try to check and use vulnerabilities and information i have to perform my attack.
+
+>[!danger]- Maintaining Access:
+>- by making trojan injection, malware or backdoor to access the system anytime easily.
+
+>[!Bug]- Clearing Tracks:
+>- Hiding Malicious Acting
+>- Avoid Suspicion
+>- Unnoticed Continue Access.
+
+## Search Engine Tools!!
+- Use Google for showing The Sub-domains
+	- it depend on the type of information you need, so you might use alot of browsers.
+
+>[!caution]- Archieve.org !!!
+>- it Show you all the versions of the websites in all times !!!!!!!!!!!!!!!
+
+>[!todo]- Netcraft site report !!!!
+>- showing all the information you need about a website.
+>- it really show alot of very important informaitons.
+>---
+>- those info can specify the attack type based on the weakness of the system.
+>- for example:
+>	- if a website work on freeDBS server, you will use the server weakness direct not to search in the website.
+
+>[!success]- pipl.com | anywho.com
+>- show information about people by their information.
 
