@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethical Hacking.md",
+                "file": "Reconnaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethical Hacking.md",
+                "file": "Reconnaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethical Hacking.md"
+                "file": "Reconnaissance.md"
               }
             }
           }
@@ -158,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "680a579de56ea102",
+  "active": "a5538155322094a7",
   "lastOpenFiles": [
-    "Reconnaissance.md",
     "Ethical Hacking.md",
+    "Reconnaissance.md",
     "Linux/Advanced Kali LINUX.md",
     "Linux/Basic LINUX.md",
     "Cryptography/Cryptography Fundamentals.md",
