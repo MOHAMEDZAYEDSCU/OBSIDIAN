@@ -2,7 +2,7 @@
 >- for discovering :
 >	- live hosts and IPs.
 >	- open ports and services.
->	- the operating system. (to detect your methodology
+>	- the operating system. (to detect your methodology)
 
 ---
 
@@ -53,7 +53,9 @@
 
 --- 
 
-
+>[!danger]- Nessus:
+>- for vulnerability scanning.
+>- 
 
 
 
