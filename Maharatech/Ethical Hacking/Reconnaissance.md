@@ -55,4 +55,21 @@
 ## Websites Tools:
 
 >[!tip]- Tools:
+>>[!caution]- Web Data Extractor:
+>>- give the url of the target to get a lot of information from the target.
+>>- you can specify the data you need.
+>
+>>[!bug]- HTTrack:
+>>- Take a copy from the website and you can see the target website offline.
+>>- by the url
+>>- the process called mirroring.
+>>- make the target as a local website on your machine.
+
+>[!caution]- Re@d notify - track your email :
+>- by putting .readnotify.com after the target full email
+>	- mohamedzayed@gmail.com.readnotify.com
+>	- then your email and send it.
+>- now it will go to readnotify server to put different tracking object in your message.
+>- after the target open the message, you will know the time of open and information about the target. 
+>	- ![[readnotify.png]]
 >- 
