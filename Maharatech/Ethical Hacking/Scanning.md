@@ -55,6 +55,8 @@
 
 >[!danger]- Nessus:
 >- for vulnerability scanning.
+>- use nmap will be stablish your understanding of this tool.
+>- watch vulnerability scanning with nessus.
 >- 
 
 
