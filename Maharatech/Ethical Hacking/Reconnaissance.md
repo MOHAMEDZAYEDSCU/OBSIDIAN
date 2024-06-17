@@ -16,8 +16,12 @@
 
 >[!success]- pipl.com | anywho.com
 >- show information about people by their information.
+>- like:
+>	- name
+>	- phone
+>	- gmail or other emails. "i guess"
 
-## How to search?
+## How to search via browser?
 ---
 >[!caution]- Double quotes " "
 >- for specific results and decrease results possibilities.
@@ -39,6 +43,8 @@
 >[!tip]- inurl:" "  site:"  "
 >- you combine them for best results.
 
+---
+
 >[!bug]- Google hacking db:
 >- for having ready info gathering instruction for a lot of websites.
 >- if you want to check all the sub-domain for a website.
@@ -51,6 +57,7 @@
 >- give you the services, server and open ports available for use
 >- with the protocol used {tcp, udp} and more options either...
 
+---
 
 ## Websites Tools:
 
@@ -66,10 +73,22 @@
 >>- make the target as a local website on your machine.
 
 >[!caution]- Re@d notify - track your email :
+>- online tool.
 >- by putting .readnotify.com after the target full email
 >	- mohamedzayed@gmail.com.readnotify.com
 >	- then your email and send it.
 >- now it will go to readnotify server to put different tracking object in your message.
 >- after the target open the message, you will know the time of open and information about the target. 
+>	- like ip, location, browser and more...
 >	- ![[readnotify.png]]
->- 
+
+>[!danger]- Whois:
+>- a tool for giving you information about websites.
+>- online tool also.
+>- by dns and give you all the name servers that control the website
+>- can know the phone number and by it and anywho or pipl, you can know more information about any person or website.
+
+>[!todo]- NSLookup:
+>- provide the nameserver and it give you the ip and servers of the targets.
+>- ![[Advanced Kali LINUX#Network Exploration and Security|Nslookup info]]
+
