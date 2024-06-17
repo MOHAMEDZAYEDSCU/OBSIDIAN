@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bec8c78ab86b484e",
+            "id": "35b88c5bcb89262d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maharatech/Ethical Hacking/Reconnaissance.md",
+                "file": "Scanning.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60bf62b6888296f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Advanced Kali LINUX.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maharatech/Ethical Hacking/Reconnaissance.md",
+                "file": "Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maharatech/Ethical Hacking/Reconnaissance.md",
+                "file": "Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maharatech/Ethical Hacking/Reconnaissance.md"
+                "file": "Scanning.md"
               }
             }
           }
@@ -158,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bec8c78ab86b484e",
+  "active": "35b88c5bcb89262d",
   "lastOpenFiles": [
+    "Networks/OSI Layers/4- Transport Layer.md",
+    "Scanning.md",
     "Linux/Advanced Kali LINUX.md",
-    "Linux/Basic LINUX.md",
     "Maharatech/Ethical Hacking/Reconnaissance.md",
+    "Linux/Basic LINUX.md",
     "Screen shots/readnotify.png",
     "Maharatech/Ethical Hacking/Ethical Hacking.md",
     "README.md",
@@ -181,7 +171,6 @@
     "Networks/OSI Layers/7- Physical Layer.md",
     "Networks/OSI Layers/6- Data-Link Layer.md",
     "Networks/OSI Layers/5- Network Layer.md",
-    "Networks/OSI Layers/4- Transport Layer.md",
     "Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "Networks/OSI Layers/1- Application Layer.md",
     "Networks/Terminologies of Computer Science.md",

@@ -28,24 +28,27 @@
 
 >[!bug]- TCP Protocol:
 >- most used, used for insurance of data transmission by flags.
->
+>---
 >>[!caution]- Flags type:
->>- syn
->>- Ack
->>- fin
->>- push
->>- reset
->
+>>- syn -> 
+>>- Ack ->
+>>- fin -> finish
+>>- push -> i will send a data
+>>- RST -> reset for terminate the connection
+>>- urg -> urgent data and need to be processed directly
+>---
 >- validate reliable connection.
 >- detect loss or failed in data.
 >- filter duplicated data.
 >- used for accurate not speed.
 >
->>[!tip]- Three way handshake:
->>- you send (syn).
->>- it reply with (syn/Ack)
+>>[!tip]- Three way handshake: {tcp connect / full open scan.}
+>>- you send (syn). with the port to know open ports.
+>>- it reply with (syn/Ack), so the port is open
 >>- you send (Ack).
 >>- now you have your connection ;)
+>>	- if you send reset after the ack, the connection will be terminate, you just want to know if the port is open or not.
+>>- if it reply with RST instead of syn/Ack, so the port is closed.
 
 >[!bug]- UDP Protocol:
 >- no handshake
