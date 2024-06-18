@@ -11,13 +11,11 @@
 >[!success]- TCP vs UDP:
 >- ![[4- Transport Layer]]
 
----
-
->[!caution]- NMAP or ZEN MAP:
+-[](4-%20Transport%20Layer.md)er.md)r ZEN MAP:
 >- the difference between them is the graphical interface of zenmap.
 >- it is like ping command:
 >	- [[Advanced Kali LINUX| ping command]]  the last command in the list.
->	- for discovering open ports and its protocols.
+>	- [](Advanced%20Kali%20LINUX.md)otocols.
 >- with the graphical interface, you will find all the commands you need.
 >---
 >- There are Script that aid you to specify the method you will need to lunch your attack.

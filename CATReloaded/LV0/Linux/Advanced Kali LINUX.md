@@ -48,8 +48,7 @@
 >>---
 >>- more security for variety purposes.
 >>---
->>- setting maximum transmission unit.
->>	- packets transmission speed, need to adjust it for both the sender and receiver.
+[](5-%20Network%20Layer.md#Sub-net%20Mask)](5[](5-%20Network%20Layer.md#CIDR)d[][](5-%20Network%20Layer.md#DHCP)d receiver.
 >>	- ==sudo ifconfig eth0 mtu 1500==
 >>---
 >>- modify the mac address of the the network interface (router)?.
