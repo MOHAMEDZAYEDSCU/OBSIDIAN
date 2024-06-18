@@ -3,6 +3,8 @@
 >	- live hosts and IPs.
 >	- open ports and services.
 >	- the operating system. (to detect your methodology)
+>---
+>- after gaining information about the target (os version, server dns, ip, mac, some personal info about the users,. ..) you use tools to see if there are already critical bugs found in the current version of the server of the OS(operating system) using {nessus}, to just try to use it.
 
 ---
 
@@ -55,9 +57,25 @@
 
 >[!danger]- Nessus:
 >- for vulnerability scanning.
->- use nmap will be stablish your understanding of this tool.
 >- watch vulnerability scanning with nessus.
->- 
+
+---
+
+>[!todo]- ShellShock | Bashdoor Vulnerability:
+>- allow you to perform remote code execution on remote machine.
+>- --
+>- CVE -> common vulnerability and exposure number
+>	- about the vulnerability
+>	- have the year of discovery and the vulnerability number.
+>---
+
+---
+
+>[!success]- Hiding your identity:
+>- proxy switcher or any equivalent app.
+>- it is purpose is to be in the middle between you and your target and send and receive messages and info with its IP not your IP
+
+
 
 
 
