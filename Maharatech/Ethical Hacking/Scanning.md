@@ -63,11 +63,13 @@
 
 >[!todo]- ShellShock | Bashdoor Vulnerability:
 >- allow you to perform remote code execution on remote machine.
->- --
->- CVE -> common vulnerability and exposure number
+
+---
+
+>[!bug]- CVE :
+>- common vulnerability and exposure number
 >	- about the vulnerability
 >	- have the year of discovery and the vulnerability number.
->---
 
 ---
 

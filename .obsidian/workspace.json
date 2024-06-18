@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maintaining Access.md",
+                "file": "Gaining Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CVE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maintaining Access.md",
+                "file": "Gaining Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maintaining Access.md",
+                "file": "Gaining Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maintaining Access.md"
+                "file": "Gaining Access.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "c9b13febe8d38bd1",
   "lastOpenFiles": [
-    "Gaining Access.md",
     "Maintaining Access.md",
-    "Maharatech/Ethical Hacking/Scanning.md",
+    "Gaining Access.md",
     "Enumeration.md",
+    "Maharatech/Ethical Hacking/Scanning.md",
+    "Untitled.md",
     "Tryhackme/Web Application Security THM.md",
     "Networks/Terminologies of Computer Science.md",
     "Maharatech/Ethical Hacking/Ethical Hacking.md",
@@ -176,7 +177,6 @@
     "linkedin post.md",
     "Maharatech/Python.md",
     "Networks/OSI Layers/OSI Model.md",
-    "Networks/OSI Layers/7- Physical Layer.md",
     "Screen shots/Pasted image 20240601162927.png",
     "Screen shots/Pasted image 20240601162822.png",
     "Screen shots/Pasted image 20240601162335.png",

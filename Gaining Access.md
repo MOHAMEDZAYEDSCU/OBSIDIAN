@@ -91,11 +91,30 @@
 >- has most of the previous methods, brute force, dictionary, ....
 >- watch the video via mahara tech to fully understand the tool and how to use it basically.
 
+---
 
+>[!Bug]- John the Reaper
+>- it is a powerful cracking tool used for crack passwords.
+>- cli, just download the tool and execute it with a the file of password (dictionary).
+>---
+>- linux store hashed passwords in 2 files, passwd and shadow.
+>- you need to merge those 2 files in one cause john the reaper only take one file.
+>- shadow.exe passwd shadow > output.txt
+>	- for merging passwd and shadow and the result in the output file.
+>- john.exe output.txt
+>	- for initiating the cracking.
+>---
+>- john.exe dic.txt
+>---
+>- after running the scan, the output will be shown on the screen so you can redirct it with > , >> to a file.
+>- if you want to run the cracking again, you should ==delete jack.pot file first.....==
 
+---
+## Remote Access
 
-
-
+>[!caution]- Metasploit:
+>- to gain access to a remote machine
+>- 
 
 
 
