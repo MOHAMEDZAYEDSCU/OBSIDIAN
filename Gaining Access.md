@@ -113,7 +113,8 @@
 ## Remote Access
 
 >[!caution]- Metasploit:
->- to gain access to a remote machine
+>- to check vulnerabilities on a remote machine.
+>- it has exploit available for usage to gain access to the system.
 >- 
 
 

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9b13febe8d38bd1",
+            "id": "f42405ba6fee0a51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maharatech/Ethical Hacking/Ethical Hacking.md",
+                "file": "Gaining Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maharatech/Ethical Hacking/Ethical Hacking.md",
+                "file": "Gaining Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maharatech/Ethical Hacking/Ethical Hacking.md",
+                "file": "Gaining Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maharatech/Ethical Hacking/Ethical Hacking.md"
+                "file": "Gaining Access.md"
               }
             }
           }
@@ -148,8 +148,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9b13febe8d38bd1",
+  "active": "f42405ba6fee0a51",
   "lastOpenFiles": [
+    "Maharatech/Ethical Hacking/Ethical Hacking.md",
     "Gaining Access.md",
     "Maintaining Access.md",
     "Enumeration.md",
@@ -157,7 +158,6 @@
     "Untitled.md",
     "Tryhackme/Web Application Security THM.md",
     "Networks/Terminologies of Computer Science.md",
-    "Maharatech/Ethical Hacking/Ethical Hacking.md",
     "Callouts.md",
     "Networks/OSI Layers/6- Data-Link Layer.md",
     "Linux/Advanced Kali LINUX.md",
