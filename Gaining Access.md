@@ -84,6 +84,15 @@
 >>	- battery die.
 >>- so be careful while using it.
 
+---
+
+>[!todo]- Cain Tool:
+>- used for cracking passwords.
+>- has most of the previous methods, brute force, dictionary, ....
+>- watch the video via mahara tech to fully understand the tool and how to use it basically.
+
+
+
 
 
 
