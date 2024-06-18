@@ -3,5 +3,3 @@
 
 >[!danger]- HTTPv2:
 >- ![[Http2.png]]
-
->[!]
