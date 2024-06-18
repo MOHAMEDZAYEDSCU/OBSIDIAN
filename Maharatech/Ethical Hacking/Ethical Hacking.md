@@ -56,7 +56,7 @@
 >[!danger]- Info Sec:
 >- information security
 >---
->>[!caution]- Elements of infosec:
+>>[!caution]- Elements of infosec (CIA):
 >>
 >>>[!todo]- Confidentiality:
 >>>- the component security and privacy

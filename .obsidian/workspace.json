@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gaining Access.md",
+                "file": "Maharatech/Ethical Hacking/Ethical Hacking.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CVE",
+                "query": "Confiden",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gaining Access.md",
+                "file": "Maharatech/Ethical Hacking/Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gaining Access.md",
+                "file": "Maharatech/Ethical Hacking/Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gaining Access.md"
+                "file": "Maharatech/Ethical Hacking/Ethical Hacking.md"
               }
             }
           }
@@ -149,8 +150,8 @@
   },
   "active": "c9b13febe8d38bd1",
   "lastOpenFiles": [
-    "Maintaining Access.md",
     "Gaining Access.md",
+    "Maintaining Access.md",
     "Enumeration.md",
     "Maharatech/Ethical Hacking/Scanning.md",
     "Untitled.md",
