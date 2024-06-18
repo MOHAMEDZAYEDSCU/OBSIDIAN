@@ -22,17 +22,19 @@
 ## HTTP Protocol:
 
 >[!faq]- What is it?
+>- hyper text transfer protocol.
 >- responsible for web traffic on world wide web.
 >- operate on TCP (accuracy) 80.
 >- **stateless** connection, mean when you login to website and exit it, it will not remember you and u should enter your data again.
 >
 >>[!tip]- Methods:
->>- both used to retrieve data from website.
+>>- used to retrieve data from website.
 >>
 >>>[!example]
 >>>- GET -> pass the variable in URL.
 >>>- Post -> pass the variable in HTTP.
->>>	  -> more secure than GET.
+>>>	- more secure than GET.
+>>>	- submit the data to the server, not retrieve them
 >
 >>[!caution]- Status code:
 >>- 200: success.
