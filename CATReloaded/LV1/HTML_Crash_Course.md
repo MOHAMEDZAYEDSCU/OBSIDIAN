@@ -3,13 +3,18 @@
 >- Hyper text markup language
 >- not a programming language(lol)
 >- no logic no actual programming, just a presentational language.
->- for build blocks of web. the gui of the web pages.
+>- for build blocks of web. the web pages.
 >- .html extension
 
 ---
 >[!success]- The Structure Of:
+>- <!DOCTYPE html>
+>	- not a syntax, consider it as a declaration and must be found in the first line.
 >- consists of head, body.
->- 
+>---
+>>[!todo]- Head:
+>>- consists of title, 
+>
 >- ![[Pasted image 20240619195814.png]]
 
 ---
@@ -31,6 +36,7 @@
 >---
 >>- <p,> paragraph </,p>  
 >>	- for writing paragraphs.
->>- <br>
+>>- <br,>
 >>	- for self closing tags
->>- 
+
+
