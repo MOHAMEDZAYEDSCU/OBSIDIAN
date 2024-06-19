@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f42405ba6fee0a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "file": "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "file": "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md"
+                "file": "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md"
               }
             }
           }
@@ -159,22 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f42405ba6fee0a51",
+  "active": "3ef9e2515e800602",
   "lastOpenFiles": [
-    "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
     "CATReloaded/LV1/HTTP Crash Course.md",
+    "Pasted image 20240619173508.png",
+    "Pasted image 20240619173113.png",
+    "Pasted image 20240619171612.png",
+    "Maharatech/Ethical Hacking/Gaining Access.md",
+    "Maharatech/Ethical Hacking/Enumeration.md",
+    "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
     "Screen shots/Http2.png",
     "Maharatech/Python.md",
     "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
     "CATReloaded/LV0/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "CATReloaded/LV0/Networks/OSI Layers/5- Network Layer.md",
-    "Maharatech/Ethical Hacking/Gaining Access.md",
     "CATReloaded/LV1",
     "CATReloaded/LV0",
     "CATReloaded",
     "Maharatech/Ethical Hacking/Ethical Hacking.md",
     "Maharatech/Ethical Hacking/Maintaining Access.md",
-    "Maharatech/Ethical Hacking/Enumeration.md",
     "Maharatech/Ethical Hacking/Scanning.md",
     "Tryhackme/Web Application Security THM.md",
     "CATReloaded/LV0/Networks/Terminologies of Computer Science.md",
@@ -201,9 +191,6 @@
     "Tryhackme",
     "CATReloaded/LV0/Cryptography",
     "Screen shots/Screenshot 2024-02-24 015349.png",
-    "Screen shots/Screenshot 2024-02-24 012749.png",
-    "Screen shots/Pasted image 20240503005417.png",
-    "Screen shots/Pasted image 20240502232108.png",
     "Screen shots",
     "CATReloaded/LV0/Networks/OSI Layers",
     "Untitled.canvas"
