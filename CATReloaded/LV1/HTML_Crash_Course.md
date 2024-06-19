@@ -7,36 +7,97 @@
 >- .html extension
 
 ---
->[!success]- The Structure Of:
->- <!DOCTYPE html>
->	- not a syntax, consider it as a declaration and must be found in the first line.
->- consists of head, body.
->---
->>[!todo]- Head:
->>- consists of title, 
->
+
+>[!todo]- The Structure :
+>- consists of head, body and comments.
 >- ![[Pasted image 20240619195814.png]]
+>---
+>>[!caution]- <!,DOCTYPE html> (always the first)
+>>- not a syntax, consider it as a declaration and must be found in the first line.
+>>- it is for the html 5 version used in the website
+>>- there were a different versions of html types with a different doctype forms.
+>---
+>>[!success]- Head:
+>>- <,head>   <,/head>
+>>---
+>>>[!caution]- Title :
+>>>- <,title> book store </,title>
+>>>	- it is the minimum description of the website, book store.
+>>>	- the name that is appear in the tab itself when  open the website.
+>>>	- be in the middle of <,head>
+>---
+>>[!danger]- Body:
+>>- <,body> the following here <,/body>
+>>- Contain the Content of the page.
+>>---
+>>>[!tip]- Headers :
+>>>- <,h1 ~ h6>             <,/h1 ~ h6>
+>>>	- for make the paragraph header or the topic header in large scale.
+>>---
+>>>[!faq]- Paragraphs :
+>>>- <,p>                  <,/p>
+>>>	- for writing the content of the page, for each header.
+>>---
+>>>[!success]- Lists :
+>>>>[!tip]- Unordered List :
+>>>>- <,ul> <,/ul>
+>>>>	- unordered list.
+>>>>	- dots before the list not numbers.
+>>>>---
+>>>>- <,li> "name of item" <,/li>
+>>>>	- should be inside <,ul>
+>>>---
+>>>>[!quote]- Ordered List:
+>>>><,ol> <,/ol>
+>>>>	- ordered list
+>>>>	- clean and have numbers.
+>>---
+>>>[!todo]- Attribute :
+>>>- <,a>
+>>>---
+>>>>[!caution]- link :
+>>>>- <,a href="link@mail.c" > hyber_word <,/a>
+>>>>	- for making hyperlinks in words and make links.
+>>>>	- need to use <,a>
+>>>---
+>>>>[!bug]- import photo :
+>>>>- <
 
 ---
 
->[!tip]- Syntax:
->
->- <tagname> content </tagname>:
->	- it is the normal start and end tags.
+>[!bug]- Syntax Style :
+>- to make some sort of shape to the words.
+>- bold, underline, color, not straight, ...
 >---
->>[!caution]- Headers:
->>- the main syntax that appear in the first part of any website.
->>- different sizes.
->>---
->>- "<h1,> About us </h1,>"
->>	- example of header file.
->>	- the , for not make the syntax render in obsidian.
->>---
+>>[!todo]- <,Strong> :
+>>- for make the syntax bold
 >
+>>[!success]- <,em> :
+>>- for emphasize, not straight lines.
+>
+>>[!caution]- 
+
+---
+>[!tip]- Comments :
+>- <,!-- your comment here -->
+
+---
+>[!caution]- Inline & Block Element :
+>>[!todo]- Inline :
+>>- don't start a new line
+>>- take only the necessary width
+>>---
+>>- <,span> | <,img> | <,a> | <,strong>
 >---
->>- <p,> paragraph </,p>  
->>	- for writing paragraphs.
->>- <br,>
->>	- for self closing tags
+>>[!danger]- Block :
+>>- Start on a new line
+>>- Take full width available.
+>>---
+>>- <,div> | <h1~6> | <,form>
+
+
+
+
+
 
 
