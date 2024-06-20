@@ -51,6 +51,9 @@
 >>>><,ol> <,/ol>
 >>>>	- ordered list
 >>>>	- clean and have list numbers.
+>>>>---
+>>>>- <,li> "name of item" <,/li>
+>>>>	- should be inside <,ul>
 >>---
 >>>[!todo]- Attribute :
 >>>- <,a>   <,/a>
@@ -82,7 +85,6 @@
 >>>>	- the table content.
 >>>>	- be inside the <,tr>
 >>>---
->>>- 
 
 ---
 
