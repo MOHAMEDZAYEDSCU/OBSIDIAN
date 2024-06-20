@@ -50,10 +50,10 @@
 >>>>[!quote]- Ordered List:
 >>>><,ol> <,/ol>
 >>>>	- ordered list
->>>>	- clean and have numbers.
+>>>>	- clean and have list numbers.
 >>---
 >>>[!todo]- Attribute :
->>>- <,a>
+>>>- <,a>   <,/a>
 >>>---
 >>>>[!caution]- link :
 >>>>- <,a href="link@mail.c" > hyber_word <,/a>
@@ -61,7 +61,28 @@
 >>>>	- need to use <,a>
 >>>---
 >>>>[!bug]- import photo :
->>>>- <
+>>>>
+>>---
+>>>[!caution]- Table :
+>>>- <,table> <,/table>
+>>>	- for making table
+>>>	- consists of table-head & table-row
+>>>---
+>>>>[!todo]- Table Head :
+>>>>- <,thead>
+>>>>	- for putting data in the head of the table, meta data about the table...
+>>>---
+>>>>[!danger]- Table Row :
+>>>>- <,tr>
+>>>>	- for putting data in the same row but separate by space.
+>>>>	- should be insdie the <,thead>
+>>>>---
+>>>>- <,th> <,/th>
+>>>>	- the th tag 
+>>>>	- the table content.
+>>>>	- be inside the <,tr>
+>>>---
+>>>- 
 
 ---
 
@@ -97,7 +118,25 @@
 
 
 
+#### Example of a Table :
+```html
+<!-- for making a simple table with the list concept -->
+<table>
+<!-- for the same row data -->
+	<tr> 
+		<th> Name </th>
+		<th> Age </th>
+		<th> Collage </th>
+	</tr>
+<!-- for ordered list data -->
+	<ol> 
+		<li> Name </li>
+		<li> Age </li>
+		<li> Collage </li>
+	</ol>
 
+</table>
 
+```
 
 
