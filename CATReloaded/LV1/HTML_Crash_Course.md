@@ -7,7 +7,6 @@
 >- .html extension
 
 ---
-
 >[!todo]- The Structure :
 >- consists of head, body and comments.
 >- ![[Pasted image 20240619195814.png]]
@@ -18,48 +17,48 @@
 >>- there were a different versions of html types with a different doctype forms.
 >---
 >>[!success]- Head:
->>- <,head>   <,/head>
+>>- `<head>      </head>`
 >>---
 >>>[!caution]- Title :
->>>- <,title> book store </,title>
+>>>- `<title> book store </title>`
 >>>	- it is the minimum description of the website, book store.
 >>>	- the name that is appear in the tab itself when  open the website.
 >>>	- be in the middle of <,head>
 >---
 >>[!danger]- Body:
->>- <,body> the following here <,/body>
+>>- `<body> the following here </body>`
 >>- Contain the Content of the page.
 >>---
 >>>[!tip]- Headers :
->>>- <,h1 ~ h6>             <,/h1 ~ h6>
+>>>- `<h1 ~ h6>             <,/h1 ~ h6>`
 >>>	- for make the paragraph header or the topic header in large scale.
 >>---
 >>>[!faq]- Paragraphs :
->>>- <,p>                  <,/p>
+>>>- `<p>        </p>`
 >>>	- for writing the content of the page, for each header.
 >>---
 >>>[!success]- Lists :
 >>>>[!tip]- Unordered List :
->>>>- <,ul> <,/ul>
+>>>>- `<ul>          </ul>`
 >>>>	- unordered list.
 >>>>	- dots before the list not numbers.
 >>>>---
->>>>- <,li> "name of item" <,/li>
+>>>>- `<li> "name of item" </li> `
 >>>>	- should be inside <,ul>
 >>>---
 >>>>[!quote]- Ordered List:
->>>><,ol> <,/ol>
+>>>>`<ol>       </ol>`
 >>>>	- ordered list
 >>>>	- clean and have list numbers.
 >>>>---
->>>>- <,li> "name of item" <,/li>
+>>>>- `<li> "name of item" </li>`
 >>>>	- should be inside <,ul>
 >>---
 >>>[!todo]- Attribute :
->>>- <,a>   <,/a>
+>>>- `<a>      </a>`
 >>>---
 >>>>[!caution]- link :
->>>>- <,a href="link@mail.c" > hyber_word <,/a>
+>>>>- `<a href="link@mail.c" > hyber_word </a>`
 >>>>	- for making hyperlinks in words and make links.
 >>>>	- need to use <,a>
 >>>---
@@ -67,38 +66,41 @@
 >>>>
 >>---
 >>>[!caution]- Table :
->>>- <,table> <,/table>
+>>>- `<table>       </table>`
 >>>	- for making table
 >>>	- consists of table-head & table-row
 >>>---
 >>>>[!todo]- Table Head :
->>>>- <,thead>
+>>>>- `<thead>`
 >>>>	- for putting data description in the head of the table like, name - age - collage. and under each column the actual data of that category.
 >>>>	- prefered to use <,th> for each name and <,tr> for the same row
 >>>---
 >>>>[!danger]- Table Body :
 >>>>- for putting the data of each category, like name of customers under the name section.
 >>>>---
->>>>- <,tr>
+>>>>- `<tr>`
 >>>>	- for putting data in the same row but separate by space.
 >>>>	- should be insdie the <,thead>
 >>>>---
->>>>- <,th> <,/th>
+>>>>- `<th>      </th>`
 >>>>	- the th tag 
 >>>>	- the table content.
 >>>>	- be inside the <,tr>
 >>---
->>>[!todo]- DIV :
->>>- <,div  "your command"> <,/div>
+>>>[!tip]- DIV :
+>>>- `<div "your command" > </div>`
 >>>	- it is generic block content
 >>>	- group and organize content
 >>>	- need the actual command inside it to organize it and make it as a block, but it didn't do anything by itself.
 >>>---
 >>>- it is better be with css or javascript to perform better results on the overall shape.
->>>
+>>---
+>>>[!caution]- Input :
+>>>- `<input type="" name="">`
+>>>	- for interring inputs and specify type and name for the input.
+>>>	- 
 
 ---
-
 >[!bug]- Syntax Style :
 >- to make some sort of shape to the words.
 >- bold, underline, color, not straight, ...
@@ -113,7 +115,7 @@
 
 ---
 >[!tip]- Comments :
->- <,!-- your comment here -->
+>- `<!-- your comment here -->`
 
 ---
 >[!caution]- Inline & Block Element :
@@ -130,7 +132,6 @@
 >>- <,div> | <h1~6> | <,form>
 
 ---
-
 #### Forms :
 - interacting with the data.
 - GET, POST, DELETE and UPDATE(was a command with 3 char !!!) used here.
