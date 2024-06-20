@@ -73,9 +73,12 @@
 >>>---
 >>>>[!todo]- Table Head :
 >>>>- <,thead>
->>>>	- for putting data in the head of the table, meta data about the table...
+>>>>	- for putting data description in the head of the table like, name - age - collage. and under each column the actual data of that category.
+>>>>	- prefered to use <,th> for each name and <,tr> for the same row
 >>>---
->>>>[!danger]- Table Row :
+>>>>[!danger]- Table Body :
+>>>>- for putting the data of each category, like name of customers under the name section.
+>>>>---
 >>>>- <,tr>
 >>>>	- for putting data in the same row but separate by space.
 >>>>	- should be insdie the <,thead>
@@ -84,7 +87,15 @@
 >>>>	- the th tag 
 >>>>	- the table content.
 >>>>	- be inside the <,tr>
+>>---
+>>>[!todo]- DIV :
+>>>- <,div  "your command"> <,/div>
+>>>	- it is generic block content
+>>>	- group and organize content
+>>>	- need the actual command inside it to organize it and make it as a block, but it didn't do anything by itself.
 >>>---
+>>>- it is better be with css or javascript to perform better results on the overall shape.
+>>>
 
 ---
 
@@ -118,7 +129,168 @@
 >>---
 >>- <,div> | <h1~6> | <,form>
 
+---
 
+#### Forms :
+- interacting with the data.
+- GET, POST, DELETE and UPDATE(was a command with 3 char !!!) used here.
+- the important part for the security features.
+ ----
+<br>
+```html
+<form action="submit_page.php" method="post">
+    <!-- Form elements go here -->
+</form>
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Action: Specifies the URL to which the form data is sent when the form is submitted. -->
+
+<form action="/submit_page">
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Method: Specifies the HTTP method to be used when sending form data. Common values are GET and POST. -->
+
+<form method="post">
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Name: Specifies the name of the form. -->
+
+<form name="myForm">
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Target: Specifies where to display the response received after submitting the form. Common values are _self, _blank, _parent, and _top. -->
+
+<form target="_blank">
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Enctype: Specifies how the form data should be encoded when submitted. Common values are application/x-www-form-urlencoded (default), multipart/form-data (for file uploads), and text/plain. -->
+
+<form enctype="multipart/form-data">
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Autocomplete: Specifies whether the form should have autocomplete on or off. -->
+
+<form autocomplete="off">
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Input Elements: Various types of input fields. -->
+
+<input type="text" name="username" placeholder="Enter username">
+<input type="password" name="password" placeholder="Enter password">
+<input type="email" name="email" placeholder="Enter email">
+<input type="submit" value="Submit">
+<input type="radio" name="gender" value="male"> Male
+<input type="radio" name="gender" value="female"> Female
+<input type="checkbox" name="subscribe" value="newsletter"> Subscribe to newsletter
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Textarea: Multi-line text input. -->
+
+<textarea name="message" rows="4" cols="50" placeholder="Enter your message"></textarea>
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Select: Drop-down list. -->
+
+<select name="country">
+    <option value="usa">USA</option>
+    <option value="canada">Canada</option>
+    <option value="uk">UK</option>
+</select>
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Button: Button element that can be used to submit the form or trigger JavaScript functions. -->
+
+<button type="submit">Submit</button>
+<button type="button" onclick="alert('Hello!')">Click Me</button>
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Fieldset and Legend: Used to group related elements within a form. -->
+
+<fieldset>
+    <legend>Personal Information</legend>
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name"><br><br>
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email">
+</fieldset>
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+<!-- Example of a Complete Form -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Example</title>
+</head>
+<body>
+    <form action="/submit_page.php" method="post" enctype="multipart/form-data" autocomplete="on" target="_self">
+        <fieldset>
+            <legend>Personal Information</legend>
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" required><br><br>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required><br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+            <label for="gender">Gender:</label><br>
+            <input type="radio" id="male" name="gender" value="male">
+            <label for="male">Male</label><br>
+            <input type="radio" id="female" name="gender" value="female">
+            <label for="female">Female</label><br><br>
+            <label for="subscribe">Subscribe to newsletter:</label>
+            <input type="checkbox" id="subscribe" name="subscribe" value="newsletter"><br><br>
+        </fieldset>
+        <fieldset>
+            <legend>Message</legend>
+            <label for="message">Your Message:</label><br>
+            <textarea id="message" name="message" rows="4" cols="50" placeholder="Enter your message"></textarea><br><br>
+        </fieldset>
+        <fieldset>
+            <legend>Country</legend>
+            <label for="country">Select your country:</label>
+            <select id="country" name="country">
+                <option value="usa">USA</option>
+                <option value="canada">Canada</option>
+                <option value="uk">UK</option>
+            </select><br><br>
+        </fieldset>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
+
+<!-- ============================================ -->
+<!-- ============================================ -->
+
+```
+
+---
 
 #### Example of a Table :
 ```html

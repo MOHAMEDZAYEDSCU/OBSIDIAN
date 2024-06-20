@@ -11,8 +11,12 @@
             "id": "64a59d5f849a7864",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md"
+              }
             }
           }
         ]
@@ -140,13 +148,14 @@
   },
   "active": "64a59d5f849a7864",
   "lastOpenFiles": [
+    "CATReloaded/LV1/HTTP Crash Course.md",
+    "README.md",
     "CATReloaded/LV1/HTML_Crash_Course.md",
     "Screen shots/Pasted image 20240619195814.png",
     "Screen shots/Pasted image 20240619171612.png",
     "Screen shots/Pasted image 20240619173113.png",
     "Screen shots/Pasted image 20240619173508.png",
     "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
-    "CATReloaded/LV1/HTTP Crash Course.md",
     "Maharatech/Ethical Hacking/Gaining Access.md",
     "Maharatech/Ethical Hacking/Enumeration.md",
     "Screen shots/Http2.png",
@@ -169,7 +178,6 @@
     "CATReloaded/LV0/Linux/Basic LINUX.md",
     "Maharatech/Ethical Hacking/Reconnaissance.md",
     "Screen shots/readnotify.png",
-    "README.md",
     "newtesting file.md",
     "Github Repo.md",
     "conflict-files-obsidian-git.md",
