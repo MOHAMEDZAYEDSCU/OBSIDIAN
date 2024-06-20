@@ -12,16 +12,32 @@
 >- consists of head, body and comments.
 >- ![[Pasted image 20240619195814.png]]
 >---
->>[!caution]- <!,DOCTYPE html> (always the first)
+>>[!caution]- `<!DOCTYPE html>` (always the first)
 >>- not a syntax, consider it as a declaration and must be found in the first line.
 >>- it is for the html 5 version used in the website
 >>- there were a different versions of html types with a different doctype forms.
 >---
->>[!bug]- Meta Data :
->>- These tags are important for ensuring that your webpage is displayed correctly across different devices and browsers.
+>>[!todo]- `<html lang="en">       </html>` :
+>>- Starts the HTML document.
+>>- The `lang="en"` attribute specifies the language of the document (in this case, English).
+>>- This can be important for accessibility and search engine optimization (SEO).
 >---
->>[!success]- Head:
+>>[!Danger]- Head:
 >>- `<head>      </head>`
+>>---
+>>>[!todo]- Meta Data :
+>>>- These tags are important for ensuring that your webpage is displayed correctly across different devices and browsers.
+>>>- be in the head and above title. 
+>>>---
+>>>- `<meta charset="UTF-8">` :
+>>>	- For character encoding
+>>>		- ensures that the browser correctly interprets the characters used in your HTML document, especially for non-ASCII characters (like accented letters, symbols, and characters from other languages).
+>>>---
+>>>- `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
+>>>	- For control layout on mobile devices.
+>>>		- ensure that your webpage is displayed correctly on all devices (desktops, tablets, and mobile phones).
+>>>	- **Scaling**: 
+>>>		- The `width=device-width` part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).
 >>---
 >>>[!caution]- Title :
 >>>- `<title> book store </title>`
@@ -29,7 +45,7 @@
 >>>	- the name that is appear in the tab itself when  open the website.
 >>>	- be in the middle of <,head>
 >---
->>[!danger]- Body:
+>>[!Bug]- Body:
 >>- `<body> the following here </body>`
 >>- Contain the Content of the page.
 >>---
