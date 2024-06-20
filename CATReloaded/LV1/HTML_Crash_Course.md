@@ -330,7 +330,7 @@
 
 ---
 
-#### Example of a full html  library code :
+#### Example of a full html library code :
 ```html
 <!DOCTYPE html>
 <html lang="en">
