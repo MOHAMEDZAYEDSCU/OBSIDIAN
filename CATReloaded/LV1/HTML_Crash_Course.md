@@ -97,9 +97,19 @@
 >>>- it is better be with css or javascript to perform better results on the overall shape.
 >>---
 >>>[!caution]- Input :
->>>- `<input type="" name="">`
+>>>- `<input type=" " name=" ">`
 >>>	- for interring inputs and specify type and name for the input.
->>>	- 
+>>>	-  it make a box for taking inputs from the user.
+>>
+>>>[!todo]- Select & Option :
+>>>- `<select name="country">`
+>>>  `<option value="usa">USA</option>`
+>>>   `<option value="canada">Canada</option>`
+>>>  `<option value="uk">UK</option>`
+>>> `</select>`
+>>>	- for chose one prepared option from multiple options.
+>>>	- need to use option with them.
+>>>	- the option value must be small as a value and be putted in whatever you want, like hyperlink ??
 
 ---
 >[!bug]- Syntax Style :
