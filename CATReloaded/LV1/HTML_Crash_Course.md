@@ -17,6 +17,9 @@
 >>- it is for the html 5 version used in the website
 >>- there were a different versions of html types with a different doctype forms.
 >---
+>>[!bug]- Meta Data :
+>>- These tags are important for ensuring that your webpage is displayed correctly across different devices and browsers.
+>---
 >>[!success]- Head:
 >>- `<head>      </head>`
 >>---
@@ -63,8 +66,10 @@
 >>>>	- for making hyperlinks in words and make links.
 >>>>	- need to use <,a>
 >>>---
->>>>[!bug]- import photo :
->>>>
+>>>>[!bug]- Import photo & pictures :
+>>>>- `<a href="URL">`
+>>>>- `<img src="IMAGE_URL" alt="Description of the image">`
+>>>>- `</a>`
 >>---
 >>>[!caution]- Table :
 >>>- `<table>       </table>`
@@ -100,7 +105,7 @@
 >>>- `<input type=" " name=" ">`
 >>>	- for interring inputs and specify type and name for the input.
 >>>	-  it make a box for taking inputs from the user.
->>
+>>---
 >>>[!todo]- Select & Option :
 >>>- `<select name="country">`
 >>>  `<option value="usa">USA</option>`
@@ -139,13 +144,13 @@
 >>- don't start a new line
 >>- take only the necessary width
 >>---
->>- <,span> | <,img> | <,a> | <,strong>
+>>- `<span> | <img> | <a> | <strong>`
 >---
 >>[!danger]- Block :
 >>- Start on a new line
 >>- Take full width available.
 >>---
->>- <,div> | <h1~6> | <,form>
+>>- `<div> | <h1~6> | <form>`
 
 ---
 #### Forms :
