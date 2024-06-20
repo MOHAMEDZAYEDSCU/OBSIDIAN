@@ -330,24 +330,119 @@
 
 ---
 
-#### Example of a Table :
+#### Example of a full html  library code :
 ```html
-<!-- for making a simple table with the list concept -->
-<table>
-<!-- for the same row data -->
-	<tr> 
-		<th> Name </th>
-		<th> Age </th>
-		<th> Collage </th>
-	</tr>
-<!-- for ordered list data -->
-	<ol> 
-		<li> Name </li>
-		<li> Age </li>
-		<li> Collage </li>
-	</ol>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Defines the character encoding for the document -->
+    <meta charset="UTF-8">
+    <!-- Ensures the page is displayed correctly on all devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- The title of the document, displayed in the browser tab -->
+    <title>Library</title>
+</head>
+<body>
+    <!-- Main heading for the page -->
+    <h1>Welcome to the Library</h1>
 
-</table>
+    <!-- Section for user authentication -->
+    <section>
+        <h2>Login</h2>
+        <!-- Form for user login -->
+        <form action="/login" method="post">
+            <!-- Label and input for username -->
+            <label for="login-username">Username:</label>
+            <input type="text" id="login-username" name="username" required><br><br>
+            <!-- Label and input for password -->
+            <label for="login-password">Password:</label>
+            <input type="password" id="login-password" name="password" required><br><br>
+            <!-- Submit button for the login form -->
+            <input type="submit" value="Login">
+        </form>
+    </section>
+
+    <section>
+        <h2>Sign Up</h2>
+        <!-- Form for user registration -->
+        <form action="/signup" method="post">
+            <!-- Label and input for username -->
+            <label for="signup-username">Username:</label>
+            <input type="text" id="signup-username" name="username" required><br><br>
+            <!-- Label and input for email -->
+            <label for="signup-email">Email:</label>
+            <input type="email" id="signup-email" name="email" required><br><br>
+            <!-- Label and input for password -->
+            <label for="signup-password">Password:</label>
+            <input type="password" id="signup-password" name="password" required><br><br>
+            <!-- Submit button for the sign-up form -->
+            <input type="submit" value="Sign Up">
+        </form>
+    </section>
+
+    <!-- Section for displaying book categories -->
+    <section>
+        <h2>Book Categories</h2>
+        <!-- Unordered list of book categories -->
+        <ul>
+            <li>Fiction</li>
+            <li>Non-Fiction</li>
+            <li>Science</li>
+            <li>History</li>
+            <li>Biography</li>
+        </ul>
+    </section>
+
+    <!-- Section for searching books -->
+    <section>
+        <h2>Search Books</h2>
+        <!-- Form for searching books -->
+        <form action="/search" method="get">
+            <!-- Label and input for search query -->
+            <label for="search-query">Search:</label>
+            <input type="text" id="search-query" name="query" required><br><br>
+            <!-- Submit button for the search form -->
+            <input type="submit" value="Search">
+        </form>
+    </section>
+
+    <!-- Section for displaying new arrivals -->
+    <section>
+        <h2>New Arrivals</h2>
+        <!-- Unordered list of new arrival books -->
+        <ul>
+            <li>The Great Gatsby</li>
+            <li>1984 by George Orwell</li>
+            <li>To Kill a Mockingbird</li>
+            <li>The Catcher in the Rye</li>
+            <li>The Hobbit</li>
+        </ul>
+    </section>
+
+    <!-- Section for user comments -->
+    <section>
+        <h2>User Comments</h2>
+        <!-- Form for submitting a comment -->
+        <form action="/submit_comment" method="post">
+            <!-- Label and input for commenter's name -->
+            <label for="commenter-name">Name:</label>
+            <input type="text" id="commenter-name" name="name" required><br><br>
+            <!-- Label and textarea for comment text -->
+            <label for="comment-text">Comment:</label>
+            <textarea id="comment-text" name="comment" rows="4" cols="50" required></textarea><br><br>
+            <!-- Submit button for the comment form -->
+            <input type="submit" value="Submit Comment">
+        </form>
+
+        <!-- Placeholder for displaying comments -->
+        <div id="comments-section">
+            <h3>Comments:</h3>
+            <!-- Example comment -->
+            <p><strong>John Doe:</strong> This library is fantastic!</p>
+        </div>
+    </section>
+</body>
+</html>
 
 ```
 
