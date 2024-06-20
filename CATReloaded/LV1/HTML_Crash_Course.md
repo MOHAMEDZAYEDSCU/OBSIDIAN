@@ -5,6 +5,7 @@
 >- no logic no actual programming, just a presentational language.
 >- for build blocks of web. the web pages.
 >- .html extension
+>- use `<br>` for making a new line.
 
 ---
 >[!todo]- The Structure :
@@ -105,13 +106,18 @@
 >- to make some sort of shape to the words.
 >- bold, underline, color, not straight, ...
 >---
->>[!todo]- <,Strong> :
->>- for make the syntax bold
+>>[!todo]- `<Strong>` :
+>>- **for make the syntax bold**
 >
->>[!success]- <,em> :
->>- for emphasize, not straight lines.
+>>[!success]- `<em>` :
+>>- *for emphasize, not straight lines.*
+>---
+>>[!caution]- `<hr>` :
+>>- for making a horizontal row in the page.
+>>---
 >
->>[!caution]- 
+>>[!tip]- `<br>` :
+>>- for making a new line.
 
 ---
 >[!tip]- Comments :
