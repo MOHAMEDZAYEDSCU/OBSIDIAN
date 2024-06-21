@@ -168,7 +168,7 @@
 >>
 >>>[!tip]- secure hashing algorithm(SHA):
 >>>- you divide it by 4, cause it is hexadecimal 4bits.
->>>- SHA-1 -> not used because you may find 2 different words having the same hashing. 160bit -> Each char will be 40 bit ?
+>>>- SHA-1 -> not used because you may find 2 different words having the same hashing. 160bit -> Total char will be 40 bit.
 >>>- SHA-2 ->
 >>>- SHA-3 ->
 >>>---
