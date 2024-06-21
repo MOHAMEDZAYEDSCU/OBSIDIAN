@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a455d7e89d9856b2",
+        "id": "dc319d99e5f9f104",
         "type": "tabs",
         "children": [
           {
-            "id": "64a59d5f849a7864",
+            "id": "4e5c18476f36f45e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
-                "mode": "preview",
+                "file": "Ebrahim_hegazy/Lec_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab08a3477f4d0ed8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git&Github.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
+                "file": "Git&Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
+                "file": "Git&Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CATReloaded/LV1/HTML_Crash_Course.md"
+                "file": "Git&Github.md"
               }
             }
           }
@@ -146,11 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64a59d5f849a7864",
+  "active": "ab08a3477f4d0ed8",
   "lastOpenFiles": [
+    "Ebrahim_hegazy/Lec_1.md",
+    "Git&Github.md",
+    "Ebrahim_hegazy",
+    "CATReloaded/LV1/HTML_Crash_Course.md",
     "Callouts.md",
     "README.md",
-    "CATReloaded/LV1/HTML_Crash_Course.md",
     "CATReloaded/LV1/HTTP Crash Course.md",
     "Screen shots/Pasted image 20240619195814.png",
     "Screen shots/Pasted image 20240619171612.png",
@@ -181,7 +197,6 @@
     "newtesting file.md",
     "Github Repo.md",
     "conflict-files-obsidian-git.md",
-    "Reconnaissance.md",
     "Maharatech/Ethical Hacking",
     "Screen shots/Pasted image 20240601162927.png",
     "Screen shots/Pasted image 20240601162822.png",
@@ -192,7 +207,6 @@
     "Tryhackme",
     "CATReloaded/LV0/Cryptography",
     "Screen shots",
-    "CATReloaded/LV0/Networks/OSI Layers",
     "Untitled.canvas"
   ]
 }
