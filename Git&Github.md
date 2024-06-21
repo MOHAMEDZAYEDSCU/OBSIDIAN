@@ -75,6 +75,12 @@
 >>- it make some:
 >>	- encryption
 >>	- compression for speed and save memory as possible.
+>>	- portable
+>>---
+>>- Those infos stored in hidden file called :
+>>	- .git
+>>		- ==.git = repo== means:
+>>			- the file that contain all the versions and the modification occurred during the development process.
 >>- 
 
 
