@@ -167,11 +167,14 @@
 >>[!danger]- Types:
 >>
 >>>[!tip]- secure hashing algorithm(SHA):
->>>- SHA-1 -> not used because you may find 2 different words having the same hashing.
+>>>- you divide it by 4, cause it is hexadecimal 4bits.
+>>>- SHA-1 -> not used because you may find 2 different words having the same hashing. 160bit -> Each char will be 40 bit ?
 >>>- SHA-2 ->
 >>>- SHA-3 ->
 >>>---
->>>- SHA-256 ->  the most commonly used algorithm.
+>>>- SHA-256:
+>>>	- the most commonly used algorithm.
+>>>	- 256 bit.
 >>---
 >>>[!tip]- Message Digest(MD):
 >>>- was used but due to collisions(more than plain text having the same cipher text), now it is considered broken.
