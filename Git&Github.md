@@ -38,8 +38,8 @@
 >>>	- the difference between the original and modified one.
 >>>---
 >>>>[!quote] now if you want to run a old version ? v5 for example ..
->>>	- you will run the the first version until you reach the required version.
->>>		- build the system step by step, incremental.
+>>>>- you will run the the first version until you reach the required version.
+>>>>	- build the system step by step, incremental.
 >>---
 >>>[!danger]- Current Git :
 >>>- Take a snap shot of all the modified file and store it
@@ -52,7 +52,7 @@
 >	- because it allow you to track all version of the app or system being developed.
 >	- One Repo Contain many directories.
 >---
->- Git Working Directory = Working Tree:
+>- Git Working Directory = Working Tree (when uploading file online, see Git Arch):
 >	- the ==folder== that you are working in its files.
 >---
 >- you need to track everything. 
@@ -72,6 +72,9 @@
 >>		- has the file content & type, size and other metadata about it
 >>	- Directory -> Tree
 >>		- the directory & ~~~~~ about it.
+>>- it make some:
+>>	- encryption
+>>	- compression for speed and save memory as possible.
 >>- 
 
 
