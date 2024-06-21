@@ -81,7 +81,11 @@
 >>	- .git
 >>		- ==.git = repo== means:
 >>			- the file that contain all the versions and the modification occurred during the development process.
->>- 
+>---
+>>[!faq]- Git Hash_SHA1 :
+>>- the git use SHA1(secure hash algorithm) for encrypt and secure your data, but it add (null char, type & size) to the file to generate the cipher text.
+>---
+>>[!]
 
 
 
