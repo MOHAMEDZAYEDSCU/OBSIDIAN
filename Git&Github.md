@@ -27,7 +27,52 @@
 >>>	- push and pull requests.
 >>>- like Central version control but with your desires.
 >>>	- you control who will access the files and modify them.
->>>- 
+
+---
+
+>[!tip]- How it Work :
+>>[!caution]- Tracking Versions? :
+>>>[!todo]- In Past :
+>>>- in the beginning, the control version take a snap shot of your project.
+>>>- by adding any modification, it just take the new line.
+>>>	- the difference between the original and modified one.
+>>>---
+>>>>[!quote] now if you want to run a old version ? v5 for example ..
+>>>	- you will run the the first version until you reach the required version.
+>>>		- build the system step by step, incremental.
+>>---
+>>>[!danger]- Current Git :
+>>>- Take a snap shot of all the modified file and store it
+>>>	- even if it just a character, it will take the whole file !!!!!!!!!!
+
+---
+
+>[!todo]- Git Architecture :
+>- Git Repository = Version control
+>	- because it allow you to track all version of the app or system being developed.
+>	- One Repo Contain many directories.
+>---
+>- Git Working Directory = Working Tree:
+>	- the ==folder== that you are working in its files.
+>---
+>- you need to track everything. 
+><br>
+>- OS independent 
+>	- changing operating system doesn't affect the process.
+><br>
+>- Track History :
+>	- who modified the code
+>	- the time of modification
+>	- the modification.
+><br>
+>---
+>>[!caution]- Git Arch :
+>>- The Tracking control version change some names to be able to avoid mistakes and conflicts...
+>>	- File -> Blob
+>>		- has the file content & type, size and other metadata about it
+>>	- Directory -> Tree
+>>		- the directory & ~~~~~ about it.
+>>- 
 
 
 
