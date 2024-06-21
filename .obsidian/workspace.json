@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md"
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md"
               }
             }
           }
