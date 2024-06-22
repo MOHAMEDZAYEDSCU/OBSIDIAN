@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
+                "file": "CATReloaded/LV1/JavaScript.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
+                "file": "CATReloaded/LV1/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
+                "file": "CATReloaded/LV1/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CATReloaded/LV1/HTML_Crash_Course.md"
+                "file": "CATReloaded/LV1/JavaScript.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   "active": "ac4902dd1bb437d8",
   "lastOpenFiles": [
     "JavaScript.md",
-    "CATReloaded/LV1/Git&Github.md",
     "CATReloaded/LV1/JavaScript.md",
+    "CATReloaded/LV1/HTML_Crash_Course.md",
+    "CATReloaded/LV1/Git&Github.md",
     "CATReloaded/LV0/Cryptography/Cryptography Fundamentals.md",
     "Ebrahim_hegazy/Lec_1.md",
     "Ebrahim_hegazy",
-    "CATReloaded/LV1/HTML_Crash_Course.md",
     "Callouts.md",
     "README.md",
     "CATReloaded/LV1/HTTP Crash Course.md",
