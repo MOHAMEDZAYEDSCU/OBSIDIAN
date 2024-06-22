@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CATReloaded/LV1/Git&Github.md",
-                "mode": "source",
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CATReloaded/LV1/Git&Github.md",
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CATReloaded/LV1/Git&Github.md",
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CATReloaded/LV1/Git&Github.md"
+                "file": "CATReloaded/LV1/HTML_Crash_Course.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ac4902dd1bb437d8",
   "lastOpenFiles": [
-    "CATReloaded/LV1/JavaScript.md",
+    "JavaScript.md",
     "CATReloaded/LV1/Git&Github.md",
+    "CATReloaded/LV1/JavaScript.md",
     "CATReloaded/LV0/Cryptography/Cryptography Fundamentals.md",
     "Ebrahim_hegazy/Lec_1.md",
     "Ebrahim_hegazy",
@@ -183,7 +184,6 @@
     "CATReloaded/LV0/Linux/Basic LINUX.md",
     "Maharatech/Ethical Hacking/Reconnaissance.md",
     "Screen shots/readnotify.png",
-    "newtesting file.md",
     "Maharatech/Ethical Hacking",
     "Screen shots/Pasted image 20240601162927.png",
     "Screen shots/Pasted image 20240601162822.png",

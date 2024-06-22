@@ -83,9 +83,8 @@
 >>>>	- need to use <,a>
 >>>---
 >>>>[!bug]- Import photo & pictures :
->>>>- `<a href="URL">`
->>>>- `<img src="IMAGE_URL" alt="Description of the image">`
->>>>- `</a>`
+>>>>- `<img src="https://github.com/MOHAMEDZAYEDSCU/OBSIDIAN/blob/main/Screen%20shots/CAT_LOGO_SVG%20.png">`
+>>>>	- you can use `<p align="center"> </p>` to make it better and be in the middle of the page.
 >>---
 >>>[!caution]- Table :
 >>>- `<table>       </table>`
