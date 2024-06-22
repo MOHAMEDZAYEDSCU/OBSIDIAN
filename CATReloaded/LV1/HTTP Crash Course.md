@@ -20,7 +20,4 @@
 >[!caution]- HTTP Methods:
 >- ![[Pasted image 20240619173508.png]]
 
----
-
->[!success]- 
 

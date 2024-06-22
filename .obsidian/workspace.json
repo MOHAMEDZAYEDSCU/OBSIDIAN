@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CATReloaded/LV1/HTTP Crash Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CATReloaded/LV1/HTTP Crash Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CATReloaded/LV1/HTTP Crash Course.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "ac4902dd1bb437d8",
   "lastOpenFiles": [
+    "CATReloaded/LV0/Networks/Books/Network Attacking Explanation.md",
+    "README.md",
     "CATReloaded/LV1/Git&Github.md",
     "CATReloaded/LV1/JavaScript.md",
     "JavaScript.md",
@@ -156,7 +158,6 @@
     "Ebrahim_hegazy/Lec_1.md",
     "Ebrahim_hegazy",
     "Callouts.md",
-    "README.md",
     "CATReloaded/LV1/HTTP Crash Course.md",
     "Screen shots/Pasted image 20240619195814.png",
     "Screen shots/Pasted image 20240619171612.png",
@@ -182,7 +183,6 @@
     "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
     "CATReloaded/LV0/Networks/Basic Network Categories.md",
     "CATReloaded/LV0/Linux/Basic LINUX.md",
-    "Maharatech/Ethical Hacking/Reconnaissance.md",
     "Screen shots/readnotify.png",
     "Maharatech/Ethical Hacking",
     "Screen shots/Pasted image 20240601162927.png",
