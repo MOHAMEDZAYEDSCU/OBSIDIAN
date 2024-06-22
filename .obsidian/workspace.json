@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "file": "CATReloaded/LV1/Git&Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "file": "CATReloaded/LV1/Git&Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md",
+                "file": "CATReloaded/LV1/Git&Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CATReloaded/LV1/HTTP Crash Course.md"
+                "file": "CATReloaded/LV1/Git&Github.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ac4902dd1bb437d8",
   "lastOpenFiles": [
+    "CATReloaded/LV1/HTTP Crash Course.md",
     "CATReloaded/LV0/Networks/Books/Network Attacking Explanation.md",
     "README.md",
     "CATReloaded/LV1/Git&Github.md",
@@ -158,7 +159,6 @@
     "Ebrahim_hegazy/Lec_1.md",
     "Ebrahim_hegazy",
     "Callouts.md",
-    "CATReloaded/LV1/HTTP Crash Course.md",
     "Screen shots/Pasted image 20240619195814.png",
     "Screen shots/Pasted image 20240619171612.png",
     "Screen shots/Pasted image 20240619173113.png",
