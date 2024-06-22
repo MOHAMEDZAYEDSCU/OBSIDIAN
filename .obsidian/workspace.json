@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git&Github.md",
+                "file": "CATReloaded/LV1/JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git&Github.md",
+                "file": "CATReloaded/LV1/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git&Github.md",
+                "file": "CATReloaded/LV1/JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git&Github.md"
+                "file": "CATReloaded/LV1/JavaScript.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac4902dd1bb437d8",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
+    "CATReloaded/LV1/Git&Github.md",
+    "CATReloaded/LV1/JavaScript.md",
     "CATReloaded/LV0/Cryptography/Cryptography Fundamentals.md",
-    "Git&Github.md",
     "Ebrahim_hegazy/Lec_1.md",
     "Ebrahim_hegazy",
     "CATReloaded/LV1/HTML_Crash_Course.md",
@@ -183,7 +184,6 @@
     "Maharatech/Ethical Hacking/Reconnaissance.md",
     "Screen shots/readnotify.png",
     "newtesting file.md",
-    "Github Repo.md",
     "Maharatech/Ethical Hacking",
     "Screen shots/Pasted image 20240601162927.png",
     "Screen shots/Pasted image 20240601162822.png",
