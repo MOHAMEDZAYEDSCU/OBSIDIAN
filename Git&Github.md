@@ -84,11 +84,22 @@
 >---
 >>[!faq]- Git Hash_SHA1 :
 >>- the git use SHA1(secure hash algorithm) for encrypt and secure your data, but it add (null char, type & size) to the file to generate the cipher text.
->>	- echo "{blob(file type ??)} {filesize}{\\0}{file content}" | shasum
+>>	- echo "{blob(file type ??)} {file-size}{\\0}{file content}" | shasum
 >>		- the original algorithm that git use with manual modification
 >>	- echo "{file content}" | git hash-object --stdin
 >>		- the prepared git algorithm
 >---
+>>[!caution]- Three Tree Architecture:
+>>- submitting your modification over 2 stages not 1.
+>>- the commit is added (الاعتماد) 
+>>- just consider it as a second chance to re-watch and validate your code before pushing it to the Repository. (that not the reason but funny conclusion)
+>>---
+>>- The main reason :
+>>	- When you need to make a change in files and is related to each other so you commit them with a single modification as a single version not a version for each file modified.
+>>		- you have change your phone number, it is submitted in multiple files, so changing your phone number just will modify all other files and will be considered as single modification.
+>>	- be used to be careful, if your project is a life project.
+
+
 
 
 
