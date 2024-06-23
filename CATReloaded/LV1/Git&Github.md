@@ -214,6 +214,8 @@
 >	- for creating new branch
 >- `git branch -d bran_name`
 >	- for deleting branch
+>- `git branch -vv`
+>	- for showing local branches and their remote ones.
 >---
 >>[!todo]- Merging Branches:
 >>- to make all the modification to the same file. if the modification are in separate branches.
@@ -221,6 +223,9 @@
 >>- you need to stop at the branch you want the modification inside it. `master` for example.
 >>- `git merge OtherBranch` with the other branch
 >>- now all inside the files in the `OtherBranch` will be inside the `master branch`
+>---
+>- for remote repo, each local branch need an online branch to push to.
+>	- doesn't require the same name
 
 ---
 
@@ -230,6 +235,7 @@
 >- GITHUB :
 >	- online platform that allow you to store files online for online sharing, depend on git.
 
+---
 
 
 
