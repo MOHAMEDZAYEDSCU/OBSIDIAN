@@ -141,15 +141,28 @@
 >---
 >- `git rm --cached {'filename', ' * '}`
 >	- for remove staged filed from the staging area.
->	- unstage
+>	- unstage and remove files from stage area
 >---
 >- `git status`
 >	- to know the status of your files.
 >	- very important
+>	- `-s` for showing U or M for untracked and Modified.
 >---
 >- `git ls-files`
 >	- show the files in the index area(staging area).
 >	- you can put `-s` in the end to show the hashed file value
+>---
+>- `git log`
+>	- show the commit hashed value with the author and date of creation
+>---
+>- `git cat-file {attribute} {hashedvalue(first 4,5,... char of it would be enough)}`
+>>---
+>>- `git cat-file -t {hashed_val}`
+>>	- for telling the **Type** of the hashed value(blob, tree or commit)
+>>- `git cat-file -s $hashed_val`
+>>	- for telling the size of the hashed val
+>>- `git cat-file -p $hashed_val`
+>>	- for Showing the content of the hashed val
 >---
 >- 
 
