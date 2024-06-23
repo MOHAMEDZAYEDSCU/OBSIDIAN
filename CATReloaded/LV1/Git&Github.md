@@ -144,7 +144,7 @@
 >	- unstage and remove files from stage area
 >---
 >- `git status`
->	- to know the status of your files.
+>	- to know the status of your files, the changes happened in your repo area.
 >	- very important
 >	- `-s` for showing U or M for untracked and Modified.
 >---
@@ -153,7 +153,7 @@
 >	- you can put `-s` in the end to show the hashed file value
 >---
 >- `git log`
->	- show the commit hashed value with the author and date of creation
+>	- show the last commit hashed value with the author and date of creation
 >---
 >- `git cat-file {attribute} {hashedvalue(first 4,5,... char of it would be enough)}`
 >>---
@@ -163,6 +163,18 @@
 >>	- for telling the size of the hashed val
 >>- `git cat-file -p $hashed_val`
 >>	- for Showing the content of the hashed val
+>---
+>- `git init`
+>	- for initializing your local folder as a git repo.
+>	- need to use clone with the token and username with it.
+>---
+>- `git restore`
+>	- to restore your files to the last state from the staging area. before adding them to the index(staging area).
+>	- if you use `git add .`, the `git restore` won't work.
+>		- so you use `git restore --staged filename` first
+>			- to restore the last version from the online repo in the staging area.
+>			- then `git restore filename` to unchange modifications
+>	- 
 >---
 >- 
 
