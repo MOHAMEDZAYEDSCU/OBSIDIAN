@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CATReloaded/LV1/Git&Github.md",
+                "file": "Callouts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CATReloaded/LV1/Git&Github.md",
+                "file": "Callouts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CATReloaded/LV1/Git&Github.md",
+                "file": "Callouts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CATReloaded/LV1/Git&Github.md"
+                "file": "Callouts.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a1263ed760cef5",
+  "active": "ac4902dd1bb437d8",
   "lastOpenFiles": [
+    "README.md",
+    "CATReloaded/LV1/Git&Github.md",
     "Screen shots/Pasted image 20240623172456.png",
     "Callouts.md",
-    "README.md",
     "Tryhackme/Web Application Security THM.md",
     "Tryhackme/PT_Methodology.md",
     "Maharatech/Python.md",
@@ -163,7 +164,6 @@
     "CATReloaded/LV1/JavaScript.md",
     "CATReloaded/LV1/HTTP Crash Course.md",
     "CATReloaded/LV1/HTML_Crash_Course.md",
-    "CATReloaded/LV1/Git&Github.md",
     "CATReloaded/LV0/Networks/Terminologies of Computer Science.md",
     "CATReloaded/LV0/Networks/Basic Network Categories.md",
     "CATReloaded/LV0/Networks/OSI Layers/OSI Model.md",
@@ -189,7 +189,6 @@
     "Screen shots/Pasted image 20240601162822.png",
     "Screen shots/Pasted image 20240601162335.png",
     "Attachments",
-    "Screen shots/Pasted image 20240530011239.png",
     "Maharatech",
     "Tryhackme",
     "CATReloaded/LV0/Cryptography",
