@@ -199,8 +199,14 @@
 >- control version, you have all your versions and modifications, so don't worry.
 >---
 >- first, when you make new branch, the both branches `master & testing` will point to the same file.
+>	- imagine it will make it easy.
 >- now if you want to modify the file as `testing`, you will have a version with your modification as a `testing`.
 >- if you switch back to the `master` branch, the modification won't affect the current branch.
+>---
+>>[!faq]- Divergence:
+>>- if you make a new files in `master` branch, now the divergence is activated.
+>>	- each branch will have its own files.
+>>	- ![[Pasted image 20240623172456.png]]
 >---
 >- `git switch bran_name`
 >	- for switching branches.
