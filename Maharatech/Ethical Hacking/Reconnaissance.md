@@ -1,4 +1,4 @@
-[](Advanced%20Kali%20LINUX.md#Network%20Exploration%20and%20Security)[](Advanced%20Kali%20LINUX.md#Network%20Exploration%20and%20Security)## Search Engine Tools!!
+## Search Engine Tools!!
 ---
 - Use browsers for information gathering:
 	- it depend on the type of information you need, so you might use different browsers.
