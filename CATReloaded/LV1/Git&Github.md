@@ -124,6 +124,7 @@
 >- `git clone https://"$TOKEN"@github.com/"$USER_NAME"/"$REPO_NAME".git`
 >- `git config --global user.name "$USER_NAME"`
 >- `git config --global user.email "$EMAIL"`
+>	- it is just the normal clone with the token before `github.com` to give you permissions to contribute in the repo.
 >---
 >- you use `--global` for the current user. so if you want to clone another repo it will automatically take the global username and his email.
 >- it modify `.gitconfig` file in your home directory.
@@ -131,7 +132,6 @@
 >`--system` :
 >- this will be for all users in the system.
 >- it modify in the `/etc/gitconfig` 
->- 
 
 ---
 
@@ -216,6 +216,8 @@
 >	- for deleting branch
 >- `git branch -vv`
 >	- for showing local branches and their remote ones.
+>- `git push -u origin new-feature`
+>	- to make a branch in Repository and push changes to it.
 >---
 >>[!todo]- Merging Branches:
 >>- to make all the modification to the same file. if the modification are in separate branches.
@@ -237,7 +239,25 @@
 
 ---
 
-
+>[!danger]- Forked Repository:
+>- when you want to take a copy of strange repo and make a contribution in it.
+>- would be like the work with alx.
+>- if you want to submit your work in the original repo, you will send `pull reques` to the owner and he will review your request.
+>---
+>- you will go to the repo you want to fork (if you are collaborator or not)
+>- you will click on `fork` button from the `github.com`
+>- now you will have a clone repo in your account and can clone it into your local machine.
+>	- if you need a direct access and modification to the repo, you will need to be a collaborator in the original repo
+>		- ask the owner to let you collaborator.
+>--
+>- if you are a collaborator, just clone the owner repo.
+>- config your name and email.
+>- it is better to make a new branch to make your changes. and make one in the remote repo with `git push -u origin new-feature`
+>- git add .  /  commit   /  push
+>---
+>- `pull request`:
+>	- because he will review your code then pull the changes form your machine into his repo, so it is technically pull request.
+>		- then merge files and remove conflicts.
 
 
 
