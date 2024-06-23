@@ -116,7 +116,7 @@
 >>	- also stored with all the hashed values in the git folder in the system.
 >>	- it is like pointer to the first file of the patch and your end.
 >>	- it is wrapper -> border to each version's files.
->>- 
+
 
 ---
 
@@ -173,12 +173,57 @@
 >	- if you use `git add .`, the `git restore` won't work.
 >		- so you use `git restore --staged filename` first
 >			- to restore the last version from the online repo in the staging area.
->			- then `git restore filename` to unchange modifications
->	- 
+>			- then `git restore filename` to unchange last modifications
 >---
->- 
+>- `git reset HEAD~$num(1, 2, ..)`
+>	- for restoring versions after committing.
+>---
+>- `git diff hashed_val..HEAD`
+>	- to view the difference between 2 versions with the commit you added.
+>---
+>- `git reflog`
+>	- for showing all log and the modification in those logs.
+>---
 
 ---
+
+>[!todo]- Tags:
+>- for bookmarking the important commits.
+>- not that important for now ... :<
+
+---
+
+>[!caution]- Branching:
+>- if you want to have a parallel working in the same files.
+>	- you are testing 2 separate feature in the same file, and you don't want to modify the original file and work in the 2 feature simultaneously.
+>- control version, you have all your versions and modifications, so don't worry.
+>---
+>- first, when you make new branch, the both branches `master & testing` will point to the same file.
+>- now if you want to modify the file as `testing`, you will have a version with your modification as a `testing`.
+>- if you switch back to the `master` branch, the modification won't affect the current branch.
+>---
+>- `git switch bran_name`
+>	- for switching branches.
+>- `git branch bran_name`
+>	- for creating new branch
+>- `git branch -d bran_name`
+>	- for deleting branch
+>---
+>>[!todo]- Merging Branches:
+>>- to make all the modification to the same file. if the modification are in separate branches.
+>>---
+>>- you need to stop at the branch you want the modification inside it. `master` for example.
+>>- `git merge OtherBranch` with the other branch
+>>- now all inside the files in the `OtherBranch` will be inside the `master branch`
+
+---
+
+>[!Faq]- Thoughts?!
+>- so git is a local version control and be inside your local machine, and save all your files inside your machine. for `git add` & `git commit -m`
+>---
+>- GITHUB :
+>	- online platform that allow you to store files online for online sharing, depend on git.
+
 
 
 
