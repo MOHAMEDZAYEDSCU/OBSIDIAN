@@ -249,7 +249,7 @@
 >- now you will have a clone repo in your account and can clone it into your local machine.
 >	- if you need a direct access and modification to the repo, you will need to be a collaborator in the original repo
 >		- ask the owner to let you collaborator.
->--
+>---
 >- if you are a collaborator, just clone the owner repo.
 >- config your name and email.
 >- it is better to make a new branch to make your changes. and make one in the remote repo with `git push -u origin new-feature`
