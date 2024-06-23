@@ -91,6 +91,13 @@
 >---
 >>[!caution]- Three Tree Architecture:
 >>- submitting your modification over 2 stages not 1.
+>>	- Staging then Commit.
+>>		- after the staging, you should know the modified files and then you decide to confirm them by(commit) or modify them again before committing.
+>>- Staging :
+>>	- make The untracked files to tracked files to know if any modification happened or not.
+>>
+>><br>
+>>
 >>- the commit is added (الاعتماد) 
 >>- just consider it as a second chance to re-watch and validate your code before pushing it to the Repository. (that not the reason but funny conclusion)
 >>---
@@ -98,9 +105,55 @@
 >>	- When you need to make a change in files and is related to each other so you commit them with a single modification as a single version not a version for each file modified.
 >>		- you have change your phone number, it is submitted in multiple files, so changing your phone number just will modify all other files and will be considered as single modification.
 >>	- be used to be careful, if your project is a life project.
+>---
+>>[!todo]- Version in Reality :
+>>- how to know versions and track updates of your files?
+>>---
+>>- there are a file for git that store all the files and its modifications as a blobs, tree and commit.
+>>	- all of the previous are hashed values.
+>>- for each file modified, there are hashed file for its location in the system
+>>- you know if this package of modified files as an one patch(version) by the commit hashed value.
+>>	- also stored with all the hashed values in the git folder in the system.
+>>	- it is like pointer to the first file of the patch and your end.
+>>	- it is wrapper -> border to each version's files.
+>>- 
 
+---
 
+>[!Caution]- Initialization of Git Repo :
+>- `git clone https://"$TOKEN"@github.com/"$USER_NAME"/"$REPO_NAME".git`
+>- `git config --global user.name "$USER_NAME"`
+>- `git config --global user.email "$EMAIL"`
+>---
+>- you use `--global` for the current user. so if you want to clone another repo it will automatically take the global username and his email.
+>- it modify `.gitconfig` file in your home directory.
+>---
+>`--system` :
+>- this will be for all users in the system.
+>- it modify in the `/etc/gitconfig` 
+>- 
 
+---
+
+>[!Danger]- Commands:
+>- `git add {' . ', ' * ', 'filename'}`
+>	- for staging files and enable tracking.
+>---
+>- `git rm --cached {'filename', ' * '}`
+>	- for remove staged filed from the staging area.
+>	- unstage
+>---
+>- `git status`
+>	- to know the status of your files.
+>	- very important
+>---
+>- `git ls-files`
+>	- show the files in the index area(staging area).
+>	- you can put `-s` in the end to show the hashed file value
+>---
+>- 
+
+---
 
 
 
