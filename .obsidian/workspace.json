@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ebrahim_hegazy/Lec_1.md",
-                "mode": "source",
+                "file": "Maharatech/Python.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ebrahim_hegazy/Lec_1.md",
+                "file": "Maharatech/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ebrahim_hegazy/Lec_1.md",
+                "file": "Maharatech/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ebrahim_hegazy/Lec_1.md"
+                "file": "Maharatech/Python.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ac4902dd1bb437d8",
   "lastOpenFiles": [
+    "Ebrahim_hegazy/Lec_1.md",
     "Callouts.md",
     "README.md",
     "CATReloaded/LV1/Git&Github.md",
