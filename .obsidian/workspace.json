@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "392c1feec8715828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejptv1/1.1.2_Recon&Footprinting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7979fbec0a71a29e",
+  "active": "392c1feec8715828",
   "lastOpenFiles": [
-    "Ejptv1/1.1.1.md",
+    "1.1.3_.md",
     "Ejptv1/1.1.2_Recon&Footprinting.md",
+    "Ejptv1/1.1.1.md",
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
     "Maharatech/Python.md",
     "Maharatech/Ethical Hacking/4_Maintaining Access.md",
@@ -185,7 +199,6 @@
     "CATReloaded/LV0/Networks/OSI Layers/6- Data-Link Layer.md",
     "CATReloaded/LV0/Networks/OSI Layers/5- Network Layer.md",
     "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
-    "CATReloaded/LV0/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "Ebrahim_hegazy",
     "CATReloaded/LV1",
     "CATReloaded/LV0",
