@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7979fbec0a71a29e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejptv1/Lec2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejptv1/Lec1.md",
+                "file": "Ejptv1/Lec2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejptv1/Lec1.md",
+                "file": "Ejptv1/Lec2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejptv1/Lec1.md"
+                "file": "Ejptv1/Lec2.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "221198534b0df5ec",
+  "active": "7979fbec0a71a29e",
   "lastOpenFiles": [
+    "Ejptv1/Lec1.md",
+    "Ejptv1/Lec2.md",
     "Screen_Shots/readnotify.png",
     "Screen_Shots/Screenshot 2024-02-24 015349.png",
     "Screen_Shots/Screenshot 2024-02-24 012749.png",
@@ -158,10 +173,8 @@
     "Screen_Shots/Pasted image 20240619171612.png",
     "Screen_Shots/Pasted image 20240601162927.png",
     "Screen_Shots/Pasted image 20240601162822.png",
-    "Screen_Shots/Pasted image 20240601162335.png",
     "Screen_Shots",
     "Maharatech/Python.md",
-    "Ejptv1/Lec1.md",
     "Ejptv1",
     "Ebrahim_hegazy/Lec_1.md",
     "Callouts.md",
