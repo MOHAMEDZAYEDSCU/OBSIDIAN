@@ -5,14 +5,15 @@
 >- tool for creating network connections, port scanning and file transfer
 >---
 >>[!quote]- Example of use:
->>- nc -v -z 192.168.50.5 1-100
+>>- `nc -v -z 192.168.50.5 1-100`
 >>	- nc => the main instruction.
 >>	- -v  => provide more detailed output, which can be helpful for understanding the connection process.
 >>	- -z => allows Netcat to report open ports without actually establishing a connection.
 >>	- 192.168.50.5 => the ip of the target host.
 >>	- 1-100 => specify the range of ports to scan, from 1 to 100.
 
->[!tip]- ifconfig:
+>[!tip]- `ifconfig`:
+>- just type it to know your network information.
 >- **for changing IP address, broadcast or even MAC address as you want for security purposes.**
 >---
 >>[!caution]- Instruction Examples:
@@ -57,7 +58,7 @@
 >>- enabling or disabling arp protocol.
 >>	-  sudo ifconfig eth0 arp.
 
->[!tip]- netstat {}:
+>[!tip]- `netstat {}`:
 >- provides information about network interfaces, routing tables, and active network connections.
 >
 >>[!caution]- Arguments:
@@ -65,14 +66,14 @@
 >>- -u => focus on udp connection.
 >>- -s => statistics about network interface {ip, tcp or udp protocols}
 
->[!success]- nslookup {}:
+>[!success]- `nslookup ur_ip`:
 >- name server lookup.
 >- querying DNS (Domain Name System) servers to obtain domain name or IP address information.
 >
 >>[!caution]- Arguments:
->>- -type=ns {DNS}:
+>>- `-type=ns {DNS}`:
 >>	- for known the base server or authoritative domain for the IP server.
->>- -type=mx {DNS}:
+>>- `-type=mx {DNS}`:
 >>	- showing the mail exchanger domain of the IP address.
 
 >[!success]- dig {}:
