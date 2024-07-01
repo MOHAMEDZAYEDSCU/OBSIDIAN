@@ -27,7 +27,7 @@
 >- for specific results and decrease results possibilities.
 
 >[!danger]- site:{DNS}
->- to be more specific that only search for a specific website.
+>- to be more specific that only search in a specific website.
 >- like: "hacking intern" site:microsoft.com 
 
 >[!todo]- filetype: {doc, pdf, ....}
