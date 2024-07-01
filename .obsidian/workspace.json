@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac4902dd1bb437d8",
+            "id": "221198534b0df5ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maharatech/Python.md",
-                "mode": "preview",
+                "file": "Ejptv1/Lec1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maharatech/Python.md",
+                "file": "Ejptv1/Lec1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maharatech/Python.md",
+                "file": "Ejptv1/Lec1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maharatech/Python.md"
+                "file": "Ejptv1/Lec1.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac4902dd1bb437d8",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
+    "Maharatech/Python.md",
+    "Ejptv1/Lec1.md",
+    "Ejptv1",
     "Ebrahim_hegazy/Lec_1.md",
     "Callouts.md",
     "README.md",
@@ -155,7 +158,6 @@
     "Screen shots/Pasted image 20240623172456.png",
     "Tryhackme/Web Application Security THM.md",
     "Tryhackme/PT_Methodology.md",
-    "Maharatech/Python.md",
     "Maharatech/Ethical Hacking/Scanning.md",
     "Maharatech/Ethical Hacking/Reconnaissance.md",
     "Maharatech/Ethical Hacking/Maintaining Access.md",
@@ -174,7 +176,6 @@
     "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
     "CATReloaded/LV0/Networks/OSI Layers/2,3- Session & Presentation Layer.md",
     "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
-    "CATReloaded/LV0/Networks/Books/Network Attacking Explanation.md",
     "Ebrahim_hegazy",
     "Screen shots/Pasted image 20240619195814.png",
     "Screen shots/Pasted image 20240619171612.png",
@@ -193,7 +194,6 @@
     "Maharatech",
     "Tryhackme",
     "CATReloaded/LV0/Cryptography",
-    "Screen shots",
     "Untitled.canvas"
   ]
 }
