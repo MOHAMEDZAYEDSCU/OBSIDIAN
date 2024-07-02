@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ejptv1/1.1.5_ReconLabs.md",
+                "file": "EJPTv2/1.1.5_ReconLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejptv1/1.1.5_ReconLabs.md",
+                "file": "EJPTv2/1.1.5_ReconLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejptv1/1.1.5_ReconLabs.md",
+                "file": "EJPTv2/1.1.5_ReconLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejptv1/1.1.5_ReconLabs.md"
+                "file": "EJPTv2/1.1.5_ReconLabs.md"
               }
             }
           }
@@ -146,20 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f609132632698ce0",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
-    "Ejptv1/1.1.3_Continue.md",
-    "Ejptv1/1.1.5_ReconLabs.md",
-    "Ejptv1/1.1.4_Continue.md",
+    "EJPTv2/1.1.3_Continue.md",
+    "EJPTv2/1.1.5_ReconLabs.md",
+    "EJPTv2/1.1.4_Continue.md",
     "CATReloaded/LV0/Networks/OSI Layers/6- Data-Link Layer.md",
     "Maharatech/Ethical Hacking/2_Scanning.md",
     "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
     "CATReloaded/LV0/Networks/Terminologies of Computer Science.md",
     "CATReloaded/LV0/Linux/Basic LINUX.md",
     "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
-    "Ejptv1/1.1.1.md",
+    "EJPTv2/1.1.1.md",
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
-    "Ejptv1/1.1.2_Recon&Footprinting.md",
+    "EJPTv2/1.1.2_Recon&Footprinting.md",
     "Callouts.md",
     "Maharatech/Python.md",
     "Maharatech/Ethical Hacking/4_Maintaining Access.md",
@@ -177,7 +177,7 @@
     "Screen_Shots/Pasted image 20240601162927.png",
     "Screen_Shots/Pasted image 20240601162822.png",
     "Screen_Shots",
-    "Ejptv1",
+    "EJPTv2",
     "Ebrahim_hegazy/Lec_1.md",
     "README.md",
     "CATReloaded/LV1/Git&Github.md",
