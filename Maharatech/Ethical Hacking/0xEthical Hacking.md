@@ -1,3 +1,4 @@
+
 >[!caution]- What is Hacking?
 >- use any bugs or vulnerability to access the system and use its features.
 >- could steal, encrypt or corrupt the data.

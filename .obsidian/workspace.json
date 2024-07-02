@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f609132632698ce0",
+            "id": "a026f319a2e692a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJPTv2/1.1.5_ReconLabs.md",
+                "file": "OTA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPTv2/1.1.5_ReconLabs.md",
+                "file": "OTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPTv2/1.1.5_ReconLabs.md",
+                "file": "OTA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJPTv2/1.1.5_ReconLabs.md"
+                "file": "OTA.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a1263ed760cef5",
+  "active": "a026f319a2e692a1",
   "lastOpenFiles": [
-    "EJPTv2/1.1.3_Continue.md",
+    "Maharatech/Ethical Hacking/0xEthical Hacking.md",
+    "OTA.md",
     "EJPTv2/1.1.5_ReconLabs.md",
+    "EJPTv2/1.1.3_Continue.md",
     "EJPTv2/1.1.4_Continue.md",
     "CATReloaded/LV0/Networks/OSI Layers/6- Data-Link Layer.md",
     "Maharatech/Ethical Hacking/2_Scanning.md",
@@ -165,7 +167,6 @@
     "Maharatech/Ethical Hacking/4_Maintaining Access.md",
     "Maharatech/Ethical Hacking/3_Gaining Access.md",
     "Maharatech/Ethical Hacking/2.1_Enumeration.md",
-    "Maharatech/Ethical Hacking/0xEthical Hacking.md",
     "Screen_Shots/readnotify.png",
     "Screen_Shots/Screenshot 2024-02-24 015349.png",
     "Screen_Shots/Screenshot 2024-02-24 012749.png",
@@ -185,7 +186,6 @@
     "Tryhackme/PT_Methodology.md",
     "CATReloaded/LV1/JavaScript.md",
     "CATReloaded/LV1/HTTP Crash Course.md",
-    "CATReloaded/LV1/HTML_Crash_Course.md",
     "Ebrahim_hegazy",
     "CATReloaded/LV1",
     "CATReloaded/LV0",
