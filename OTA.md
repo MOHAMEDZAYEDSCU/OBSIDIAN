@@ -44,7 +44,7 @@
 >---
 >>[!bug]- Implementation :
 >>- 1 :
->>	- تهيئ البوت لودر الثانوي عشان يشتغل مع كل مرة ترستر الجهاز
+>>	- تهيئ البوت لودر الثانوي عشان يشتغل مع كل مرة ترستر الجهاز ويشتغل بعد ال - primary boot loader (if it fails)
 >>	- حاجة زي if & else
 >>- 2 :
 >>	- صمم (SSBL) عشان يستقبل التحديثات ويثبتها.
@@ -59,4 +59,12 @@
 ---
 
 >[!todo]- Hardware Required :
->- 
+>>[!caution]- Client Device:
+>>- The client device uses an **ADuCM4050 EZ-KIT** connected to an **ADF7242** transceiver via the transceiver daughterboard horseshoe connector.
+>>- The client device is responsible for performing the OTA update logic, receiving update packets, and updating the firmware.
+>---
+>>[!caution]- Server Device :
+>>- - The server setup involves another ADuCM4050 EZ-KIT with an ADF7242 transceiver connected in the same manner as the client.
+>>- A Python application running on a Windows PC communicates with the server device via the serial port.
+>>- The server device relays packets received from the ADF7242 to the Python application but does not perform any OTA update logic itself.
+
