@@ -64,7 +64,9 @@
 >>- The client device is responsible for performing the OTA update logic, receiving update packets, and updating the firmware.
 >---
 >>[!caution]- Server Device :
->>- - The server setup involves another ADuCM4050 EZ-KIT with an ADF7242 transceiver connected in the same manner as the client.
+>>- The server setup involves another ADuCM4050 EZ-KIT with an ADF7242 transceiver connected in the same manner as the client.
 >>- A Python application running on a Windows PC communicates with the server device via the serial port.
 >>- The server device relays packets received from the ADF7242 to the Python application but does not perform any OTA update logic itself.
+>---
+>- chat gpt says its cost will be about 12000 pound when the dollar was = 30 EGP.
 
