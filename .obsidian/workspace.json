@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfab3e9ff5e53dff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EJPTv2/1.2.2_Continue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8b48b02f02561afe",
             "type": "leaf",
             "state": {
@@ -97,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPTv2/1.2.2_Continue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPTv2/1.2.2_Continue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "EJPTv2/1.2.2_Continue.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,15 +142,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfab3e9ff5e53dff",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
     "EJPTv2/1.2.3_Continue.md",
+    "Screen_Shots/Pasted image 20240703154421.png",
+    "Screen_Shots/Pasted image 20240703153847.png",
+    "EJPTv2/NMAP.md",
     "EJPTv2/1.2.2_Continue.md",
     "Untitled",
     "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
     "Screen_Shots/Pasted image 20240703143617.png",
     "CATReloaded/LV0/Networks/OSI Layers/OSI Model.md",
-    "EJPTv2/NMAP.md",
     "EJPTv2/1.2.1_Scanning.md",
     "EJPTv2/1.1.4_Continue.md",
     "EJPTv2/1.1.5_ReconLabs.md",
@@ -192,13 +178,10 @@
     "EJPTv2/1.1.1.md",
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
     "EJPTv2/1.1.2_Recon&Footprinting.md",
-    "Callouts.md",
     "Screen_Shots/readnotify.png",
     "Screen_Shots/Screenshot 2024-02-24 015349.png",
     "Screen_Shots/Screenshot 2024-02-24 012749.png",
     "Screen_Shots/Pasted image 20240623172456.png",
-    "Screen_Shots/Pasted image 20240619173508.png",
-    "Screen_Shots/Pasted image 20240619195814.png",
     "Screen_Shots",
     "EJPTv2",
     "Ebrahim_hegazy",
