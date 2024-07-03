@@ -7,6 +7,8 @@
 >----
 >- السوفتوير بيتنقل بايت ب بايت وبيبقي عبارة عن ال exe file 
 >---
+>- ![[Pasted image 20240703115653.png]]
+>---
 >>[!todo]- It has 3 challenges :
 >>>[!caution]- Memory :
 >>>- the software must be organized in the memory to avoid:
@@ -54,6 +56,15 @@
 >>	- Error Handling:
 >>		- لو حصل مشاكل ف يبقي في امكانية اننا نرجع للنظام القديم بدون مشاكل
 
+---
+---
+
+>[!success]- Optional !
+>- ممكن نخلي الاتصال full duplex بدل simple duplex عشان نقدر نبعت للسيرفر ال log files بالاخطاء واستخدام ال services
+>- هيبقي مكلف شوية بس هيساعد بشكل كبير علي تتبع الاخطاء بشكل مباشرز
+>---
+>- full duplex -> is to make both devices send and receive data simultaneously.
+>- simple duplex -> a device send and other receive only.
 
 ---
 ---
@@ -69,4 +80,11 @@
 >>- The server device relays packets received from the ADF7242 to the Python application but does not perform any OTA update logic itself.
 >---
 >- chat gpt says its cost will be about 12000 pound when the dollar was = 30 EGP.
+
+
+
+## Resources :
+
+- [Analog.com: Over-the-Air (OTA) Updates in Embedded Microcontroller Applications](https://www.analog.com/en/resources/analog-dialogue/articles/over-the-air-ota-updates-in-embedded-microcontroller-applications.html#:~:text=These%20challenges%2C%20coupled%20with%20the,embedded%20system%20with%20new%20software.)
+
 

@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "22999c2cd9533e65",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e7a4228a1a414c3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a8304fcb171b0c3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -148,6 +172,7 @@
   },
   "active": "a026f319a2e692a1",
   "lastOpenFiles": [
+    "Pasted image 20240703115653.png",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
     "OTA.md",
     "EJPTv2/1.1.5_ReconLabs.md",
@@ -185,7 +210,6 @@
     "Tryhackme/Web Application Security THM.md",
     "Tryhackme/PT_Methodology.md",
     "CATReloaded/LV1/JavaScript.md",
-    "CATReloaded/LV1/HTTP Crash Course.md",
     "Ebrahim_hegazy",
     "CATReloaded/LV1",
     "CATReloaded/LV0",
