@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Graduation_Project/OTA.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -146,13 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a1263ed760cef5",
+  "active": "a026f319a2e692a1",
   "lastOpenFiles": [
+    "CATReloaded/LV0/Networks/OSI Layers/7- Physical Layer.md",
+    "Graduation_Project/OTA.md",
     "Graduation_Project",
     "Graduation_Project/Pasted image 20240703131403.png",
     "Obsidian_Knowledge/essential_markdown_syntax.md",
     "URL.md",
-    "Graduation_Project/OTA.md",
     "Obsidian_Knowledge/Callouts.md",
     "Obsidian_Knowledge",
     "essential_markdown_syntax.md",
@@ -193,7 +194,6 @@
     "CATReloaded",
     "Maharatech/Ethical Hacking",
     "Attachments",
-    "Maharatech",
     "Untitled.canvas"
   ]
 }
