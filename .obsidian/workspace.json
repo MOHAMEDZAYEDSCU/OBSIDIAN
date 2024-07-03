@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b48b02f02561afe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EJPTv2/1.2.3_Continue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -148,8 +160,10 @@
   },
   "active": "dfab3e9ff5e53dff",
   "lastOpenFiles": [
-    "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
+    "EJPTv2/1.2.3_Continue.md",
     "EJPTv2/1.2.2_Continue.md",
+    "Untitled",
+    "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
     "Screen_Shots/Pasted image 20240703143617.png",
     "CATReloaded/LV0/Networks/OSI Layers/OSI Model.md",
     "EJPTv2/NMAP.md",
@@ -179,7 +193,6 @@
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
     "EJPTv2/1.1.2_Recon&Footprinting.md",
     "Callouts.md",
-    "Maharatech/Python.md",
     "Screen_Shots/readnotify.png",
     "Screen_Shots/Screenshot 2024-02-24 015349.png",
     "Screen_Shots/Screenshot 2024-02-24 012749.png",
@@ -193,7 +206,6 @@
     "CATReloaded/LV0",
     "CATReloaded",
     "Maharatech/Ethical Hacking",
-    "Attachments",
     "Untitled.canvas"
   ]
 }
