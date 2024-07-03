@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a026f319a2e692a1",
+            "id": "dfab3e9ff5e53dff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graduation_Project/OTA.md",
-                "mode": "preview",
+                "file": "EJPTv2/NMAP.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graduation_Project/OTA.md",
+                "file": "EJPTv2/NMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graduation_Project/OTA.md",
+                "file": "EJPTv2/NMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graduation_Project/OTA.md"
+                "file": "EJPTv2/NMAP.md"
               }
             }
           }
@@ -146,24 +146,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a026f319a2e692a1",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
-    "CATReloaded/LV0/Networks/OSI Layers/7- Physical Layer.md",
+    "Maharatech/Ethical Hacking/2_Scanning.md",
+    "EJPTv2/NMAP.md",
+    "EJPTv2/1.1.4_Continue.md",
+    "EJPTv2/1.2.2_Continue.md",
     "Graduation_Project/OTA.md",
-    "Graduation_Project",
     "Graduation_Project/Pasted image 20240703131403.png",
+    "Graduation_Project/Pasted image 20240703115653.png",
+    "Screen_Shots/Pasted image 20240703140156.png",
+    "EJPTv2/1.2.1_Scanning.md",
+    "EJPTv2/1.1.5_ReconLabs.md",
+    "CATReloaded/LV0/Networks/OSI Layers/7- Physical Layer.md",
+    "Graduation_Project",
     "Obsidian_Knowledge/essential_markdown_syntax.md",
     "URL.md",
     "Obsidian_Knowledge/Callouts.md",
     "Obsidian_Knowledge",
     "essential_markdown_syntax.md",
-    "Graduation_Project/Pasted image 20240703115653.png",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
-    "EJPTv2/1.1.5_ReconLabs.md",
     "EJPTv2/1.1.3_Continue.md",
-    "EJPTv2/1.1.4_Continue.md",
     "CATReloaded/LV0/Networks/OSI Layers/6- Data-Link Layer.md",
-    "Maharatech/Ethical Hacking/2_Scanning.md",
     "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
     "CATReloaded/LV0/Networks/Terminologies of Computer Science.md",
     "CATReloaded/LV0/Linux/Basic LINUX.md",
@@ -174,8 +178,6 @@
     "Callouts.md",
     "Maharatech/Python.md",
     "Maharatech/Ethical Hacking/4_Maintaining Access.md",
-    "Maharatech/Ethical Hacking/3_Gaining Access.md",
-    "Maharatech/Ethical Hacking/2.1_Enumeration.md",
     "Screen_Shots/readnotify.png",
     "Screen_Shots/Screenshot 2024-02-24 015349.png",
     "Screen_Shots/Screenshot 2024-02-24 012749.png",
@@ -183,11 +185,8 @@
     "Screen_Shots/Pasted image 20240619173508.png",
     "Screen_Shots/Pasted image 20240619195814.png",
     "Screen_Shots/Pasted image 20240619173113.png",
-    "Screen_Shots/Pasted image 20240619171612.png",
     "Screen_Shots",
     "EJPTv2",
-    "Ebrahim_hegazy/Lec_1.md",
-    "README.md",
     "Ebrahim_hegazy",
     "CATReloaded/LV1",
     "CATReloaded/LV0",
