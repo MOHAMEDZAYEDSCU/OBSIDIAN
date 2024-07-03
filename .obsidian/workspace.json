@@ -23,27 +23,16 @@
             "id": "22999c2cd9533e65",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "9e7a4228a1a414c3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a8304fcb171b0c3a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian_Knowledge/essential_markdown_syntax.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OTA.md",
+                "file": "Obsidian_Knowledge/essential_markdown_syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OTA.md",
+                "file": "Obsidian_Knowledge/essential_markdown_syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OTA.md"
+                "file": "Obsidian_Knowledge/essential_markdown_syntax.md"
               }
             }
           }
@@ -170,11 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a026f319a2e692a1",
+  "active": "22999c2cd9533e65",
   "lastOpenFiles": [
+    "URL.md",
+    "Obsidian_Knowledge/essential_markdown_syntax.md",
+    "OTA.md",
+    "Obsidian_Knowledge/Callouts.md",
+    "Obsidian_Knowledge",
+    "essential_markdown_syntax.md",
     "Pasted image 20240703115653.png",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
-    "OTA.md",
     "EJPTv2/1.1.5_ReconLabs.md",
     "EJPTv2/1.1.3_Continue.md",
     "EJPTv2/1.1.4_Continue.md",
@@ -201,15 +195,11 @@
     "Screen_Shots/Pasted image 20240619173113.png",
     "Screen_Shots/Pasted image 20240619171612.png",
     "Screen_Shots/Pasted image 20240601162927.png",
-    "Screen_Shots/Pasted image 20240601162822.png",
     "Screen_Shots",
     "EJPTv2",
     "Ebrahim_hegazy/Lec_1.md",
     "README.md",
     "CATReloaded/LV1/Git&Github.md",
-    "Tryhackme/Web Application Security THM.md",
-    "Tryhackme/PT_Methodology.md",
-    "CATReloaded/LV1/JavaScript.md",
     "Ebrahim_hegazy",
     "CATReloaded/LV1",
     "CATReloaded/LV0",
@@ -217,7 +207,6 @@
     "Maharatech/Ethical Hacking",
     "Attachments",
     "Maharatech",
-    "Tryhackme",
     "Untitled.canvas"
   ]
 }
