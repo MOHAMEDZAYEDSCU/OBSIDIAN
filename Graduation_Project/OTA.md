@@ -15,6 +15,7 @@
 >>>	- overwriting
 >>>	- storing in volatile memory
 >>>	- incomplete downloading by interrupt(power loss or communication errors)
+>>>---
 >>>- يجب الاحتفاظ بنسخة باك اب للنظام القديم عشان لو التحديث الجديد فيه مشاكل ف تقدر ترجع للقديم لحد م يظبطوا النسخة الجديدة
 >>---
 >>>[!caution]- Communication :
@@ -61,7 +62,7 @@
 
 >[!success]- Optional !
 >- ممكن نخلي الاتصال full duplex بدل simple duplex عشان نقدر نبعت للسيرفر ال log files بالاخطاء واستخدام ال services
->- هيبقي مكلف شوية بس هيساعد بشكل كبير علي تتبع الاخطاء بشكل مباشرز
+>- هيبقي مكلف شوية بس هيساعد بشكل كبير علي تتبع الاخطاء بشكل مباشر.
 >---
 >- full duplex -> is to make both devices send and receive data simultaneously.
 >- simple duplex -> a device send and other receive only.
@@ -69,21 +70,41 @@
 ---
 ---
 
->[!todo]- Hardware Required :
->>[!caution]- Client Device:
->>- The client device uses an **ADuCM4050 EZ-KIT** connected to an **ADF7242** transceiver via the transceiver daughterboard horseshoe connector.
->>- The client device is responsible for performing the OTA update logic, receiving update packets, and updating the firmware.
+>[!todo]- Suggested Components :
+>- `Lo-Fi` :
+>- <a href="#"><img src="https://i.kickstarter.com/assets/041/888/282/b89c34d8eea4a056e80ea89d40ef6a2d_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=MAp0aS%2FbB1%2FjdnYOPiiDlN3sMMjcu6SnSaSk9%2BdhTFo%3D" alt="Lo-Fi" width="500" height="400"></a>
 >---
->>[!caution]- Server Device :
->>- The server setup involves another ADuCM4050 EZ-KIT with an ADF7242 transceiver connected in the same manner as the client.
->>- A Python application running on a Windows PC communicates with the server device via the serial port.
->>- The server device relays packets received from the ADF7242 to the Python application but does not perform any OTA update logic itself.
+>>[!caution]- Benefits :
+>>- Long range:
+>>	- LoRa can communicate over distances of up to 5 kilometers in open areas.
+>>---
+>>- Low power: 
+>>	- LoRa is very power-efficient, which makes it ideal for battery-powered devices.
+>>----
+>>- Secure: 
+>>	- LoRa uses encryption to protect data from unauthorized access.
+>>---
+>>- Scalable: 
+>>	- LoRa networks can be easily scaled to accommodate a large number of devices.
 >---
->- chat gpt says its cost will be about 12000 pound when the dollar was = 30 EGP.
+>>[!caution]- Cost :
+>>- the three component will cost  70 dollar ~= 3500 pound..
+>>- ![[Pasted image 20240703131403.png]]
+>---
+>>[!bug] Resources :
+>>- [Lo-Fi](https://www.kickstarter.com/projects/picobarcodescanner/lo-fi-long-range-wireless-communication-device-with-esp32)
 
+---
+---
+### A Full Project On OTA :
+- [Graduation_Project_2021](https://github.com/mohamed-hafez-mohamed/Graduation_Project_2021)
+	- mansoura university 2021
+	- an OTA full project
 
+---
+---
 
-## Resources :
+### Resources :
 
 - [Analog.com: Over-the-Air (OTA) Updates in Embedded Microcontroller Applications](https://www.analog.com/en/resources/analog-dialogue/articles/over-the-air-ota-updates-in-embedded-microcontroller-applications.html#:~:text=These%20challenges%2C%20coupled%20with%20the,embedded%20system%20with%20new%20software.)
 
