@@ -15,19 +15,30 @@
 ---
 #### How to use :
 
+- `nmap [ip]`
+	- normal scanning for open p
+---
+- `nmap -sV [ip]` 	
+	- give you more info like
+		- version and the host system type, ubuntu, kali, ...
+---
+- `nmap -O [ip]`
+	- give you more info about the operating system of the ip.
+---
 - `nmap -sn [ip/net-mask]` :
 	- to scan for hosts in the network.
 	- you should provide the category, A, B,C, D or E with the number of bits.
 		 - A -> 8
 		 - B -> 16 
-		 - and so on.
+		 - and so on....
 ---
  - `nmap [ip]` :
 	 - it will search for open ports in the first 1000, the most known.
+---
  - `nmap -sV [ip]`:
 	 - searching for open services(ports) with a lot of detail..
 
 ---
 ---
 
- 
+ >[!]
