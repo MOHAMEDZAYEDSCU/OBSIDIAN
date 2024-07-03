@@ -26,23 +26,35 @@
 
 ## Types:
 
->[!bug]- TCP Protocol:
+>[!todo]- TCP Protocol:
 >- most used, used for insurance of data transmission by flags.
 >---
 >>[!caution]- Flags type:
->>- syn -> 
->>- Ack ->
->>- fin -> finish
->>- push -> i will send a data
->>- RST -> reset for terminate the connection
->>- urg -> urgent data and need to be processed directly
+>>- Syn 
+>>	- to start the connection, like `as-salam alikum`...
+>>- Ack 
+>>	- to ensure that the data is sent successfully of the connection is established
+>>	- if connection successful, the `Ack` will be large that `Seq` by 1;
+>>	- `seq` 
+>>		- is a number you send with `Syn` flag.
+>>- Fin 
+>>	- finish the connection from both sides
+>>- push 
+>>	- i will send a data to a packet
+>>- RST 
+>>	- reset for terminate the connection from one side immediately
+>>- URG 
+>>	- urgent data and need to be processed directly
 >---
 >- validate reliable connection.
 >- detect loss or failed in data.
 >- filter duplicated data.
 >- used for accurate not speed.
->
+>---
 >>[!tip]- Three way handshake: {tcp connect / full open scan.}
+>>- ![[Pasted image 20240703143617.png]]
+>>---
+>>---
 >>- you send (syn). with the port to know open ports.
 >>- it reply with (syn/Ack), so the port is open
 >>- you send (Ack).
