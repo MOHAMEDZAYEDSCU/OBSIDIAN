@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b48b02f02561afe",
+            "id": "233c51733c15dbd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJPTv2/1.2.3_Continue.md",
+                "file": "EJPTv2/NMAP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccd90fd8cb0d73a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EJPTv2/1.2.5_TheLab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "142a8f48474d0e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EJPTv2/NMAP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "EJPTv2/1.2.5_TheLab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "EJPTv2/1.2.5_TheLab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "EJPTv2/1.2.5_TheLab.md"
+              }
             }
           }
         ]
@@ -144,10 +173,13 @@
   },
   "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
+    "EJPTv2/NMAP.md",
+    "EJPTv2/1.2.5_TheLab.md",
+    "EJPTv2/1.2.4_Continue.md",
+    "Screen_Shots/Pasted image 20240703222720.png",
     "EJPTv2/1.2.3_Continue.md",
     "Screen_Shots/Pasted image 20240703154421.png",
     "Screen_Shots/Pasted image 20240703153847.png",
-    "EJPTv2/NMAP.md",
     "EJPTv2/1.2.2_Continue.md",
     "Untitled",
     "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
@@ -177,11 +209,9 @@
     "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
     "EJPTv2/1.1.1.md",
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
-    "EJPTv2/1.1.2_Recon&Footprinting.md",
     "Screen_Shots/readnotify.png",
     "Screen_Shots/Screenshot 2024-02-24 015349.png",
     "Screen_Shots/Screenshot 2024-02-24 012749.png",
-    "Screen_Shots/Pasted image 20240623172456.png",
     "Screen_Shots",
     "EJPTv2",
     "Ebrahim_hegazy",

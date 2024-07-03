@@ -10,11 +10,22 @@
  >- it has a lot of scripts to test all ports and dns and bypass security features like firewall also!!!
  >- ==it is a part of scanning not info gathering==
  >- a very important tool and will be used a lot forward ...
+>---
+>- download the nmap sheet cheat ..
 
 ---
 ---
+
+>[!bug]- Using NMAP as a decoy!!
+>- ![[Pasted image 20240703222720.png]]
+
+---
+***
 #### How to use :
 
+- always use man in the beginning for more information and arguments. 
+---
+---
 - `nmap [ip]`
 	- normal scanning for open p
 ---
@@ -37,6 +48,9 @@
 ---
  - `nmap -sV [ip]`:
 	 - searching for open services(ports) with a lot of detail..
+---
+- `nmap -sS -F [IP]`
+	- you use `-F` to split the packets to bypass the firewall...
 
 ---
 ---
