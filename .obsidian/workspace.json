@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e87ea3e91b9edeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EJPTv2/1.2.8_LAB4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "23c632266411f243",
             "type": "leaf",
             "state": {
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPTv2/1.2.8_LAB4.md",
+                "file": "EJPTv2/NMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPTv2/1.2.8_LAB4.md",
+                "file": "EJPTv2/NMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJPTv2/1.2.8_LAB4.md"
+                "file": "EJPTv2/NMAP.md"
               }
             }
           }
@@ -158,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e87ea3e91b9edeb",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
-    "Pasted image 20240704131511.png",
-    "EJPTv2/NMAP.md",
     "EJPTv2/1.2.8_LAB4.md",
+    "Screen_Shots/Pasted image 20240704131511.png",
+    "EJPTv2/NMAP.md",
     "EJPTv2/1.1.5_ReconLAB.md",
     "EJPTv2/1.2.5_LAB1.md",
     "EJPTv2/1.2.7_LAB3.md",
@@ -187,7 +175,6 @@
     "Maharatech/Ethical Hacking/2_Scanning.md",
     "Graduation_Project/Pasted image 20240703131403.png",
     "Graduation_Project/Pasted image 20240703115653.png",
-    "Screen_Shots/Pasted image 20240703140156.png",
     "CATReloaded/LV0/Networks/OSI Layers/7- Physical Layer.md",
     "Graduation_Project",
     "Obsidian_Knowledge/essential_markdown_syntax.md",
