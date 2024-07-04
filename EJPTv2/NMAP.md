@@ -51,6 +51,9 @@
 ---
 - `nmap -sS -F [IP]`
 	- you use `-F` to split the packets to bypass the firewall...
+---
+- `nmap [IP] -p-`
+	- scan for all the possible ports (65535)
 
 ---
 ---
