@@ -55,6 +55,9 @@
 	- for scan a specific port in an IP.
 	- `-p 1-100`
 		- to test ports 1 to 100 only.
+	- `-p 22,25,80` :
+		- for scan those 3 ports only
+		- use `-sV` to detect the services work on the previous 3 ports.
 ---
 - `nmap -sS -F [IP]`
 	- you use `-F` to split the packets to bypass the firewall...
