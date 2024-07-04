@@ -7,6 +7,7 @@
 
  >[!caution]- About
  >- it is a tool that collect data about dns and its ports.
+ >- ==it is work on TCP ports by default, if you want a UDP scan you will use different parameter ..!!!==
  >- it has a lot of scripts to test all ports and dns and bypass security features like firewall also!!!
  >- ==it is a part of scanning not info gathering==
  >- a very important tool and will be used a lot forward ...
@@ -48,6 +49,10 @@
 ---
  - `nmap -sV [ip]`:
 	 - searching for open services(ports) with a lot of detail..
+	 - like version of the service
+---
+- `nmap [IP] -p portNo`
+	- for scan a specific port in an IP.
 ---
 - `nmap -sS -F [IP]`
 	- you use `-F` to split the packets to bypass the firewall...
@@ -56,4 +61,14 @@
 	- scan for all the possible ports (65535)
 
 ---
+***
+
+>[!Caution]- Cheat sheet :
+>- ![[Pasted image 20240704124515.png]]
+>---
+>***
+>- ![[Pasted image 20240704124608.png]]
+
 ---
+---
+
