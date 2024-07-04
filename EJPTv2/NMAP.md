@@ -53,13 +53,21 @@
 ---
 - `nmap [IP] -p portNo`
 	- for scan a specific port in an IP.
+	- `-p 1-100`
+		- to test ports 1 to 100 only.
 ---
 - `nmap -sS -F [IP]`
 	- you use `-F` to split the packets to bypass the firewall...
 ---
 - `nmap [IP] -p-`
 	- scan for all the possible ports (65535)
-
+---
+- ==For the UDP ports :==
+	- `nmap [IP] -p- -sU`
+		- for scan all UDP ports
+		- will take alot of time
+	- `nmap [IP] -p 1-200 -sU`
+		- will scan for the first 200 port that work as UDP.
 ---
 ***
 
