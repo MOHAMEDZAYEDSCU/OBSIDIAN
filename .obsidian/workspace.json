@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJPTv2/1.2.7_LAB3.md",
+                "file": "EJPTv2/1.2.8_LAB4.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPTv2/NMAP.md",
+                "file": "EJPTv2/1.2.8_LAB4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPTv2/NMAP.md",
+                "file": "EJPTv2/1.2.8_LAB4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJPTv2/NMAP.md"
+                "file": "EJPTv2/1.2.8_LAB4.md"
               }
             }
           }
@@ -159,14 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a1263ed760cef5",
+  "active": "4e87ea3e91b9edeb",
   "lastOpenFiles": [
+    "Pasted image 20240704131511.png",
+    "EJPTv2/NMAP.md",
+    "EJPTv2/1.2.8_LAB4.md",
+    "EJPTv2/1.1.5_ReconLAB.md",
+    "EJPTv2/1.2.5_LAB1.md",
+    "EJPTv2/1.2.7_LAB3.md",
+    "Screen_Shots/Pasted image 20240704130536.png",
     "Screen_Shots/Pasted image 20240704124608.png",
     "Screen_Shots/Pasted image 20240704124515.png",
-    "EJPTv2/1.2.7_LAB3.md",
     "EJPTv2/1.2.6_LAB2.md",
-    "EJPTv2/NMAP.md",
-    "EJPTv2/1.2.5_TheLab.md",
     "Graduation_Project/OTA.md",
     "README.md",
     "EJPTv2/1.2.4_Continue.md",
@@ -181,7 +184,6 @@
     "CATReloaded/LV0/Networks/OSI Layers/OSI Model.md",
     "EJPTv2/1.2.1_Scanning.md",
     "EJPTv2/1.1.4_Continue.md",
-    "EJPTv2/1.1.5_ReconLabs.md",
     "Maharatech/Ethical Hacking/2_Scanning.md",
     "Graduation_Project/Pasted image 20240703131403.png",
     "Graduation_Project/Pasted image 20240703115653.png",
@@ -197,9 +199,6 @@
     "EJPTv2/1.1.3_Continue.md",
     "CATReloaded/LV0/Networks/OSI Layers/6- Data-Link Layer.md",
     "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
-    "CATReloaded/LV0/Networks/Terminologies of Computer Science.md",
-    "Screen_Shots/readnotify.png",
-    "Screen_Shots/Screenshot 2024-02-24 015349.png",
     "Screen_Shots",
     "EJPTv2",
     "Ebrahim_hegazy",
