@@ -18,6 +18,14 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f5c5a4fca135345",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -146,11 +154,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a1263ed760cef5",
+  "active": "23c632266411f243",
   "lastOpenFiles": [
+    "CATReloaded/LV0/Networks/Basic Network Categories.md",
+    "EJPTv2/NMAP.md",
     "EJPTv2/1.2.8_LAB4.md",
     "Screen_Shots/Pasted image 20240704131511.png",
-    "EJPTv2/NMAP.md",
     "EJPTv2/1.1.5_ReconLAB.md",
     "EJPTv2/1.2.5_LAB1.md",
     "EJPTv2/1.2.7_LAB3.md",

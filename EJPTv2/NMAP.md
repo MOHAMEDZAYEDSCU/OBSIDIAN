@@ -72,6 +72,10 @@
 	- `nmap [IP] -p 1-200 -sU`
 		- will scan for the first 200 port that work as UDP.
 ---
+- ==You can show alot of information with :==
+	- `-A` in the end of the command 
+	- very useful to know alot of information about any ports for the IP
+---
 ***
 
 >[!Caution]- Cheat sheet :
