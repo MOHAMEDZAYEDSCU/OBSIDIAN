@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJPTv2/1.4.3_LAB1.md",
-                "mode": "source",
+                "file": "Graduation_Project/OTA.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPTv2/1.4.3_LAB1.md",
+                "file": "Graduation_Project/OTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPTv2/1.4.3_LAB1.md",
+                "file": "Graduation_Project/OTA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJPTv2/1.4.3_LAB1.md"
+                "file": "Graduation_Project/OTA.md"
               }
             }
           }
@@ -148,23 +148,23 @@
   },
   "active": "63337faf5ce8d878",
   "lastOpenFiles": [
+    "Graduation_Project/Pasted image 20240703131403.png",
+    "Graduation_Project/OTA.md",
+    "Graduation_Project/Pasted image 20240703115653.png",
+    "EJPTv2/1.4.3_LAB1.md",
     "Screen_Shots/Pasted image 20240706143317.png",
     "Screen_Shots/Pasted image 20240706143034.png",
     "Screen_Shots/Pasted image 20240706142839.png",
     "Screen_Shots/Pasted image 20240706142232.png",
     "Screen_Shots/Pasted image 20240706141712.png",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
-    "EJPTv2/1.4.3_LAB1.md",
     "EJPTv2/1.4.2_Continue.md",
     "Screen_Shots/Pasted image 20240706135824.png",
     "EJPTv2/1.4.1_VulnerabilityAssessment.md",
     "EJPTv2/1.3.5_LAB3.md",
     "Screen_Shots/Pasted image 20240706125706.png",
     "Screen_Shots/Pasted image 20240706125627.png",
-    "Screen_Shots/Pasted image 20240706125240.png",
-    "Screen_Shots/Pasted image 20240706124834.png",
     "EJPTv2/1.3.4_LAB2.md",
-    "Screen_Shots/Pasted image 20240705204353.png",
     "EJPTv2/1.3.3_Win_Recon_LAB1.md",
     "EJPTv2/1.3.2_Continue.md",
     "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
@@ -177,7 +177,6 @@
     "EJPTv2/1.2.5_LAB1.md",
     "EJPTv2/1.2.7_LAB3.md",
     "EJPTv2/1.2.6_LAB2.md",
-    "Graduation_Project/OTA.md",
     "README.md",
     "EJPTv2/1.2.4_Continue.md",
     "EJPTv2/1.2.3_Continue.md",

@@ -7,7 +7,6 @@
 >----
 >- السوفتوير بيتنقل بايت ب بايت وبيبقي عبارة عن ال exe file 
 >---
->- ![[Pasted image 20240703115653.png]]
 >---
 >>[!todo]- It has 3 challenges :
 >>>[!caution]- Memory :
