@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graduation_Project/OTA.md",
-                "mode": "preview",
+                "file": "EJPTv2/1.4.2_Continue.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graduation_Project/OTA.md",
+                "file": "EJPTv2/1.4.2_Continue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graduation_Project/OTA.md",
+                "file": "EJPTv2/1.4.2_Continue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graduation_Project/OTA.md"
+                "file": "EJPTv2/1.4.2_Continue.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "63337faf5ce8d878",
   "lastOpenFiles": [
-    "Graduation_Project/Pasted image 20240703131403.png",
     "Graduation_Project/OTA.md",
+    "Graduation_Project/Pasted image 20240703131403.png",
     "Graduation_Project/Pasted image 20240703115653.png",
     "EJPTv2/1.4.3_LAB1.md",
     "Screen_Shots/Pasted image 20240706143317.png",
