@@ -60,4 +60,14 @@
 >- try another one ??
 >	- for exp :
 >	- Ftp has 20 types of exploits, so if one failed , just try another.
->- 
+>- each payload has a specific characteristics
+>	- one for os shell
+>	- another for meterpreter shell
+>		- very dangerous
+>		- used for controlling the target machine
+>		- open camera, microphone or downloading files ..
+>- you can make your own payload and send it.
+>- need to understand the ascii code, reverse engineering and of course the programming language used.
+>	- you should watch people do that to understand the concept and how to design your malware to perform a specific task.
+
+

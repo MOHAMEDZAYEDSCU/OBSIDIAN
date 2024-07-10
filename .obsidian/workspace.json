@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MetaSploit.md",
+                "file": "EJPTv2/MetaSploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MetaSploit.md",
+                "file": "EJPTv2/MetaSploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MetaSploit.md",
+                "file": "EJPTv2/MetaSploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MetaSploit.md"
+                "file": "EJPTv2/MetaSploit.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "d0c0cfe5c1d0181d",
   "lastOpenFiles": [
     "EJPTv2/MetaSploit.md",
-    "MetaSploit.md",
+    "EJPTv2/MetaSploit.md",
     "EJPTv2/1.4.4_LAB1.md",
     "EJPTv2/1.4.4_Con.md",
     "EJPTv2/1.4.2_Continue.md",
