@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.1.2_LAB1.md",
+                "file": "EJPTv2/2.1.2_LAB1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.1.2_LAB1.md",
+                "file": "EJPTv2/2.1.2_LAB1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.1.2_LAB1.md",
+                "file": "EJPTv2/2.1.2_LAB1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.1.2_LAB1.md"
+                "file": "EJPTv2/2.1.2_LAB1.md"
               }
             }
           }
@@ -162,7 +162,7 @@
   "active": "53994c68928a8481",
   "lastOpenFiles": [
     "EJPTv2/2.1.1_Auditing.md",
-    "2.1.2_LAB1.md",
+    "EJPTv2/2.1.2_LAB1.md",
     "Screen_Shots/Pasted image 20240710182415.png",
     "Screen_Shots/Pasted image 20240710182136.png",
     "EJPTv2/1.4.1_VulnerabilityAssessment.md",
