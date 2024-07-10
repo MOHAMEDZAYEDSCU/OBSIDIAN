@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJPTv2/1.4.4_Con.md",
+                "file": "EJPTv2/1.4.4_LAB1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0c0cfe5c1d0181d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MetaSploit.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPTv2/1.4.4_Con.md",
+                "file": "MetaSploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPTv2/1.4.4_Con.md",
+                "file": "MetaSploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJPTv2/1.4.4_Con.md"
+                "file": "MetaSploit.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46ed22ad633a6c71",
+  "active": "d0c0cfe5c1d0181d",
   "lastOpenFiles": [
-    "EJPTv2/1.4.3_LAB1.md",
+    "EJPTv2/1.4.4_LAB1.md",
+    "MetaSploit.md",
     "EJPTv2/1.4.4_Con.md",
     "EJPTv2/1.4.2_Continue.md",
     "Graduation_Project/OTA.md",
@@ -184,7 +198,6 @@
     "EJPTv2/1.2.2_Continue.md",
     "Untitled",
     "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
-    "CATReloaded/LV0/Networks/OSI Layers/OSI Model.md",
     "Graduation_Project",
     "Obsidian_Knowledge",
     "Screen_Shots",
