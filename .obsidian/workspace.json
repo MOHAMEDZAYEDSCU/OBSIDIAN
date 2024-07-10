@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0c0cfe5c1d0181d",
+            "id": "bad5954d70f787b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJPTv2/MetaSploit.md",
+                "file": "EJPTv2/2.1.1_Auditing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPTv2/MetaSploit.md",
+                "file": "EJPTv2/2.1.1_Auditing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPTv2/MetaSploit.md",
+                "file": "EJPTv2/2.1.1_Auditing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJPTv2/MetaSploit.md"
+                "file": "EJPTv2/2.1.1_Auditing.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a1263ed760cef5",
+  "active": "bad5954d70f787b0",
   "lastOpenFiles": [
+    "Screen_Shots/Pasted image 20240710182136.png",
+    "EJPTv2/1.4.1_VulnerabilityAssessment.md",
+    "EJPTv2/2.1.1_Auditing.md",
     "EJPTv2/MetaSploit.md",
     "EJPTv2/MetaSploit.md",
     "EJPTv2/1.4.4_LAB1.md",
@@ -163,7 +166,6 @@
     "Screen_Shots/Pasted image 20240706141712.png",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
     "Screen_Shots/Pasted image 20240706135824.png",
-    "EJPTv2/1.4.1_VulnerabilityAssessment.md",
     "EJPTv2/1.3.5_LAB3.md",
     "Screen_Shots/Pasted image 20240706125706.png",
     "Screen_Shots/Pasted image 20240706125627.png",
@@ -182,9 +184,7 @@
     "README.md",
     "EJPTv2/1.2.4_Continue.md",
     "EJPTv2/1.2.3_Continue.md",
-    "EJPTv2/1.2.2_Continue.md",
     "Untitled",
-    "CATReloaded/LV0/Networks/OSI Layers/4- Transport Layer.md",
     "Graduation_Project",
     "Obsidian_Knowledge",
     "Screen_Shots",
