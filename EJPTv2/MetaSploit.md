@@ -70,4 +70,3 @@
 >- need to understand the ascii code, reverse engineering and of course the programming language used.
 >	- you should watch people do that to understand the concept and how to design your malware to perform a specific task.
 
-
