@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8819bfe8aa16532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EJPTv2/3.1.1_Exploitation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6e6c0f3842b4666c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5befd5d2ef57442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EJPTv2/1.3.3_LAB2_webdav_Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
+                "file": "EJPTv2/1.3.3_LAB2_webdav_Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
+                "file": "EJPTv2/1.3.3_LAB2_webdav_Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md"
+                "file": "EJPTv2/1.3.3_LAB2_webdav_Metasploit.md"
               }
             }
           }
@@ -159,12 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e7a1263ed760cef5",
+  "active": "c5befd5d2ef57442",
   "lastOpenFiles": [
+    "Screen_Shots/Pasted image 20240712210742.png",
+    "Screen_Shots/Pasted image 20240712210648.png",
+    "Screen_Shots/Pasted image 20240712210058.png",
+    "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
+    "EJPTv2/1.3.3_LAB2_webdav_Metasploit.md",
     "Screen_Shots/Pasted image 20240712202211.png",
     "Screen_Shots/Pasted image 20240712201243.png",
     "EJPTv2/3.1.1_Exploitation.md",
-    "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
     "EJPTv2/2.1.2_LAB1.md",
     "EJPTv2/MetaSploit.md",
     "EJPTv2/NMAP.md",
@@ -180,9 +184,6 @@
     "Graduation_Project/Pasted image 20240703115653.png",
     "Screen_Shots/Pasted image 20240706143317.png",
     "Screen_Shots/Pasted image 20240706143034.png",
-    "Screen_Shots/Pasted image 20240706142839.png",
-    "Screen_Shots/Pasted image 20240706142232.png",
-    "Screen_Shots/Pasted image 20240706141712.png",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
     "EJPTv2/1.3.5_LAB3.md",
     "EJPTv2/1.3.4_LAB2.md",
@@ -196,7 +197,6 @@
     "EJPTv2/1.2.5_LAB1.md",
     "EJPTv2/1.2.7_LAB3.md",
     "EJPTv2/1.2.6_LAB2.md",
-    "README.md",
     "Untitled",
     "Graduation_Project",
     "Obsidian_Knowledge",
