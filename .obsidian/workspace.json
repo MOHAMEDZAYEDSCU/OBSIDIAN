@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.1.2_LAB1_Win_IIS_WebDav.md",
+                "file": "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.1.2_LAB1_Win_IIS_WebDav.md",
+                "file": "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.1.2_LAB1_Win_IIS_WebDav.md",
+                "file": "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3.1.2_LAB1_Win_IIS_WebDav.md"
+                "file": "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md"
               }
             }
           }
@@ -159,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e6c0f3842b4666c",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
     "Screen_Shots/Pasted image 20240712202211.png",
     "Screen_Shots/Pasted image 20240712201243.png",
     "EJPTv2/3.1.1_Exploitation.md",
-    "3.1.2_LAB1_Win_IIS_WebDav.md",
+    "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
     "EJPTv2/2.1.2_LAB1.md",
     "EJPTv2/MetaSploit.md",
     "EJPTv2/NMAP.md",
