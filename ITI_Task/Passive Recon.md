@@ -1,0 +1,30 @@
+
+
+
+## The Answers :
+
+1- no required Answer
+
+---
+2- ![[Pasted image 20240723155240.png]]
+
+---
+3- ![[Pasted image 20240723160755.png]]
+
+---
+4- ![[Pasted image 20240723161345.png]]
+
+---
+5- ![[Pasted image 20240723161700.png]]
+
+---
+ 6- ![[Pasted image 20240723162728.png]]
+
+---
+7- No answer needed
+
+
+---
+---
+
+- ![[Pasted image 20240723163244.png]]
