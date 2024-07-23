@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITI_Task/Active Recon.md",
+                "file": "ITI_Task/Passive Recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITI_Task/Active Recon.md",
+                "file": "ITI_Task/Passive Recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITI_Task/Active Recon.md",
+                "file": "ITI_Task/Passive Recon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITI_Task/Active Recon.md"
+                "file": "ITI_Task/Passive Recon.md"
               }
             }
           }
@@ -148,16 +148,22 @@
   },
   "active": "643e9c83b2951ffd",
   "lastOpenFiles": [
+    "ITI_Task/Passive Recon.pdf",
     "ITI_Task/Passive Recon.md",
-    "ITI_Task/Pasted image 20240723163244.png",
+    "ITI_Task/Pasted image 20240723171718.png",
+    "ITI_Task/Pasted image 20240723171643.png",
+    "ITI_Task/Active Recon.pdf",
     "ITI_Task/Active Recon.md",
-    "ITI_Task/Pasted image 20240723162728.png",
-    "ITI_Task/Pasted image 20240723161700.png",
-    "ITI_Task/Pasted image 20240723161345.png",
-    "ITI_Task/Pasted image 20240723160755.png",
+    "ITI_Task/Pasted image 20240723171548.png",
+    "ITI_Task/Pasted image 20240723171517.png",
+    "ITI_Task/Pasted image 20240723170833.png",
+    "ITI_Task/Pasted image 20240723170502.png",
+    "ITI_Task/Pasted image 20240723170408.png",
+    "ITI_Task/Pasted image 20240723165411.png",
+    "ITI_Task/Pasted image 20240723164603.png",
+    "ITI_Task/Pasted image 20240723164238.png",
     "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
     "CATReloaded/LV0/Linux/Basic LINUX.md",
-    "ITI_Task/Pasted image 20240723155240.png",
     "ITI_Task",
     "README.md",
     "BugBountyBootcamp/1_Part_1.md",
@@ -170,10 +176,6 @@
     "CATReloaded/LV0/Networks/Basic Network Categories.md",
     "EJPTv2/4.2.4_BurpSuite.md",
     "EJPTv2/4.2.3_HTTP_Verbs.md",
-    "Screen_Shots/Pasted image 20240721153123.png",
-    "Screen_Shots/Pasted image 20240721152827.png",
-    "Screen_Shots/Pasted image 20240721150804.png",
-    "Screen_Shots/Pasted image 20240721150529.png",
     "EJPTv2/4.1.2_Fingerprinting.md",
     "EJPTv2/1.3.1_Enumeration.md",
     "EJPTv2/1.3.2_Continue.md",
@@ -192,7 +194,6 @@
     "Ebrahim_Hegazy",
     "CATReloaded/LV1",
     "CATReloaded/LV0",
-    "CATReloaded",
     "Untitled.canvas"
   ]
 }
