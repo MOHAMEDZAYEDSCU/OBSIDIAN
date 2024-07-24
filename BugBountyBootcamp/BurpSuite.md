@@ -8,7 +8,7 @@
 >>- the tab that we would work with
 >>- `http history` , `intercept` the most important tabs
 >>---
->>- `intercept` -> make you interrupt allow request be sent from your device to watch it and fully analyze it
+>>- `intercept` -> make you interrupt or allow request be sent from your device to watch it and fully analyze it
 >>- `Http history` -> just collect all the requests in a list and let you analyze them but without the need to forward each request, i think it is better
 >>---
 >---

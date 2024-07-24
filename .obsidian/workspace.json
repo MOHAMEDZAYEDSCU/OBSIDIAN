@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITI_Task/Active Recon.md",
+                "file": "BugBountyBootcamp/2_Part2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITI_Task/Active Recon.md",
+                "file": "BugBountyBootcamp/2_Part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITI_Task/Active Recon.md",
+                "file": "BugBountyBootcamp/2_Part2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITI_Task/Active Recon.md"
+                "file": "BugBountyBootcamp/2_Part2.md"
               }
             }
           }
@@ -148,9 +148,22 @@
   },
   "active": "643e9c83b2951ffd",
   "lastOpenFiles": [
+    "www.google.com.md",
+    "BugBountyBootcamp/2_Part2.md",
+    "testing.md",
+    "Maharatech/Ethical Hacking/0xEthical Hacking.md",
+    "Screen_Shots/Pasted image 20240724233753.png",
+    "Screen_Shots/Pasted image 20240724233741.png",
+    "BugBountyBootcamp/0_Introduction....md",
+    "CATReloaded/LV1/HTTP Crash Course.md",
+    "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
+    "CATReloaded/LV1/JavaScript.md",
+    "Screen_Shots/Pasted image 20240724225746.png",
+    "BugBountyBootcamp/1_Part_1.md",
+    "BugBountyBootcamp/BurpSuite.md",
+    "ITI_Task/Active Recon.md",
     "ITI_Task/Pasted image 20240723171643 1.png",
     "ITI_Task/Pasted image 20240723171643.png",
-    "ITI_Task/Active Recon.md",
     "ITI_Task/Passive Recon.md",
     "ITI_Task/Passive Recon.pdf",
     "ITI_Task/Pasted image 20240723171718.png",
@@ -159,17 +172,10 @@
     "ITI_Task/Pasted image 20240723171517.png",
     "ITI_Task/Pasted image 20240723170833.png",
     "ITI_Task/Pasted image 20240723170502.png",
-    "ITI_Task/Pasted image 20240723170408.png",
-    "ITI_Task/Pasted image 20240723165411.png",
-    "ITI_Task/Pasted image 20240723164603.png",
-    "ITI_Task/Pasted image 20240723164238.png",
     "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
     "CATReloaded/LV0/Linux/Basic LINUX.md",
     "ITI_Task",
     "README.md",
-    "BugBountyBootcamp/1_Part_1.md",
-    "BugBountyBootcamp/0_Introduction....md",
-    "BugBountyBootcamp/BurpSuite.md",
     "Maharatech/Ethical Hacking/2_Scanning.md",
     "Maharatech/Ethical Hacking/3_Gaining Access.md",
     "Maharatech/Ethical Hacking/4_Maintaining Access.md",
@@ -181,13 +187,7 @@
     "EJPTv2/1.3.1_Enumeration.md",
     "EJPTv2/1.3.2_Continue.md",
     "EJPTv2/1.3.3_LAB2_webdav_Metasploit.md",
-    "EJPTv2/1.3.3_Win_Recon_LAB1.md",
-    "EJPTv2/4.1.1_intro.md",
-    "EJPTv2/1.1.1.md",
-    "EJPTv2/1.1.2_Recon&Footprinting.md",
-    "EJPTv2/3.3.1_MSF.md",
     "BugBountyBootcamp",
-    "EJPTv2/3.1.2_LAB1_Win_IIS_WebDav.md",
     "Graduation_Project",
     "Obsidian_Knowledge",
     "Screen_Shots",

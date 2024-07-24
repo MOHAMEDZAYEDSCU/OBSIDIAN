@@ -31,15 +31,16 @@
 >>- used to retrieve data from website.
 >>
 >>>[!example]
->>>- GET -> pass the variable in URL.
->>>- Post -> pass the variable in HTTP.
+>>>- GET -> Ask for data from the web server
+>>>- Post -> Send data to the webserver.
 >>>	- more secure than GET.
 >>>	- submit the data to the server, not retrieve them
 >
 >>[!caution]- Status code:
 >>- 200: success.
 >>- 300: redirect.
->>- 400: not found.
+>>- 400: not found, client errors
+>>- 500: server errors
 
 >[!danger]- Cookies:
 >- the information send to the http header to make the website remembering you.

@@ -3,7 +3,6 @@
 
 >[!danger]- HTTPv2:
 >- ![[Http2.png]]
-]
 
 ---
 ### Requests And Responses:
