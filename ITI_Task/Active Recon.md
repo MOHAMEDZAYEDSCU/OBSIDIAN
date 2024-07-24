@@ -4,8 +4,8 @@
 
 ## The Answers :
 
-1.
-	-  ![[Pasted image 20240723171517.png]]
+1. ![[Pasted image 20240723171718.png]]
+
 
 ---
 2. ![[Pasted image 20240723164238.png]]
@@ -25,5 +25,4 @@
 
 
 ---
-7.
-- ![[Pasted image 20240723171548.png]]
+7. ![[Pasted image 20240723171718.png]]

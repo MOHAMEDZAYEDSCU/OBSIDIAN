@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITI_Task/Passive Recon.md",
+                "file": "ITI_Task/Active Recon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITI_Task/Passive Recon.md",
+                "file": "ITI_Task/Active Recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITI_Task/Passive Recon.md",
+                "file": "ITI_Task/Active Recon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITI_Task/Passive Recon.md"
+                "file": "ITI_Task/Active Recon.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "643e9c83b2951ffd",
   "lastOpenFiles": [
-    "ITI_Task/Passive Recon.pdf",
-    "ITI_Task/Passive Recon.md",
-    "ITI_Task/Pasted image 20240723171718.png",
+    "ITI_Task/Pasted image 20240723171643 1.png",
     "ITI_Task/Pasted image 20240723171643.png",
-    "ITI_Task/Active Recon.pdf",
     "ITI_Task/Active Recon.md",
+    "ITI_Task/Passive Recon.md",
+    "ITI_Task/Passive Recon.pdf",
+    "ITI_Task/Pasted image 20240723171718.png",
+    "ITI_Task/Active Recon.pdf",
     "ITI_Task/Pasted image 20240723171548.png",
     "ITI_Task/Pasted image 20240723171517.png",
     "ITI_Task/Pasted image 20240723170833.png",
@@ -193,7 +194,6 @@
     "EJPTv2",
     "Ebrahim_Hegazy",
     "CATReloaded/LV1",
-    "CATReloaded/LV0",
     "Untitled.canvas"
   ]
 }
