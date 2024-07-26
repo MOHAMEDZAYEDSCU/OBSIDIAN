@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BugBountyBootcamp/2_Part2.md",
+                "file": "BugBountyBootcamp/BurpSuite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BugBountyBootcamp/2_Part2.md",
+                "file": "BugBountyBootcamp/BurpSuite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BugBountyBootcamp/2_Part2.md",
+                "file": "BugBountyBootcamp/BurpSuite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BugBountyBootcamp/2_Part2.md"
+                "file": "BugBountyBootcamp/BurpSuite.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "643e9c83b2951ffd",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
-    "www.google.com.md",
+    "Screen_Shots/Pasted image 20240726073321.png",
+    "Pasted image 20240726073304.png",
+    "Screen_Shots/Pasted image 20240726073014.png",
     "BugBountyBootcamp/2_Part2.md",
+    "www.google.com.md",
     "testing.md",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
     "Screen_Shots/Pasted image 20240724233753.png",
@@ -170,8 +173,6 @@
     "ITI_Task/Active Recon.pdf",
     "ITI_Task/Pasted image 20240723171548.png",
     "ITI_Task/Pasted image 20240723171517.png",
-    "ITI_Task/Pasted image 20240723170833.png",
-    "ITI_Task/Pasted image 20240723170502.png",
     "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
     "CATReloaded/LV0/Linux/Basic LINUX.md",
     "ITI_Task",
@@ -186,7 +187,6 @@
     "EJPTv2/4.1.2_Fingerprinting.md",
     "EJPTv2/1.3.1_Enumeration.md",
     "EJPTv2/1.3.2_Continue.md",
-    "EJPTv2/1.3.3_LAB2_webdav_Metasploit.md",
     "BugBountyBootcamp",
     "Graduation_Project",
     "Obsidian_Knowledge",

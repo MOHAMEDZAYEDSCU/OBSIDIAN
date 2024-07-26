@@ -3,6 +3,7 @@
 >- a powerful tool allow you to watch and modify all requests that are sent from your devices to a website
 >- the whole work would be with `proxy` tab
 >	- it is non professional version ...
+>- ![[Pasted image 20240726073321.png]]
 >---
 >>[!caution]- Proxy tab :
 >>- the tab that we would work with
@@ -14,5 +15,4 @@
 >---
 >- from `http history` :
 >	- you can choose **the request you have a doubt of it** and send it to `Repeater` to modify the request and analyze the response..
-
 
