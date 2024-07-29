@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09e0983cec6f49b0",
+            "id": "1c0cfed8a243f4d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITI_BurpTasks/Accessing files/Accessing files.md",
+                "file": "BugBountyBootcamp/2_Part2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITI_BurpTasks/Accessing files/Accessing files.md",
+                "file": "BugBountyBootcamp/2_Part2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITI_BurpTasks/Accessing files/Accessing files.md",
+                "file": "BugBountyBootcamp/2_Part2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITI_BurpTasks/Accessing files/Accessing files.md"
+                "file": "BugBountyBootcamp/2_Part2.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09e0983cec6f49b0",
+  "active": "1c0cfed8a243f4d7",
   "lastOpenFiles": [
+    "Vulnerabilities/XSS.md",
+    "BugBountyBootcamp/2_Part2.md",
+    "Untitled.md",
+    "ITI_BurpTasks/Accessing files/Accessing files.md",
     "ITI_BurpTasks/XSS/XSS_LABs.md",
     "ITI_BurpTasks/XSS/Pasted image 20240727175542.png",
-    "ITI_BurpTasks/Accessing files/Accessing files.md",
     "ITI_BurpTasks/Accessing files",
     "ITI_BurpTasks/XSS/Pasted image 20240727175154.png",
     "ITI_BurpTasks/XSS/Pasted image 20240727175038.png",
@@ -162,13 +165,11 @@
     "ITI_BurpTasks/SQL/Pasted image 20240727150008.png",
     "ITI_BurpTasks/SQL/Pasted image 20240727145531.png",
     "ITI_BurpTasks/SQL/Pasted image 20240727144259.png",
-    "Vulnerabilities/XSS.md",
     "ITI_BurpTasks",
     "Screen_Shots/Pasted image 20240726172415.png",
     "Screen_Shots/Pasted image 20240726172059.png",
     "BugBountyBootcamp/BurpSuite.md",
     "Vulnerabilities",
-    "BugBountyBootcamp/2_Part2.md",
     "www.google.com.md",
     "testing.md",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",

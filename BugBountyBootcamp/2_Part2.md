@@ -15,6 +15,7 @@
 - Http request and response
 - sessions and cookies
 
+---
 ### Token-Based Authentication:
 - system stores this info directly in a token instead of a server-side
 - it use encryption or encoding to protect the token from forgery
@@ -29,5 +30,17 @@
 		- payload -> contain the user credentials
 		- header -> identify the algorithm used to generate the signature
 
-- ![[0xEthical Hacking#Info Sec|CIA Meaning]]
-- 
+----
+
+>[!caution]- CIA Meaning
+> ![[0xEthical Hacking#Info Sec|CIA Meaning]]
+
+----
+
+>[!caution]- Final note on taking notes :
+>- Organize your notes of the target because it may have very large scopes
+>- you can spot a weird behaviors taht aren't exploitable ??
+>	- you'll need to combine with other behavior in an attack later to make the vulnerability
+>- always take a good notes about any new features, minor bugs ans suspicious endpoints that you find
+>- Make a progress file of your hacking progress
+>	- it will have the exploitable features, and sub-domain scanned
