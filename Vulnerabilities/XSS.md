@@ -55,12 +55,32 @@
 >>>- ![[Pasted image 20240726102037.png]]
 >---
 >>[!caution]- DOM XSS :
+>>- difficult for beginner and intermidiate, just for advanced with JS
+>>
 >>>[!danger] Description :
 >>>- The vulnerability exists in the client-side code rather than the server-side code. The attack is executed within the Document Object Model (DOM) of the web page.
+>>---
+>>>[!caution]- What to look for ?
+>>>- ![[Pasted image 20240726172415.png]]
 >>---
 >>>[!caution]- How it work ?
 >>>- The attacker manipulates the DOM environment in the victim’s browser, causing the browser to execute malicious scripts. This often involves insecure JavaScript handling client-side inputs.
 >>---
 >>>[!caution]- Example :
 >>>- An attacker manipulates the fragment identifier in the URL (e.g., `example.com/page#<script>...`). The ***client-side*** script processes this input insecurely, leading to execution of the malicious script.
->>>- 
+
+----
+
+>[!caution]- Method of searching for it :
+>- start slow with the injection ...
+>	- ![[Pasted image 20240726172059.png]]
+>- keep a list of common payloads.
+>- use burp intruder.
+>----
+>- Jackmasa's XSS Mind map
+>	- a perfect mind map for xss payloads.
+
+---
+
+>[!caution]- Practice on portswagger and learn JS
+
