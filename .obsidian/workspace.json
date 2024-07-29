@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BugBountyBootcamp/3_PART_3.md",
+                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BugBountyBootcamp/3_PART_3.md",
+                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BugBountyBootcamp/3_PART_3.md",
+                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BugBountyBootcamp/3_PART_3.md"
+                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b365a42667932b66",
+  "active": "e7a1263ed760cef5",
   "lastOpenFiles": [
-    "BugBountyBootcamp/2_Part2.md",
     "BugBountyBootcamp/3_PART_3.md",
+    "BugBountyBootcamp/0_Introduction....md",
+    "Maharatech/Ethical Hacking/1_Reconnaissance.md",
+    "BugBountyBootcamp/2_Part2.md",
     "BugBountyBootcamp/BurpSuite.md",
     "Vulnerabilities/XSS.md",
     "Tryhackme/PT_Methodology.md",
@@ -184,11 +186,9 @@
     "www.google.com.md",
     "testing.md",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
-    "BugBountyBootcamp/0_Introduction....md",
     "CATReloaded/LV0/Networks/OSI Layers/1- Application Layer.md",
     "BugBountyBootcamp/1_Part_1.md",
     "ITI_Task/Active Recon.md",
-    "ITI_Task/Passive Recon.md",
     "ITI_Task/Passive Recon.pdf",
     "ITI_Task/Active Recon.pdf",
     "ITI_Task",

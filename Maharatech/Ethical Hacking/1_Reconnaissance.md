@@ -43,6 +43,10 @@
 >[!tip]- inurl:" "  site:"  "
 >- you combine them for best results.
 
+>[!todo]- ext:{txt, php, js, ....} {file name}
+>- for extension of a file
+>- then put the file name ...
+
 ---
 
 >[!bug]- Google hacking db:
