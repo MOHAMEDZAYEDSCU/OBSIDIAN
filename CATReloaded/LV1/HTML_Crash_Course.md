@@ -170,7 +170,7 @@
 ---
 #### Forms :
 - interacting with the data.
-- GET, POST, DELETE and UPDATE(was a command with 3 char !!!) used here.
+- GET, POST, DELETE and PUT used here.
 - the important part for the security features.
  ----
 <br>

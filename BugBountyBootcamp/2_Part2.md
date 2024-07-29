@@ -44,3 +44,5 @@
 >- always take a good notes about any new features, minor bugs ans suspicious endpoints that you find
 >- Make a progress file of your hacking progress
 >	- it will have the exploitable features, and sub-domain scanned
+>- 
+
