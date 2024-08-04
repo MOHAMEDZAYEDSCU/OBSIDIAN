@@ -13,4 +13,5 @@
 >	- like if i found an xss in the login page, what i can get from it like password or account name or what else ??
 >	- then determine your methodology to achieve that, (draw the road)
 >----
->- 
+
+

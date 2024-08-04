@@ -76,11 +76,12 @@
 >	- ![[Pasted image 20240726172059.png]]
 >- keep a list of common payloads.
 >- use burp intruder.
+>- or in browser inspector and if it gave an error, now you know there is a vulnerability
 >----
 >- Jackmasa's XSS Mind map
 >	- a perfect mind map for xss payloads.
 
 ---
 
->[!caution]- Practice on portswagger and learn JS
+>[!bug]- Practice on portswagger and learn JS
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
+                "file": "Vulnerabilities/XSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
+                "file": "Vulnerabilities/XSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
+                "file": "Vulnerabilities/XSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md"
+                "file": "Vulnerabilities/XSS.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "7c67969c72680db0",
   "lastOpenFiles": [
-    "Vulnerabilities/XSS.md",
     "Vulnerabilities/XSS_PortSwaggerLabs.md",
+    "Vulnerabilities/XSS.md",
     "Vulnerabilities/SQLi.md",
     "Screen_Shots/Pasted image 20240731161203.png",
     "EJPTv2/4.1.1_intro.md",
