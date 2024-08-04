@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c05371a29a64b96",
+            "id": "7c67969c72680db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities/SQLi.md",
+                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities/SQLi.md",
+                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities/SQLi.md",
+                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities/SQLi.md"
+                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md"
               }
             }
           }
@@ -146,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c05371a29a64b96",
+  "active": "7c67969c72680db0",
   "lastOpenFiles": [
+    "Vulnerabilities/XSS.md",
+    "Vulnerabilities/XSS_PortSwaggerLabs.md",
+    "Vulnerabilities/SQLi.md",
     "Screen_Shots/Pasted image 20240731161203.png",
     "EJPTv2/4.1.1_intro.md",
     "BugBountyBootcamp/0_Introduction....md",
-    "Vulnerabilities/SQLi.md",
     "BugBountyBootcamp/3_PART_3.md",
     "EJPTv2/1.1.1.md",
-    "Vulnerabilities/XSS.md",
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
     "BugBountyBootcamp/2_Part2.md",
     "BugBountyBootcamp/BurpSuite.md",
@@ -184,7 +185,6 @@
     "ITI_BurpTasks/SQL/Pasted image 20240727144259.png",
     "ITI_BurpTasks",
     "Screen_Shots/Pasted image 20240726172415.png",
-    "Screen_Shots/Pasted image 20240726172059.png",
     "Vulnerabilities",
     "www.google.com.md",
     "testing.md",
