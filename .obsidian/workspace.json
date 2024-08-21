@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vulnerabilities/XSS.md",
+                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
+                "query": "inurl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vulnerabilities/XSS.md",
+                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vulnerabilities/XSS.md",
+                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vulnerabilities/XSS.md"
+                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "7c67969c72680db0",
   "lastOpenFiles": [
-    "Vulnerabilities/XSS_PortSwaggerLabs.md",
+    "BugBountyBootcamp/3_PART_3.md",
+    "BugBountyBootcamp/2_Part2.md",
+    "BugBountyBootcamp/1_Part_1.md",
+    "BugBountyBootcamp/0_Introduction....md",
     "Vulnerabilities/XSS.md",
+    "Vulnerabilities/XSS_PortSwaggerLabs.md",
     "Vulnerabilities/SQLi.md",
     "Screen_Shots/Pasted image 20240731161203.png",
     "EJPTv2/4.1.1_intro.md",
-    "BugBountyBootcamp/0_Introduction....md",
-    "BugBountyBootcamp/3_PART_3.md",
     "EJPTv2/1.1.1.md",
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
-    "BugBountyBootcamp/2_Part2.md",
     "BugBountyBootcamp/BurpSuite.md",
     "Tryhackme/PT_Methodology.md",
     "Tryhackme/Web Application Security THM.md",
@@ -188,7 +189,6 @@
     "Vulnerabilities",
     "www.google.com.md",
     "testing.md",
-    "Maharatech/Ethical Hacking/0xEthical Hacking.md",
     "ITI_Task/Passive Recon.pdf",
     "ITI_Task/Active Recon.pdf",
     "ITI_Task",
