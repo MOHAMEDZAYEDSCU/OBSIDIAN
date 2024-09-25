@@ -9,7 +9,7 @@
 
 > [!todo]
 
->[!bug]
+>[!bug] 
 
 >[!success]
 

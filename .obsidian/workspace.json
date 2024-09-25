@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "inurl",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 245.5
   },
   "right": {
     "id": "20b75551c8e7266c",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maharatech/Ethical Hacking/1_Reconnaissance.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,49 +148,49 @@
   },
   "active": "7c67969c72680db0",
   "lastOpenFiles": [
-    "BugBountyBootcamp/3_PART_3.md",
-    "BugBountyBootcamp/2_Part2.md",
-    "BugBountyBootcamp/1_Part_1.md",
-    "BugBountyBootcamp/0_Introduction....md",
-    "Vulnerabilities/XSS.md",
-    "Vulnerabilities/XSS_PortSwaggerLabs.md",
-    "Vulnerabilities/SQLi.md",
-    "Screen_Shots/Pasted image 20240731161203.png",
-    "EJPTv2/4.1.1_intro.md",
-    "EJPTv2/1.1.1.md",
+    "EJPTv2/NMAP.md",
+    "EJPTv2/MetaSploit.md",
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
-    "BugBountyBootcamp/BurpSuite.md",
-    "Tryhackme/PT_Methodology.md",
-    "Tryhackme/Web Application Security THM.md",
-    "EJPTv2/1.1.5_ReconLAB.md",
-    "EJPTv2/1.1.4_Continue.md",
-    "EJPTv2/1.1.3_Continue.md",
+    "Maharatech/Python.md",
+    "Maharatech/Ethical Hacking/4_Maintaining Access.md",
+    "Maharatech/Ethical Hacking/3_Gaining Access.md",
+    "Maharatech/Ethical Hacking/2.1_Enumeration.md",
+    "Maharatech/Ethical Hacking/2_Scanning.md",
+    "Maharatech/Ethical Hacking/0xEthical Hacking.md",
     "EJPTv2/1.1.2_Recon&Footprinting.md",
-    "CATReloaded/LV1/JavaScript.md",
-    "CATReloaded/LV1/HTTP Crash Course.md",
-    "CATReloaded/LV1/HTML_Crash_Course.md",
-    "CATReloaded/LV1/Git&Github.md",
+    "README.md",
+    "Vulnerabilities/XSS_PortSwaggerLabs.md",
+    "mo.txt.md",
+    "Vulnerabilities/XSS.md",
+    "Vulnerabilities/SQLi.md",
+    "ITI_BurpTasks/SQL/SQL_Injection.md",
     "ITI_BurpTasks/Accessing files/Accessing files.md",
-    "ITI_BurpTasks/XSS/XSS_LABs.md",
+    "ITI_Task/Active Recon.pdf",
+    "Graduation_Project/OTA.md",
+    "Graduation_Project/Pasted image 20240703131403.png",
+    "BugBountyBootcamp/BurpSuite.md",
+    "BugBountyBootcamp/0_Introduction....md",
+    "CATReloaded/LV1/Git&Github.md",
+    "CATReloaded/LV0/Networks/Terminologies of Computer Science.md",
+    "CATReloaded/LV0/Networks/OSI Layers/OSI Model.md",
+    "CATReloaded/LV0/Networks/OSI Layers/7- Physical Layer.md",
+    "CATReloaded/LV0/Networks/OSI Layers/6- Data-Link Layer.md",
+    "CATReloaded/LV0/Networks/OSI Layers/5- Network Layer.md",
+    "ITI_Task/Pasted image 20240723160755.png",
+    "ITI_Task/Pasted image 20240723161700.png",
+    "Screen_Shots/Pasted image 20240731161203.png",
     "ITI_BurpTasks/XSS/Pasted image 20240727175542.png",
     "ITI_BurpTasks/Accessing files",
     "ITI_BurpTasks/XSS/Pasted image 20240727175154.png",
     "ITI_BurpTasks/XSS/Pasted image 20240727175038.png",
     "ITI_BurpTasks/XSS/Pasted image 20240727174225.png",
-    "ITI_BurpTasks/SQL/SQL_Injection.md",
     "ITI_BurpTasks/XSS",
     "ITI_BurpTasks/SQL",
     "ITI_BurpTasks/SQL/Pasted image 20240727150102.png",
     "ITI_BurpTasks/SQL/Pasted image 20240727150008.png",
-    "ITI_BurpTasks/SQL/Pasted image 20240727145531.png",
-    "ITI_BurpTasks/SQL/Pasted image 20240727144259.png",
     "ITI_BurpTasks",
-    "Screen_Shots/Pasted image 20240726172415.png",
     "Vulnerabilities",
-    "www.google.com.md",
-    "testing.md",
     "ITI_Task/Passive Recon.pdf",
-    "ITI_Task/Active Recon.pdf",
     "ITI_Task",
     "BugBountyBootcamp",
     "Graduation_Project",
