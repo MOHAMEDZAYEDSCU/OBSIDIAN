@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Vulnerabilities/XSS_PortSwaggerLabs.md"
               }
             }
           }
@@ -148,6 +148,20 @@
   },
   "active": "7c67969c72680db0",
   "lastOpenFiles": [
+    "README.md",
+    "Vulnerabilities/XSS.md",
+    "Vulnerabilities/XSS_PortSwaggerLabs.md",
+    "CATReloaded/LV1/Git&Github.md",
+    "CATReloaded/LV1/HTTP Crash Course.md",
+    "CATReloaded/LV1/HTML_Crash_Course.md",
+    "Vulnerabilities/SQLi.md",
+    "ITI_BurpTasks/SQL/SQL_Injection.md",
+    "EJPTv2/1.2.4_Continue.md",
+    "EJPTv2/1.2.5_LAB1.md",
+    "EJPTv2/1.2.3_Continue.md",
+    "EJPTv2/1.2.1_Scanning.md",
+    "CATReloaded/LV0/Linux/Basic LINUX.md",
+    "CATReloaded/LV0/Linux/Advanced Kali LINUX.md",
     "EJPTv2/NMAP.md",
     "EJPTv2/MetaSploit.md",
     "Maharatech/Ethical Hacking/1_Reconnaissance.md",
@@ -158,24 +172,10 @@
     "Maharatech/Ethical Hacking/2_Scanning.md",
     "Maharatech/Ethical Hacking/0xEthical Hacking.md",
     "EJPTv2/1.1.2_Recon&Footprinting.md",
-    "README.md",
-    "Vulnerabilities/XSS_PortSwaggerLabs.md",
     "mo.txt.md",
-    "Vulnerabilities/XSS.md",
-    "Vulnerabilities/SQLi.md",
-    "ITI_BurpTasks/SQL/SQL_Injection.md",
     "ITI_BurpTasks/Accessing files/Accessing files.md",
     "ITI_Task/Active Recon.pdf",
-    "Graduation_Project/OTA.md",
     "Graduation_Project/Pasted image 20240703131403.png",
-    "BugBountyBootcamp/BurpSuite.md",
-    "BugBountyBootcamp/0_Introduction....md",
-    "CATReloaded/LV1/Git&Github.md",
-    "CATReloaded/LV0/Networks/Terminologies of Computer Science.md",
-    "CATReloaded/LV0/Networks/OSI Layers/OSI Model.md",
-    "CATReloaded/LV0/Networks/OSI Layers/7- Physical Layer.md",
-    "CATReloaded/LV0/Networks/OSI Layers/6- Data-Link Layer.md",
-    "CATReloaded/LV0/Networks/OSI Layers/5- Network Layer.md",
     "ITI_Task/Pasted image 20240723160755.png",
     "ITI_Task/Pasted image 20240723161700.png",
     "Screen_Shots/Pasted image 20240731161203.png",
